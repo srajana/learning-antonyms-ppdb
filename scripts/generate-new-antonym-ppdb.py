@@ -4,26 +4,36 @@ from nltk.stem.snowball import SnowballStemmer
 from itertools import chain
 from nltk import word_tokenize
 import sys
+import gzip
+import operator
 
-def get_synonyms(word):
+def get_synonyms(word, ppdbfile):
 	synlist = []
-	filename = sys.argv[1]
-	f = open(filename, "r")
-	for line in f.readlines():
-        	text = line.split("|||")
-        	source = text[1].strip()
-        	target = text[2].strip()
-        	if source == word:
-                	synlist.append(target)
-        	if target == word:
-                	synlist.append(source)
-	f.close()
+        with gzip.open(ppdbfile) as f :
+                for line in f :
+                        _, x, y, _ = line.strip().split(' ||| ', 3)
+        		source = x.strip()
+        		target = y.strip()
+        		if source == word:
+                		synlist.append(target)
+        		if target == word:
+                		synlist.append(source)
 	return synlist
 
-f1 = open('../antonyms/wordnet-synonyms-antonyms.txt', 'r') 
-f2 = open('../PPDB-Phrases/phrases-2.0-shorter.txt', 'r')
+def get_ppdb(ppdbfile) :
+        ppdb = set()
+        with gzip.open(ppdbfile) as f :
+                for line in f :
+                        _, x, y, _ = line.strip().split(' ||| ', 3)
+                        pair = (x,y) if x < y else (y,x)
+                        ppdb.add(pair)
+        return ppdb
+
+f1 = open('wordnet-synonyms-antonyms.txt', 'r') 
+f2 = open('phrases-2.0-shorter.txt', 'r')
 #f3 = open('../antonyms/ppdb/new-antonym-list.txt', 'w')
 f3 = open('new-antonym-list-using-ppdb.txt', 'w')
+ppdbfile = '/nlp/data/ellie/ppdb-2.0-xxxl-all.gz'
 
 count1 = 0
 count2 = 0
@@ -65,7 +75,7 @@ for tup in ppdb_phrase_tuple_list:
 		count2+=1
 
 		#Pairs of the form forallx(x, happy) antonym(x,sad)
-                lemmas = get_synonyms(w11[1])
+                lemmas = get_synonyms(w11[1], ppdbfile)
 
 		#Pairs of the form (happy, sad) from (not happy, unhappy) and (unhappy, sad)
 		common = w2
@@ -78,7 +88,7 @@ for tup in ppdb_phrase_tuple_list:
 					count4+=1
 				
 				#Pairs of the form forally(sad, y) antonym(happy,y)
-                		lemma = get_synonyms(t[1])
+                		lemma = get_synonyms(t[1], ppdbfile)
 				for i in lemma:
 					f3.write(w11[1] + "\t" + i + "\n")
 					count4+=1
@@ -91,7 +101,7 @@ for tup in ppdb_phrase_tuple_list:
                                         count4+=1
 
 				#Pairs of the form forally(sad, y) antonym(happy,y)
-                                lemma = get_synonyms(t[0])
+                                lemma = get_synonyms(t[0], ppdbfile)
                                 for i in lemma:
                                         f3.write(w11[1] + "\t" + i + "\n")
                                         count4+=1		
@@ -116,7 +126,7 @@ for tup in ppdb_phrase_tuple_list:
                 count2+=1
 
                 #Pairs of the form forallx(x, happy) antonym(x,sad)
-                lemmas = get_synonyms(w22[1])
+                lemmas = get_synonyms(w22[1], ppdbfile)
 		
 		#Pairs of the form (happy, sad) from (not happy, unhappy) and (unhappy, sad)
                 common = w1
@@ -129,7 +139,7 @@ for tup in ppdb_phrase_tuple_list:
                                         count4+=1
 
 				#Pairs of the form forally(sad, y) antonym(happy,y)
-                                lemma = get_synonyms(t[1])
+                                lemma = get_synonyms(t[1], ppdbfile)
                                 for i in lemma:
                                         f3.write(w22[1] + "\t" + i + "\n")
                                         count4+=1
@@ -142,7 +152,7 @@ for tup in ppdb_phrase_tuple_list:
                                         count4+=1
 
 				#Pairs of the form forally(sad, y) antonym(happy,y)
-                                lemma = get_synonyms(t[0])
+                                lemma = get_synonyms(t[0], ppdbfile)
                                 for i in lemma:
                                         f3.write(w22[1] + "\t" + i + "\n")
                                         count4+=1
