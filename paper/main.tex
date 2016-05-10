@@ -1,0 +1,316 @@
+%
+% File acl2015.tex
+%
+% Contact: car@ir.hit.edu.cn, gdzhou@suda.edu.cn
+%%
+%% Based on the style files for ACL-2014, which were, in turn,
+%% Based on the style files for ACL-2013, which were, in turn,
+%% Based on the style files for ACL-2012, which were, in turn,
+%% based on the style files for ACL-2011, which were, in turn, 
+%% based on the style files for ACL-2010, which were, in turn, 
+%% based on the style files for ACL-IJCNLP-2009, which were, in turn,
+%% based on the style files for EACL-2009 and IJCNLP-2008...
+
+%% Based on the style files for EACL 2006 by 
+%%e.agirre@ehu.es or Sergi.Balari@uab.es
+%% and that of ACL 08 by Joakim Nivre and Noah Smith
+
+\documentclass[11pt]{article}
+\usepackage{acl2015}
+\usepackage{times}
+\usepackage{url}
+\usepackage{latexsym}
+\usepackage{multirow}
+\usepackage{tabularx}
+\usepackage{graphicx}
+
+%\setlength\titlebox{5cm}
+
+% You can expand the titlebox if you need extra space
+% to show all the authors. Please do not make the titlebox
+% smaller than 5cm (the original size); we will check this
+% in the camera-ready version and ask you to change it back.
+
+
+\title{Learning Antonyms using Paraphrase Database}
+
+\author{Sneha Rajana \\
+  University of Pennsylvania\\
+  {\tt srajana@seas.upenn.edu} \\\And
+  Chris Callison-Burch \\
+  University of Pennsylvania\\
+  {\tt ccb@cis.upenn.edu} \\}
+
+\date{}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+Learning antonyms has widespread applications in natural language processing. This study focuses on antonymy detection using the Paraphrase Database (PPDB). We present a new automatic method of generating antonym pairs using paraphrase pairs obtained using PPDB. We describe a method for discovering these word pairs using a subset of PPDB phrases that indicate an antonym relationship between the target word pairs. This study can be extended to assign antonym relations to entries in PPDB. 
+\end{abstract}
+
+\section{Introduction}
+ One of the main tasks of language understanding is the ability to identify expressions that have opposite meanings. Recent research on antonym detection has been focused on pattern-based techniques to derive words occurring in the same sentence that are antonyms of each other. A manually created list of antonyms will have limited coverage and may not include all possible antonyms for a given word in different senses. The study aims to handle lexical ambiguity by considering the issue of polysemy and not making the incorrect assumption of only a single sense per word. For example, the opposite of the word \textbf{hot} is \textbf{cold} in the sentence, \textit{The water was \textbf{hot}}. However, the word \textit{cold} is not always the opposite of \textit{hot} like in the sentence, \textit{This was a \textbf{hot} topic}. Replacing the word hot with cold in this sentence will not give an opposite meaning. So it is important to try and learn antonyms for senses of a word instead of words themselves. WordNet was the resource used to obtain these different senses. WordNet contains synsets or a set of synonyms for each word. 
+ 
+ Paraphrasing is the task of identifying different expressions of the same information. If two phrases have opposite meanings then they cannot be paraphrases of each other. Paraphrase resources have a wide applicability to Natural Language Understanding tasks. Different methods of paraphrasing learn paraphrases that are not only meaning equivalent but also learn contradictory pairs. Multilingual paraphrasing methods (Ganitkevitch et al. 2013) also learn hypernym/hyponym pairs due to variation
+in the discourse structure of translations and unrelated pairs due to to misalignments
+or polysemy in the foreign language (Pavlick et al. 2015). The study began with examining the relationships between phrase pairs in The Paraphrase Database (PPDB), a resource with 169 million paraphrase transformation rules (Ganitkevitch et al. 2013). The phrase pairs in PPDB not only have a mapping between approximately equivalent phrases (thrown into jail/imprisoned) but also represent a variety of relations, including directed entailment (little girl/girl) and exclusion (nobody/someone). This study will focus on paraphrases from PPDB that can help in detecting antonyms and relate them to those obtained in the seed set created using WordNet.
+
+\section{Related Work}
+
+\subsection{Degree of Antonymy}
+Dorr et al. (2008) explored the relationship between what humans consider antonymous and how antonymy manifests itself in utterances. The study talks about 3 degrees of antonymy: strongly antonymous, semantically contrasting and not antonymous. The higher the degree of antonymy between target word pair, the higher the tendency to be considered antonym pairs by native human speakers.
+
+Automatically determining the degree of antonymy between words can be helpful in detecting and generating paraphrases, detecting contradictions, detecting humor (satire and jokes tend to have contradictions and oxymorons) and in finding words which are semantically contrasting to a target word (probably to filter them out). 
+
+Antonymy, Synonymy, Hyponymy etc. are some lexical-semantic relations that apply to two lexical units - A combination of surface form and word sense. The study also explores the paradoxes of antonymy. Why are some pairs better antonyms? (Eg. large-small vs. large-little). Are semantic closeness and antonymy opposites? If two words are associated via synonymy, hyponymy-hypernymy or troponymy relations, they are considered to be semantically close or semantically related. Words that are semantically similar are also semantically related (Eg. plane-glider, doctor-surgeon) but not the other way round (Eg. plane-sky, surgeon-scalpel). Antonymous concepts are semantically related but not semantically similar. The co-occurrence hypothesis states that antonyms occur together in a sentence more often than chance (Charles and Miller 1989). But this is also true for hypernyms, holonyms, meronyms and near-synonyms. Thus, separating antonyms from them has proven to be difficult. Strong co-occurrence is not a sufficient condition for detecting antonyms, but it is useful. The distributional hypothesis of closeness states that words that occur in similar contexts tend to be semantically close.
+
+The paper states that manually-created lexicons have limited coverage and do not include most semantically contrasting word pairs. They presented a new automatic and empirical measure of antonymy that combines corpus statistics with the structure of a published thesaurus. Their approach was as follows. The adjacency heuristic is that adjacent categories in most published thesauri are considered to be contrasting categories. Given a target word pair, the algorithm determined whether they are antonymous or not, and if they are, whether they have a high, medium, or low degree of antonymy. If the target words belong to the same thesaurus paragraphs as any of the seed antonyms linking the two contrasting categories, then the words have a high degree of antonymy. If the target words do not belong to the same thesaurus paragraphs as a seed antonym pair, but occur in contrasting categories, they have a low degree of antonymy if the word-paors have a lower tendency to co-occur and a medium degree of antonymy if the word-pairs have a higher tendency to co-occur. This algorithm when evaluated on a set of closest-opposite questions, obtained a precision
+of over 80\%. 
+
+\subsection{Semantic Taxonomy Induction}
+Snow et al. (2006) proposed a novel algorithm for inducing semantic taxonomies. Previous algorithms for taxonomy induction focused on independent classifiers for discovering single relationships based on hand-constructed or automatically generated textual patterns. Whereas their algorithm incorporates evidence from multiple classifiers over heterogenous relationships to optimize the entire structure of the taxonomy. Though wide variety of relationship-specific classifiers like the pattern-based classifiers have achieved some degree of success, they frequently lack the global knowledge necessary to integrate their predictions into a complex taxonomy with multiple relations. 
+
+The paper mentions that previous algorithms focused only on inferring small taxonomies over a single relation, or has used evidence for multiple relations independently from one another. Another major shortfall was the inability to handle lexical ambiguity as these previous approaches sidestepped the issue of polysemy by making the assumption of only a single sense per word and inferring taxonomies explicitly over words and not senses. The authors’ approach simultaneously provides a solution to the problems of jointly considering evidence about multiple relationships as well as lexical ambiguity within a single probabilistic framework. Within their model, they define the goal of taxonomy induction to be to find the taxonomy that maximizes the conditional probability of their observations given the relationships of the taxonomy. 
+
+They have also extended their model to manage Lexical Ambiguity. If the objects in the taxonomy are word senses, they extended their model to allow for a many-to-many mapping (eg. word-to-sense mapping) between the the sets of objects. They have presented an algorithm for inducing semantic taxonomies which attempts to globally optimize the entire structure of the taxonomy. The model’s ability to integrate heterogeneous evidence from different classifiers offers a solution to the key problem of choosing the correct word sense to which to attach a new relation (hypernym, hyponym, antonym etc).
+
+\subsection{Pattern based techniques}
+Marti A Hearst (1992) described a method for the automatic acquisition of the hyponymy lexical relation from unrestricted text. The motivation behind this approach was based on avoidance of the need for pre-encoded knowledge and applicability across a wide range of text. The study identified a set of lexico-syntactic patterns that are easily recognizable, that occur frequently and across text genre boundaries, and that indisputably indicated the lexical relation of interest. They described a method for discovering these patterns and suggested that other lexical relations will also
+be acquirable in this way. 
+
+Hearst patterns can be used to search for specific lexical relations that are expressed in well-known ways instead of interpreting everything in the text in great detail. Surprisingly useful information can be found with only a very simple understanding of a text.
+
+An example of such a pattern described in this paper is \\
+$such$ $NP$ $as$ $\{NP ,\}*\{(or $$|$$ and)\}$ $NP$ \\
+... works by such authors as Herrick,
+Goldsmith, and Shakespeare. \\
+This implies hyponym("author", "Herrick"), \\
+hyponym("author", "Goldsmith"), \\
+hyponym("author", "Shakespeare") 
+
+Pattern based techniques can also be extended to obtain antonyms from simple text instead of hyponyms. Some of the possible patterns to derive antonyms are as follows: \\
+a) $\textit{NP rather than NP}$\\
+... He was sad rather than happy.\\
+This implies antonym("sad", "happy")\\
+b) $\textit{NP and not \{*\} NP}$\\
+... I play a lot of summer sports and not many winter sports. \\
+This implies antonym("summer", "winter")\\
+c) $\textit{NP \{*\}, but NP \{*\}}$\\
+... She was optimistic about attending college, but pessimistic about paying for it. \\
+This implies antonym("optimistic", "pessimistic")\\
+
+\subsection{Natural logic}
+ The task of textual inference involves automatically determining whether a natural-language hypothesis can be inferred from a given premise. The NatLog system (MacCartney et al., 2007) which popularized natural logic for Rich Textual Entailment (RTE) tasks presented the first use of a computational model of natural logic - a system of logical inference operating over natural language for textual inference. Most current RTE systems achieve robustness by sacrificing semantic precision and those systems that rely on first-order logic and theorem proving are precise but excessively brittle. Their system found a low-cost edit sequence which transformed the premise into the hypothesis and learned to classify entailment relations across atomic edits. This system uses natural language as a representation and performs natural language inference using a structured algebra model.
+ However, important kinds of inference like temporal reasoning, causal reasoning, paraphrasing and relation extraction are not addresses by natural logic.
+
+\subsection{Adding semantics to data-driven paraphrasing}
+ In addition to the equivalence relation between phrase pairs in PPDB, Pavlick et al. (2015) show the existence of other interpretable semantic relations like entailment and exclusion between the phrase pairs and the distribution of these relations in different sizes of PPDB. They also show that some of these pairs have other relations or are unrelated. Automatically assigning semantic entailment relations to entries in PPDB was done with a high accuracy and it was done using features derived from the NatLog system and semantc taxonomy induction. They also developed a statistical model to predict these relations automatically and demonstrated improvements to a proof based RTE system. 
+ 
+ They focused on paraphrase pairs from PPDB that occurred in RTE data and used monolingual and bilingual features for this task. Sentence pairs are labeled using a 3-way entailment classification which includes entailment, contradiction and neutral. They combined the seven basic entailment relations described in the NatLog system (MacCartney et al. 2009) into five classes that were distinguished using a logistic regression classifier and computed a variety of lexical features and WordNet features. 
+ 
+ The monolingual features were based on observed usage in the Annotated Gigaword corpus and included path and distributional features. We attempt to generate similar paths in our experiments (Section 4.4). Path features used lexico-syntactic patterns to mine taxonomic relations and distributional features mine inference rules from text by building dependency context vectors for each word in the data and computing symmetric and asymmetric similarity measures for identifying entailment paraphrases. Bilingual features are based on translational probabilities observed in bilingual parallel corpora. By classifying paraphrase entries with entailment relations, they provide them with an interpretable semantics.
+
+\section {Resources}
+
+\subsection{WordNet}
+WordNet is a large lexical database of English. Nouns, verbs, adjectives and adverbs are grouped into sets of cognitive synonyms (synsets), each expressing a distinct concept. Synsets are interlinked by means of conceptual-semantic and lexical relations. Adjectives are organized in terms of antonymy. WordNet encodes antonymy as a lexical relationship — a relation between two words and not concepts (Gross et al., 1989). WordNet antonym pairs comprise of "direct antonyms" (wet/dry, young/old) and "indirect antonyms" (dry/parched). Individual words across synsets are marked as direct antonyms. These pairs reflect the strong semantic contract of their members. Each of these polar adjectives in turn is linked to a number of “semantically similar” ones. Semantically similar adjectives are “indirect antonyms” of the contral member of the opposite pole. Even after including the indirect antonyms, WordNet’s coverage is limited. WordNet or any other manually-created repository of antonyms does not encode the degree of antonymy between words (Saif Mohammad et al., 2008). Neverthess, we use WordNet to create a seed set of antonym pairs using a cross product of the synonyms and antonyms of words from WordNet and this was used as a gold standard in our experiments (Section 4 below).
+
+\subsection{The Paraphrase Database (PPDB)}
+PPDB is an automatically extracted database containing millions of paraphrases in 16 different languages. The goal of PPBD is to improve language processing by making systems more robust to language variability and unseen words. It is currently the largest available collection of paraphrases. PPDB contains over 150 million paraphrase rules covering three paraphrase types– lexical (single word), phrasal (multiword), and syntactic restructuring rules. We focus on lexical and phrasal paraphrases upto two words in length, of which there are over half a million rules. The paraphrase database is released in six sizes (S, M, L, XL, XXL and XXXL) divided based on precision and recall scores. We have used the english PPDB, version 2.0 and XXXL size for all our experiments described later.
+
+\section{Our Approach}
+This is the first approach to have used PPDB to obtain antonyms and includes the following steps.
+\subsection{Creation of a seed set of antonym pairs}
+We first created a seed set of antonyms generated using WordNet. As mentioned in Section 2, antonyms derived from WordNet are direct antonyms. We extended this list to include indirect antonym word pairs that were derived from a cross product of the synonyms of each word in the antonym pair and its direct antonym. Table 1 shows examples of direct antonym pairs and indirect antonym pairs. This seed set of antonym pairs generated from WordNet was used like a gold standard for further experiments.
+
+\begin{table}
+%\parbox{.45\linewidth}{
+%\centering
+\begin{tabular}[t]{|c|c|}
+\hline
+Direct antonyms & Indirect antonyms\\
+\hline \hline
+clean/dirty & clean/foul\\
+ rise/fall & clean/grime\\
+ rise/set & clean/muddy\\
+ sleep/wake & rise/downfall \\
+ asleep/awake & rise/spill\\
+ above/below & sleep/rouse\\
+ & sleeping/awake\\
+ & above/under\\
+ \hline
+\end{tabular}
+\caption {Direct antonyms and Indirect antonyms from WordNet}
+\end{table}
+
+\subsection{Selection of paraphrases}
+In this study we focused on two types of paraphrase pairs from PPDB. The first type is of the form $<p1, p2>$ where $p1$ contains the word 'not' in it and $p2$ is a single word or lexical phrase (Example: not happy/happy). The second type is of the form $<p1, p2>$ where either $p1$ or $p2$ contains a negating prefix (Example: unhappy, demotivate, inaccurate etc.). We consider negating prefixes of the form 'in', 'un', 'anti' and 'de'. Table 2 shows examples of pairs in PPDB falling into these two categories. These two types of paraphrase pairs were chosen as we believed these to be most indicative of an antonym relationship between the target words. 
+%\begin{center}
+\begin{table*}[h!]
+\centering
+ \begin{tabular}{|c | c|} 
+ \hline
+ Category 1 & Category 2 \\ [0.5ex] 
+ \hline\hline
+ not satisfactory/unsatisfactory & inadequate/ quite inadequate\\
+ not appropriate/inappropriate & unacceptable/ wholly unacceptable\\
+ not insignificant/significant & intolerable/ quite intolerable\\
+ not acceptable/objectionable & anti-discrimination/ non discrimination\\
+ not perfect/imperfect & incredible/absolutely incredible\\
+ not true/untrue & inappropriate/totally inappropriate\\
+ not infrequently/frequently & unusual/rather unusual\\
+ not compatible/incompatible & deactivate/turned off\\
+ not correct/incorrect & deforestation/destruction\\
+ not identical/different & unjustifiable/completely unreasonable\\
+ \hline
+\end{tabular}
+\caption{PPDB paraphrases of 2 categories: Category 1 (source phrase contains the word 'not') and Category 2 (source phrase has a negating prefix)}
+\end{table*}
+%\end{center}
+
+\subsection{Generating antonym pairs}
+Paraphrase type 1:  We used PPDB to retrieve paraphrase mappings that are useful in learning antonyms (Eg. not happy/happy, unhappy/happy, deactivate/activate etc.). For each word-pair obtained using PPDB, we found synonyms for both words first using WordNet synsets and then with PPDB. We then proceeded to map all synonyms of word1 in the antonym pair to word2 of the antonym pair and all synonyms of word2 in the antonym pair to word1 of the antonym pair. We used WordNet seed set as a gold standard to compare the newly generated antonym list using PPDB.\\
+Paraphrase type 2: A list of words obtained from PPDB containing negating prefixes were compiled and a morphological analysis was performed on these words to remove the negation markers. Antonyms were then generated from the base non-negated forms and all paraphrases of the negated form.
+Table 3 shows examples of antonym pairs derived from the two type of paraphrases from PPDB.
+\begin{table}
+%\parbox{.45\linewidth}{
+%\centering
+\begin{tabular}[t]{|c|c|}
+\hline
+Paraphrase type 1 & Paraphrase type 2\\
+\hline \hline
+sufficient/insufficient & dependence/independent\\
+adequate/not enough & significant/negligible\\
+happy/unhappy & effective/no good\\
+happy/enraged & conventional/irregular\\
+alright/not good & usual/pretty strange\\
+fair/unacceptable & considerable/insignificant\\
+necessary/not useful & frequent/quite rare\\
+available/run low & resolved/unresolved\\
+good/cold & gradation/deterioration\\
+stop/hold on & believable/unreal\\
+ \hline
+\end{tabular}
+\caption {Antonyms derived from PPDB paraphrases of two types}
+\end{table}
+
+\subsection{Hearst/Snow patterns for antonym pairs}
+In section 2.3 we described pattern based techniques to derive lexical relations from unrestricted text. Snow et al. (2004) and Hearst (1992) used easily recognizable and frequently occurring lexico-syntactic patterns to automatically derive lexical relations (hypernymy, hyponymy etc.) between noun pairs. Pavlick et al. (2015) used monolingual path features to learn new patterns to differentiate between more subtle relations like equivalence, negation and entailment. We used similar path features generated from dependency parses and Linguistic Data Consortium (LDC) data to learn new patterns that are indicative of an antonym relationship. Table 4 gives examples of some of these paths.
+\begin{table*}
+\centering
+\begin{tabular}{|c|c|}
+\hline
+Pattern & Example sentence\\
+\hline\hline
+compared with X, Y & \textit{compared with the older generation, the new generation}\\
+to X or to Y & \textit{to fight or to surrender}\\
+X rather than Y & \textit{maximizing it rather than minimizing it}\\
+either X or Y & \textit{either low or high doses}\\
+neither X nor Y & \textit{neither women nor men}\\
+\hline
+\end{tabular}
+\caption{Paths indicative of an antonym relationship between phrases}
+\end{table*}
+
+\section{ Results and Analysis}
+\begin{table*}[h!]
+ \begin{tabular}{|c | c | c|} 
+ \hline
+ Sl no. & Method & No. of unique pairs \\ [0.5ex]
+ \hline\hline
+ 1 & Antonyms from WordNet & 18306\\
+ a & Direct antonyms & 3337\\
+ b & Indirect antonyms & 14969\\
+ \hline
+ 2 & PPDB phrases of the form $<$Not X, Y$>$ & 7878\\
+ a & Antonyms of the form $<$X,Y$>$ from PPDB phrase $<$Not X,Y$>$ & 7878\\
+ b & Antonyms of the form $<$X, synonyms(Y)$>$ and $<$synonyms(X), Y$>$ &  \\
+  i &  Synonyms generated using WordNet & 27599409\\
+  ii & Synonyms generated using PPDB & 1932137\\
+ \hline
+ 3 & PPDB Phrases of the form $<$X with negating prefix, Y$>$ & 183159\\
+ a & Antonyms of the form $<$Base non-negated form of X,Y$>$ & 183159\\
+  & from PPDB Phrase: $<$X with negating prefix, Y$>$ & \\
+ b & Lexical words in PPDB containing a negating prefix
+ & 1966\\ 
+ c & Antonyms of the form $<$Non-negated form of X,Paraphrases(negated form of X)$>$ & 19732\\
+ \hline
+\end{tabular}
+\caption{Number of unique pairs generated in each step involved in generating the resulting antonym list}
+\end{table*}
+The number of unique antonym/paraphrase pairs generated in each step above is shown in Table 5.
+From the results shown in Table 5, we can see that the coverage of WordNet is limited. PPDB has a much larger vocabulary than WordNet (Approximately 10 times more) and so using PPDB along with WordNet for the antonym learning task will be more beneficial. As expected the coverage increased by a large bound when using PPDB along with WordNet to generate antonym pairs. 
+
+Comparing entries 2-b-i and 2-b-ii in Table 6, we see that around 27 million word pairs were generated when the WordNet was used to generate synonyms of a word vs. around one million word pairs generated when PPDB was used to generate synonyms/lexical paraphrases of the target word. This is because WordNet synsets contain a larger list of synonyms for a given word than the number of lexical paraphrases for a given word in PPDB. However, the quality of the final antonym list (Human evaluation) generated using WordNet synsets to find synonyms for a given word was better than the antonym list generated using PPDB lexical paraphrases to find synonyms for a given word. PPDB paraphrase rules are extracted by pivoting through foreign translations. So the data in PPDB is noisier possibly due to polysemy in the foreign language. Also, synonyms of a word generated using WordNet synsets are closer to those found in a thesaurus compared to those generated using PPDB lexical paraphrases as the paraphrase rules might consider other unrelated external factors while generating paraphrases and is not dependent on the given word or its senses alone. 
+
+Examples of antonym pairs generated using the two types of PPDB paraphrases are listed in table 3. Both the antonym lists contained good results and covered different senses of a given word For example, consider the antonym pair good/cold. This pair is probably indicative of characteristics of a person - 'he was good' vs. 'he was cold'. The list also contained the pair hot/cold. This pair contains the same word 'cold' but in a different sense and this antonym pair is a direct antonym pair - 'hot water' vs. 'cold water'. Unsurprisingly, the quality of the antonym pairs generated using PPDB paraphrase type 2 that contain words with a negating prefix was better than those generated using PPDB paraphrase type 1 that contains phrases containing the word 'not'. For example, consider the paraphrases 'not acceptable/objectionable' under category 1 in table 2 and 'unacceptable/wholly unacceptable' under category 2 in table 2. These phrases will return the antonym pairs 'acceptable/objectionable' and 'acceptable/wholly unacceptable' respectively using the method described in section 4.3. Pairing the word acceptable with paraphrases of unacceptable will indicate a better antonym relationship than pairing acceptable with paraphrases of not acceptable as unacceptable/acceptable indicates a stronger and more obvious antonym relationship than not acceptable/acceptable.  
+
+\section{Future work}
+Although the quality of the antonym pairs generated from the experiments described above was good in general, the lists contain a lot of unrelated pairs of words and phrases. A mechanism to automatically score the resulting antonym pairs and eliminating the low-score antonym pairs will improve the quality of the antonym list. We focused on only two types of phrase pairs from PPDB for our experiments. We can extend this by identifying other types of paraphrase pairs from PPDB that can help us in generating more antonyms and attempt to derive a larger and more accurate antonym list from those pairs.
+
+Future work could include incorporating these results into PPDB by adding the feature of antonym phrases to the paraphrase database. Given a search query, in addition to returning paraphrases of the given search query, PPDB could also return antonym phrases (phrases that have an opposite meaning to the given phrase).
+
+\section{Conclusion}
+Previous approaches for antonym detection were focused on pattern-based techniques to derive words occurring in the same sentence that are antonyms of each other. But it is impossible to derive such patterns for all possible senses of a word. Those studies that have actually handled lexical ambiguity were focused on hyponym-hypernym detection but not on deriving antonym relationships. Our method not only automatically derived antonym relationships between single word/lexical phrases and covered different senses of that word but also derived antonym relationships between multi-word phrases. We also automatically generated many more Hearst/Snow patterns to detect paths between antonym pairs compared to the previous approaches for the same task.
+
+\section*{Acknowledgments}
+This work was done as part of an Independent study with Prof. Chris Callison-Burch whose invaluable advice and guidance led to the successful completion of this project. We thank the Department of Computer and Information Science at the University of Pennsylvania for providing us with all the required resources for carrying out this study.
+
+% include your own bib file like this:
+%\bibliographystyle{acl}
+%\bibliography{acl2015}
+
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Gusfield}1997]{Gusfield:97}
+Derek Gross, Ute Fischer, and George A. Miller. \newblock 1989.
+\newblock {\em Antonymy and the representation of adjectival meanings}.
+\newblock Memory and Language, 28(1):92–106.
+
+\bibitem[\protect\citename{Gusfield}1997]{Gusfield:97}
+Juri Ganitkevitch, Chris Callison-Burch.
+\newblock 2014.
+\newblock {\em The Multilingual Paraphrase Database}.
+\newblock LREC-2014.
+
+\bibitem[\protect\citename{{American Psychological Association}}1983]{APA:83}
+Marti A. Hearst.
+\newblock 1992.
+\newblock {\em Automatic Acquisition of Hyponyms from Large Text Corpora}.
+\newblock Association for Computational Linguistics.
+
+\bibitem[\protect\citename{{Association for Computing Machinery}}1983]{ACM:83}
+Bill MacCartney and Christopher D. Manning
+\newblock 2007.
+\newblock {\em Natural Logic for Textual Inference}
+\newblock In RTE '07 Proceedings of the ACL-PASCAL Workshop on Textual Entailment and Paraphrasing, pages 193-200.
+
+\bibitem[\protect\citename{Aho and Ullman}1972]{Aho:72}
+Saif Mohammad, Bonnie Dorr and Graeme Hirst.
+\newblock 2008.
+\newblock {\em Computing Word-Pair Antonymy}
+\newblock In Proceedings of the Conference on Empirical Methods in Natural Language Processing, pages 982-991, Honolulu, October 2008.
+
+\bibitem[\protect\citename{Chandra \bgroup et al.\egroup }1981]{Chandra:81}
+Ellie Pavlick, Johan Bos, Malvina Nissim, Charley Beller, Ben Van Durme, Chris Callison-Burch.
+\newblock 2015.
+\newblock {\em Adding Semantics to Data-Driven Paraphrasing}
+\newblock Association for Computational Linguistics 2015.
+
+\bibitem[\protect\citename{Gusfield}1997]{Gusfield:97}
+Rion Snow, Daniel Jurafsky and Andrew Y. Ng.
+\newblock 2004.
+\newblock {\em Learning syntactic patterns for automatic hypernym discovery}.
+\newblock In NIPS, volume 17, pages 1297–1304.
+
+\bibitem[\protect\citename{Gusfield}1997]{Gusfield:97}
+Rion Snow, Daniel Jurafsky and Andrew Y. Ng.
+\newblock 2006.
+\newblock {\em Semantic Taxonomy Induction from Heterogenous Evidence}.
+\newblock Association for Computational Linguistics 2006.
+
+
+\end{thebibliography}
+
+\end{document}
