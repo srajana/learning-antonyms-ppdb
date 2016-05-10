@@ -1,0 +1,284 @@
+Setting parameters from params/conservative.txt
+Loading corpus from data/test/morph_wordlist.txt
+Loading words...
+655 types loaded.
+6550 tokens loaded.
+Init time: 0.076s
+
+Lexicon stats:
+Types: 655 Tokens: 6550
+
+Handling hyphenation...
+Lexicon stats:
+Types: 729 Tokens: 7290
+Memory status: 4MB Used, 1815MB Remaining
+
+Starting learning...
+Iteration 1
+Lexicon stats:
+Types: 729 Tokens: 7290
+Base size: 0
+Derived size: 0
+Unmodeled size: 729
+Hypothesizing and scoring transforms...
+Selecting a transform...
+
+Vetting transform +($, s)
+Weighted Types: 19, Types: 19, Tokens: 380, Pairs: 19, Normal/Accom. Pairs: 19/0
+Samples: (19) deportation/deportations, derogation/derogations, undaf/undafs
+Overlap Ratio: 0/0
+Breaking tie between +($, s) and +(s, $)
+Seg. Precision: 0.1532258064516129
+Selected +($, s)
+Learned +($, s)
+Weighted Types: 19, Types: 19, Tokens: 380, Pairs: 19, Normal/Accom. Pairs: 19/0
+Samples: (19) deportation/deportations, derogation/derogations, undaf/undafs
+0 new pairs inferred by conservative inference.
+Memory status: 7MB Used, 1812MB Remaining
+
+
+Iteration 2
+Lexicon stats:
+Types: 729 Tokens: 7290
+Base size: 19
+Derived size: 19
+Unmodeled size: 691
+Hypothesizing and scoring transforms...
+Selecting a transform...
+
+Vetting transform ($, inter)+
+Weighted Types: 15, Types: 3, Tokens: 70, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) dependencies/interdependencies, linkages/interlinkages, linked/interlinked
+Overlap Ratio: 0/0
+Breaking tie between ($, inter)+ and (inter, $)+
+Seg. Precision: 0.05
+Selected ($, inter)+
+Learned ($, inter)+
+Weighted Types: 15, Types: 3, Tokens: 70, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) dependencies/interdependencies, linkages/interlinkages, linked/interlinked
+0 new pairs inferred by conservative inference.
+Memory status: 14MB Used, 1805MB Remaining
+
+
+Iteration 3
+Lexicon stats:
+Types: 729 Tokens: 7290
+Base size: 22
+Derived size: 22
+Unmodeled size: 685
+Hypothesizing and scoring transforms...
+Selecting a transform...
+
+Vetting transform +(ation, ed)
+Weighted Types: 15, Types: 5, Tokens: 100, Pairs: 5, Normal/Accom. Pairs: 5/0
+Samples: (5) demobilization/demobilized, indexation/indexed, initialization/initialized
+Overlap ratio: 1.0
+Seg. Precision: 0.05952380952380952
+Selected +(ation, ed)
+Learned +(ation, ed)
+Weighted Types: 15, Types: 5, Tokens: 100, Pairs: 5, Normal/Accom. Pairs: 5/0
+Samples: (5) demobilization/demobilized, indexation/indexed, initialization/initialized
+0 new pairs inferred by conservative inference.
+Memory status: 19MB Used, 1801MB Remaining
+
+
+Iteration 4
+Lexicon stats:
+Types: 729 Tokens: 7290
+Base size: 26
+Derived size: 27
+Unmodeled size: 676
+Hypothesizing and scoring transforms...
+Selecting a transform...
+
+Vetting transform ($, under)+
+Weighted Types: 10, Types: 2, Tokens: 40, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) age/underage, funded/underfunded
+Overlap Ratio: 0/0
+Breaking tie between ($, under)+ and (under, $)+
+Seg. Precision: 0.08
+Selected ($, under)+
+Learned ($, under)+
+Weighted Types: 10, Types: 2, Tokens: 40, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) age/underage, funded/underfunded
+0 new pairs inferred by conservative inference.
+Memory status: 23MB Used, 1796MB Remaining
+
+
+Iteration 5
+Lexicon stats:
+Types: 729 Tokens: 7290
+Base size: 28
+Derived size: 29
+Unmodeled size: 672
+Hypothesizing and scoring transforms...
+Selecting a transform...
+
+Vetting transform +($, d)
+Weighted Types: 10, Types: 10, Tokens: 200, Pairs: 10, Normal/Accom. Pairs: 10/0
+Samples: (10) dea/dead, deregulate/deregulated, uncc/unccd
+Overlap ratio: 2.0
+Seg. Precision: 0.10204081632653061
+Selected +($, d)
+Learned +($, d)
+Weighted Types: 11, Types: 11, Tokens: 220, Pairs: 11, Normal/Accom. Pairs: 10/1
+Samples: (11) dea/dead, deregulate/deregulated, uncc/unccd
+0 new pairs inferred by conservative inference.
+Memory status: 28MB Used, 1792MB Remaining
+
+
+Iteration 6
+Lexicon stats:
+Types: 729 Tokens: 7290
+Base size: 37
+Derived size: 39
+Unmodeled size: 653
+Hypothesizing and scoring transforms...
+Selecting a transform...
+
+Vetting transform +($, ed)
+Weighted Types: 8, Types: 4, Tokens: 80, Pairs: 4, Normal/Accom. Pairs: 4/0
+Samples: (4) derail/derailed, increment/incremented, unblock/unblocked
+Overlap ratio: 1.0
+Seg. Precision: 0.047619047619047616
+Selected +($, ed)
+Learned +($, ed)
+Weighted Types: 8, Types: 4, Tokens: 80, Pairs: 4, Normal/Accom. Pairs: 4/0
+Samples: (4) derail/derailed, increment/incremented, unblock/unblocked
+0 new pairs inferred by conservative inference.
+Memory status: 32MB Used, 1787MB Remaining
+
+
+Iteration 7
+Lexicon stats:
+Types: 729 Tokens: 7290
+Base size: 40
+Derived size: 43
+Unmodeled size: 646
+Hypothesizing and scoring transforms...
+Selecting a transform...
+
+Vetting transform +(y, ies)
+Weighted Types: 6, Types: 3, Tokens: 60, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) depositary/depositaries, inequity/inequities, insolvency/insolvencies
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(e, ing)
+Weighted Types: 6, Types: 3, Tokens: 60, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) delete/deleting, include/including, invoice/invoicing
+Overlap ratio: 1.0
+Seg. Precision: 0.06666666666666667
+Selected +(e, ing)
+Learned +(e, ing)
+Weighted Types: 6, Types: 3, Tokens: 60, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) delete/deleting, include/including, invoice/invoicing
+12 new pairs inferred by conservative inference.
+Memory status: 6MB Used, 1814MB Remaining
+
+
+Iteration 8
+Lexicon stats:
+Types: 733 Tokens: 7330
+Base size: 45
+Derived size: 54
+Unmodeled size: 634
+Hypothesizing and scoring transforms...
+Selecting a transform...
+
+Vetting transform +(y, ies)
+Weighted Types: 6, Types: 3, Tokens: 60, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) depositary/depositaries, inequity/inequities, insolvency/insolvencies
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(le, ility)
+Weighted Types: 6, Types: 2, Tokens: 40, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) inadmissible/inadmissibility, interoperable/interoperability
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(ies, y)
+Weighted Types: 6, Types: 3, Tokens: 60, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) depositaries/depositary, inequities/inequity, insolvencies/insolvency
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(ility, le)
+Weighted Types: 6, Types: 2, Tokens: 40, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) inadmissibility/inadmissible, interoperability/interoperable
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +($, table)
+Weighted Types: 5, Types: 1, Tokens: 20, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) ins/instable
+Transform has too few types.
+
+Vetting transform +(table, $)
+Weighted Types: 5, Types: 1, Tokens: 20, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) instable/ins
+Transform has too few types.
+
+Vetting transform ($, un)+
+Weighted Types: 4, Types: 2, Tokens: 40, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) funded/unfunded, insured/uninsured
+Overlap ratio: 2.0
+Seg. Precision: 0.009259259259259259
+Seg. Precision too low
+
+Vetting transform +($, tion)
+Weighted Types: 4, Types: 1, Tokens: 20, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) demo/demotion
+Transform has too few types.
+
+Vetting transform +($, ly)
+Weighted Types: 4, Types: 2, Tokens: 40, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) inclusive/inclusively, unswerving/unswervingly
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +($, ness)
+Weighted Types: 4, Types: 1, Tokens: 20, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) innovative/innovativeness
+Transform has too few types.
+
+Vetting transform +(ly, $)
+Weighted Types: 4, Types: 2, Tokens: 40, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) inclusively/inclusive, unswervingly/unswerving
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(ness, $)
+Weighted Types: 4, Types: 1, Tokens: 20, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) innovativeness/innovative
+Transform has too few types.
+
+Vetting transform (un, under)+
+Weighted Types: 3, Types: 1, Tokens: 20, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) unrepresented/underrepresented
+Transform has too few types.
+
+Vetting transform (i, inco)+
+Weighted Types: 3, Types: 1, Tokens: 20, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) insistently/inconsistently
+Transform has too few types.
+
+Vetting transform (under, un)+
+Weighted Types: 3, Types: 1, Tokens: 20, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) underrepresented/unrepresented
+Transform has too few types.
+
+Vetting transform (inco, i)+
+Weighted Types: 3, Types: 1, Tokens: 20, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) inconsistently/insistently
+Transform has too few types.
+Out of good transforms to learn. Giving up.
+Handling final compounding...
+Memory status: 11MB Used, 1808MB Remaining
+Broke 0 compounds in base
+Memory status: 12MB Used, 1808MB Remaining
+Broke 0 compounds in unmodeled
+Learning complete. Analyzing...
+
+Learning time: 0.403s

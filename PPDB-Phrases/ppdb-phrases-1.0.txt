@@ -1,0 +1,3241 @@
+[ADJP] | non-toxic | not toxic 
+[ADJP] | uncool | not cool 
+[ADJP] | unacceptable | not acceptable 
+[ADJP] | non-identical | not identical 
+[ADJP] | unpublished | not published 
+[S] | deselected | not selected 
+[ADJP] | unavailable | not available 
+[ADJP] | non-exhaustive | not exhaustive 
+[ADJP] | flame-retardant | not readily flammable 
+[ADJP] | moot | not applicable 
+[ADVP] | moot | not applicable 
+[S] | moot | not applicable 
+[ADJP] | impossible | not possible 
+[ADJP] | unspecified | not specified 
+[ADJP] | non-respendable | not available 
+[ADJP] | unrealistic | not realistic 
+[ADJP] | non-taxable | not subject to taxation 
+[ADJP] | non-exclusive | not exclusive 
+[ADJP] | unlikely | not likely 
+[ADJP] | ineligible | not eligible 
+[ADJP] | unfounded | not well-founded 
+[FRAG] | impossible | not possible 
+[FRAG] | unlikely | not likely 
+[ADJP] | undated | not dated 
+[ADJP] | unreported | not published 
+[ADJP] | rude | not polite 
+[ADJP] | unreasonable | not reasonable 
+[ADJP] | imprescriptible | not subject to limitations 
+[ADJP] | inappropriate | not appropriate 
+[ADJP] | insufficient | not enough 
+[ADJP] | non-negotiable | not negotiable 
+[ADJP] | unreliable | not reliable 
+[ADJP] | insufficient | not sufficient 
+[ADJP] | unsatisfactory | not satisfactory 
+[ADJP] | unsustainable | not sustainable 
+[ADJP] | unfair | not fair 
+[ADJP] | incomplete | not complete 
+[ADJP] | unreadable | not readable 
+[ADJP] | undesirable | not desirable 
+[ADJP] | n'tfunny | not funny 
+[ADJP] | undefined | not defined 
+[ADJP] | invalid | not valid 
+[ADJP] | unused | not used 
+[ADJP] | illegible | not readable 
+[ADJP] | inconvenient | not user-friendly 
+[ADJP] | uncompetitive | not competitive 
+[ADJP] | undemocratic | not democratic 
+[ADJP] | incorrect | not correct 
+[ADJP] | incompatible | not compatible 
+[ADJP] | insignificant | not significant 
+[ADJP] | unknown | not known 
+[ADJP] | false | not true 
+[ADJP] | unimportant | not important 
+[ADJP] | inadequate | not sufficient 
+[NX] | non-parties | not parties 
+[ADJP] | untrue | not true 
+[ADJP] | unreal | not real 
+[ADVP] | unsurprisingly | not unexpectedly 
+[ADJP] | inadequate | not enough 
+[ADJP] | nonnegotiable | not subject to appeal 
+[ADVP] | unsurprisingly | not surprisingly 
+[ADJP] | unfounded | not valid 
+[ADJP] | unsubstantiated | not well-founded 
+[ADVP] | unacceptable | not acceptable 
+[FRAG] | unacceptable | not acceptable 
+[ADJP] | iffy | not great 
+[ADJP] | inadmissible | not admissible 
+[ADJP] | inaccessible | not accessible 
+[S] | unavailable | not available 
+[ADJP] | fake | not true 
+[ADJP] | innocent | not guilty 
+[FRAG] | fake | not true 
+[ADJP] | unjust | not fair 
+[ADJP] | impolite | not polite 
+[ADJP] | negligible | not significant 
+[ADVP] | insufficiently | not sufficiently 
+[ADVP] | predictably | not surprisingly 
+[ADJP] | tax-free | not subject to taxation 
+[X] | not | do n't 
+[ADVP] | recently | not long ago 
+[ADJP] | unhelpful | not helpful 
+[ADJP] | imprecise | not precise 
+[ADJP] | refusal | not accepted 
+[ADJP] | inaccurate | not accurate 
+[ADJP] | impossible | not feasible 
+[ADJP] | invalid | not valuable 
+[ADJP] | incomplete | not comprehensive 
+[ADJP] | infeasible | not feasible 
+[ADJP] | non-profit | not for profit 
+[ADVP] | shortly | not long 
+[ADJP] | infeasible | not practicable 
+[ADJP] | inadmissible | not receivable 
+[S] | innocent | not guilty 
+[ADJP] | hazardous | not safe 
+[NP] | little | not much 
+[ADJP] | dissatisfied | not satisfied 
+[ADJP] | non-applicable | not applicable 
+[ADJP] | unmarried | not married 
+[ADJP] | inadvisable | not recommended 
+[ADJP] | nonsignificant | not significant 
+[ADVP] | rarely | not often 
+[ADJP] | unclear | not clear 
+[ADJP] | impracticable | not feasible 
+[ADJP] | dangerous | not safe 
+[ADJP] | non-discriminatory | not discriminatory 
+[ADJP] | little | not much 
+[ADJP] | irrelevant | not relevant 
+[S] | not | do n't 
+[ADJP] | inconsistent | not compatible 
+[ADJP] | unauthorized | not authorized 
+[ADJP] | bad | not good 
+[ADJP] | unsafe | not secure 
+[ADJP] | unfeasible | not feasible 
+[ADJP] | unnecessary | not necessary 
+[ADJP] | inaccurate | not correct 
+[ADJP] | wrong | not right 
+[ADJP] | many | not less 
+[ADVP] | many | not less 
+[ADJP] | unimpeachable | not subject to appeal 
+[ADJP] | intolerable | not acceptable 
+[ADJP] | imperfect | not perfect 
+[NP] | nothing | not a thing 
+[ADJP] | invisible | not visible 
+[ADJP] | untenable | not sustainable 
+[FRAG] | insufficient | not enough 
+[ADJP] | difficult | not easy 
+[ADJP] | inadmissible | not acceptable 
+[ADJP] | impracticable | not practicable 
+[ADJP] | moot | not relevant 
+[ADJP] | not-for-profit | not for profit 
+[ADJP] | non-binding | not binding 
+[ADJP] | vacant | not allocated 
+[ADJP] | impractical | not practical 
+[ADVP] | soon | not long 
+[ADVP] | little | not much 
+[ADJP] | improper | not appropriate 
+[NP] | insufficient | not enough 
+[ADJP] | incorrect | not ok 
+[ADVP] | predictably | not unexpectedly 
+[ADJP] | unnecessary | not useful 
+[X] | not | fail to 
+[ADJP] | impractical | not convenient 
+[NP] | none | not one 
+[ADJP] | impractical | not realistic 
+[ADJP] | inadmissible | not permissible 
+[ADJP] | unrealistic | not practical 
+[ADVP] | inadequately | not sufficiently 
+[ADVP] | poorly | not well 
+[ADJP] | wrong | not true 
+[ADJP] | abnormal | not normal 
+[VP] | not | do n't 
+[ADVP] | infrequently | not often 
+[X] | not | fails to 
+[ADJP] | unused | not utilized 
+[ADJP] | ineffective | not effective 
+[ADJP] | few | not many 
+[ADJP] | reasonable | not unreasonable 
+[ADVP] | still | not yet 
+[ADJP] | inactive | not active 
+[ADJP] | easy | not hard 
+[ADVP] | never | not ever 
+[FRAG] | never | not ever 
+[X] | not | failed to 
+[FRAG] | wrong | not true 
+[ADJP] | unsubstantiated | not valid 
+[ADJP] | useless | not necessary 
+[ADJP] | inapplicable | not applicable 
+[ADJP] | tricky | not obvious 
+[ADJP] | unworkable | not feasible 
+[X] | not | does n't 
+[ADJP] | pretty | not bad 
+[ADVP] | pretty | not bad 
+[ADVP] | n'teven | not even 
+[ADVP] | wrong | not well 
+[ADJP] | indeterminate | not determined 
+[ADVP] | bad | not well 
+[X] | especially | not least 
+[ADJP] | unsafe | not safe 
+[ADJP] | incorrect | not right 
+[ADJP] | little | not many 
+[ADJP] | wrong | not good 
+[ADJP] | irrelevant | not important 
+[ADJP] | immaterial | not important 
+[X] | not | is n't it 
+[ADJP] | insufficient | not adequate 
+[ADVP] | seldom | not often 
+[S] | not | is n't it 
+[VP] | not | is n't it 
+[ADJP] | unfair | not right 
+[ADJP] | incorrect | not accurate 
+[ADJP] | irrational | not reasonable 
+[ADJP] | impractical | not feasible 
+[ADJP] | irrelevant | not applicable 
+[ADJP] | displeased | not happy 
+[ADJP] | impracticable | not workable 
+[ADJP] | wrong | not correct 
+[ADJP] | useless | not useful 
+[ADJP] | unfeasible | not practicable 
+[ADJP] | improbable | not likely 
+[ADJP] | ineffective | not efficient 
+[FRAG] | difficult | not easy 
+[NP] | inadequate | not enough 
+[ADJP] | nice | not bad 
+[ADVP] | nice | not bad 
+[FRAG] | nice | not bad 
+[ADJP] | inefficient | not effective 
+[ADJP] | unchanged | not amended 
+[S] | unchanged | not amended 
+[ADJP] | nondiscriminatory | not discriminatory 
+[ADJP] | disproportionate | not proportionate 
+[ADJP] | unsuitable | not appropriate 
+[ADJP] | phony | not true 
+[X] | not | do n't you 
+[ADJP] | uncertain | not sure 
+[ADJP] | surreal | not real 
+[ADVP] | shortly | not long after 
+[ADJP] | unworkable | not workable 
+[ADJP] | unhappy | not happy 
+[SBAR] | not | do n't 
+[ADVP] | difficult | not easily 
+[ADVP] | maximum | not exceeding 
+[ADJP] | right | not true 
+[FRAG] | right | not true 
+[ADJP] | excluded | not included 
+[X] | particularly | not least 
+[FRAG] | bad | not good 
+[ADVP] | little | not very 
+[FRAG] | nothing | not anything 
+[X] | not | wo n't 
+[ADJP] | easy | not difficult 
+[FRAG] | easy | not difficult 
+[ADJP] | unimportant | not essential 
+[ADJP] | incorrect | not true 
+[ADVP] | badly | not well 
+[ADJP] | inoperable | not operational 
+[NP] | anything | not a thing 
+[ADVP] | hardly | not really 
+[INTJ] | not | oh , no 
+[X] | not | oh , no 
+[ADJP] | unjust | not right 
+[ADJP] | significant | not insignificant 
+[ADVP] | hardly | not easily 
+[ADJP] | sane | not crazy 
+[ADVP] | least | not as 
+[ADJP] | unchanged | not modified 
+[ADJP] | inadequate | not adequate 
+[X] | not | failing to 
+[X] | not | did n't 
+[ADVP] | less | not so much 
+[X] | not | n't you 
+[ADJP] | doubtful | not likely 
+[ADJP] | inequitable | not fair 
+[X] | not | n't it 
+[X] | not | failure to 
+[ADVP] | hardly | not readily 
+[X] | not | rather than 
+[ADJP] | hard | not easy 
+[ADJP] | unable | not possible 
+[ADJP] | unachievable | not feasible 
+[ADJP] | low | not high 
+[ADJP] | unclear | not precise 
+[ADJP] | abnormal | not right 
+[ADJP] | needless | not necessary 
+[ADVP] | soon | not long after 
+[ADJP] | especially | not least 
+[ADVP] | thin | not excessively 
+[ADVP] | sick | not well 
+[VP] | not | does n't 
+[X] | none | not one 
+[ADJP] | unsatisfactory | not ideal 
+[ADJP] | impracticable | not practical 
+[X] | not | you do n't 
+[ADJP] | baseless | not well-founded 
+[FRAG] | useless | not useful 
+[ADVP] | both | not only 
+[ADJP] | pointless | not necessary 
+[ADJP] | inconsequential | not important 
+[ADVP] | not | not yet 
+[ADJP] | unencumbered | not used 
+[ADJP] | undetermined | not determined 
+[ADJP] | denial | not accepted 
+[ADJP] | incompatible | not supported 
+[ADJP] | inaccurate | not true 
+[INTJ] | not | uh , no 
+[X] | not | uh , no 
+[X] | not | n't no 
+[X] | not | 's not 
+[ADJP] | risky | not safe 
+[ADJP] | regular | not terrible , but not great 
+[X] | not | just do 
+[ADJP] | few | not much 
+[ADJP] | inadequate | not appropriate 
+[S] | untreated | not treated 
+[ADJP] | inexact | not accurate 
+[ADJP] | final | not subject to appeal 
+[ADVP] | shortly | not long afterwards 
+[ADJP] | inaccurate | not precise 
+[ADJP] | unworkable | not practicable 
+[ADJP] | unattainable | not feasible 
+[ADVP] | insufficiently | not enough 
+[ADVP] | naturally | not surprisingly 
+[ADVP] | yet | not again 
+[X] | less | not as 
+[X] | not | no , i do n't 
+[ADJP] | indefinite | not determined 
+[INTJ] | not | no , sir 
+[X] | not | no , sir 
+[ADVP] | shortly | not too long 
+[S] | not | no , i do n't 
+[ADJP] | unchanged | not changed 
+[X] | not | , no. 
+[ADJP] | ineligible | not acceptable 
+[ADJP] | impermissible | not admissible 
+[ADJP] | compensatory | not mandatory 
+[SBAR] | not | do n't you 
+[S] | not | do n't you 
+[VP] | not | do n't you 
+[S] | void | not applicable 
+[ADVP] | less | not as 
+[ADVP] | still | not again 
+[ADVP] | close | not far 
+[ADJP] | untrue | not correct 
+[ADVP] | hardly | not exactly 
+[ADJP] | tough | not easy 
+[ADJP] | improper | not correct 
+[X] | not | it 's not 
+[ADJP] | lame | not jaydee 
+[ADJP] | unqualified | not qualified 
+[X] | not | unable to 
+[ADJP] | frequent | not uncommon 
+[ADJP] | significant | not inconsiderable 
+[NP] | little | not long 
+[ADJP] | non-responsive | not admissible 
+[ADJP] | significant | not negligible 
+[S] | not | did n't i 
+[VP] | not | did n't i 
+[X] | not | did n't i 
+[ADJP] | immaterial | not applicable 
+[ADJP] | unreliable | not credible 
+[X] | not | n't , 
+[ADJP] | insignificant | not important 
+[ADJP] | okay | not bad 
+[ADVP] | okay | not bad 
+[FRAG] | inadequate | not enough 
+[ADVP] | bit | not very 
+[NP] | nobody | not one 
+[ADJP] | also | not least 
+[ADVP] | ill | not well 
+[X] | not | would n't 
+[ADVP] | least | not so 
+[ADJP] | straight | not gay 
+[ADJP] | impractical | not practicable 
+[ADJP] | bogus | not true 
+[X] | not | not yet 
+[ADJP] | okay | not serious 
+[NP] | bit | not much 
+[ADJP] | non-responsive | not receivable 
+[X] | not | n't any 
+[ADJP] | unacceptable | not permissible 
+[ADJP] | unavailable | not accessible 
+[ADJP] | impractical | not possible 
+[ADJP] | wrong | not normal 
+[ADJP] | wack | not jaydee 
+[ADJP] | inadvisable | not encouraged 
+[X] | not | do n't you think 
+[INTJ] | not | well , no 
+[X] | not | well , no 
+[ADJP] | unamended | not amended 
+[X] | not | no , i 'm not 
+[ADJP] | harmless | not dangerous 
+[ADVP] | not | no longer 
+[ADJP] | pointless | not useful 
+[VP] | not | does n't it 
+[X] | not | does n't it 
+[ADVP] | away | not here 
+[X] | not | simply not 
+[X] | ≤ | not exceeding 
+[X] | not | is n't 
+[FRAG] | especially | not least 
+[ADJP] | incomplete | not exhaustive 
+[ADJP] | particular | not least 
+[ADVP] | soon | not long afterwards 
+[ADVP] | recently | not too long ago 
+[ADVP] | mal | not well 
+[ADJP] | determine | not determined 
+[ADJP] | impractical | not workable 
+[S] | including | not least 
+[X] | not | it fails to 
+[ADJP] | little | not long 
+[ADVP] | little | not long 
+[ADJP] | feasible | not practicable 
+[ADJP] | undesirable | not ideal 
+[ADVP] | bit | not much 
+[FRAG] | including | not least 
+[ADJP] | compensatory | not compulsory 
+[ADJP] | different | not equal 
+[ADJP] | deficient | not sufficient 
+[NP] | neither | not one 
+[FRAG] | wrong | not good 
+[ADJP] | anomalous | not normal 
+[X] | not | no , i did n't 
+[X] | not | , right 
+[ADJP] | false | not correct 
+[ADVP] | soon | not too long 
+[NP] | lack | not enough 
+[X] | less | not so 
+[INTJ] | not | no , man 
+[X] | not | no , man 
+[ADJP] | unsatisfactory | not enough 
+[ADJP] | particularly | not least 
+[NP] | few | not much 
+[X] | not | no , you do n't 
+[ADJP] | false | not , dude 
+[X] | not | it fails 
+[ADJP] | counterfeit | not true 
+[ADVP] | later | not now 
+[FRAG] | later | not now 
+[S] | not | no , we do n't 
+[X] | not | no , we do n't 
+[X] | not | of non- 
+[ADVP] | nearby | not far from here 
+[ADVP] | nearby | not far 
+[X] | not | just not 
+[ADVP] | shortly | not long thereafter 
+[VP] | not | are n't i 
+[X] | not | are n't i 
+[ADJP] | shite | not jaydee 
+[X] | not | no , i have n't 
+[ADJP] | unusual | not normal 
+[ADJP] | dishonest | not fair 
+[ADVP] | shortly | not long afterward 
+[X] | not | please do 
+[X] | not | no , do n't 
+[X] | not | do n't they 
+[ADVP] | same | not even 
+[X] | not | don t 
+[ADJP] | inadequate | not satisfactory 
+[X] | not | ca n't 
+[ADJP] | needless | not useful 
+[ADVP] | unfortunately | not literally 
+[ADJP] | erroneous | not correct 
+[ADJP] | ineligible | not permissible 
+[ADJP] | insignificant | not very important 
+[ADJP] | wrong | not fair 
+[ADJP] | ordinary | not terrible , but not great 
+[ADJP] | sore | not significant 
+[ADJP] | prohibited | not permissible 
+[ADVP] | earlier | not long ago 
+[ADVP] | only | not but 
+[X] | not | ai n't 
+[X] | not | nor do 
+[ADJP] | substantial | not insignificant 
+[NP] | -nothing | not a thing 
+[ADJP] | disrespectful | not polite 
+[X] | not | n't i 
+[ADJP] | groundless | not well-founded 
+[ADJP] | unsatisfactory | not sufficient 
+[ADJP] | pointless | not applicable 
+[ADVP] | either | not even 
+[ADVP] | recently | not so long ago 
+[ADJP] | non-existent | not available 
+[NP] | n.a. | not applicable 
+[ADJP] | impossible | not practicable 
+[X] | not | no , you 're not 
+[X] | not | are n't you 
+[ADJP] | expensive | not cheap 
+[ADJP] | unwell | not suitable 
+[ADVP] | least | not so much 
+[ADJP] | little | not enough 
+[ADJP] | good | not bad 
+[X] | not | i do n't 
+[ADJP] | ridiculous | not pregnant 
+[VP] | not | are n't you 
+[X] | not | did n't it 
+[ADVP] | less | not so 
+[ADJP] | non-mandatory | not mandatory 
+[ADJP] | unsure | not sure 
+[ADJP] | nude | not polite 
+[ADJP] | ineffectual | not effective 
+[ADVP] | improperly | not well 
+[ADJP] | unsuccessful | not successful 
+[ADVP] | anymore | not at all 
+[ADJP] | compensatory | not obligatory 
+[VP] | not | ai n't it 
+[X] | not | ai n't it 
+[NP] | everybody | not everyone 
+[NP] | nothing | not much 
+[ADJP] | fake | not , dude 
+[VP] | not | is n't he 
+[X] | not | is n't he 
+[X] | also | not least 
+[ADJP] | huh | not true 
+[FRAG] | huh | not true 
+[ADJP] | furious | not happy 
+[ADJP] | sufficient | not enough 
+[NP] | scraps | not much 
+[ADJP] | doubtful | not sure 
+[X] | ≤ | not more than 
+[VP] | not | did n't he 
+[X] | not | did n't he 
+[ADJP] | unworkable | not practical 
+[X] | not | i right 
+[ADVP] | few | not very 
+[X] | not | do n't i 
+[X] | not | the non- 
+[X] | not | do n't it 
+[X] | not | no , it is n't 
+[NP] | never | not a chance 
+[ADJP] | inadmissible | not eligible 
+[X] | not | that 's not 
+[ADJP] | minimal | not significant 
+[ADJP] | trivial | not significant 
+[ADJP] | non-applicable | not relevant 
+[X] | not | no , i wo n't 
+[ADJP] | non-mandatory | not compulsory 
+[X] | not | be unable 
+[ADJP] | vague | not precise 
+[X] | not | n't a 
+[X] | not | do nothing 
+[X] | not | did n't you 
+[X] | not | no , it 's not 
+[ADJP] | aground | not successful 
+[ADVP] | good | not bad 
+[ADVP] | not | well , not 
+[X] | not | well , not 
+[X] | not | certainly not 
+[ADVP] | quite | not bad 
+[ADJP] | inoperative | not operational 
+[ADJP] | shortly | not too distant 
+[ADVP] | hardly | not at all 
+[ADVP] | never | not once 
+[X] | not | ... not 
+[INTJ] | not | um , no 
+[X] | not | um , no 
+[X] | not | non of 
+[ADJP] | impermissible | not acceptable 
+[NP] | ever | not a chance 
+[ADJP] | inconsistent | not supported 
+[ADJP] | worthless | not necessary 
+[X] | not | 'm not 
+[X] | not | pas de 
+[X] | not | no such 
+[ADJP] | wrong | not ok 
+[NP] | recently | not long 
+[ADVP] | nor | not even 
+[X] | not | 're not 
+[X] | not | nor does 
+[ADJP] | notably | not least 
+[ADVP] | soon | not long thereafter 
+[X] | not | , do n't 
+[ADJP] | unexceptable | not acceptable 
+[ADJP] | unjustified | not reasonable 
+[X] | not | non ‑ 
+[ADJP] | fine | not bad 
+[VP] | not | was n't it 
+[X] | not | was n't it 
+[NP] | bit | not long 
+[ADJP] | cool | not bad 
+[ADVP] | soon | not long afterward 
+[ADVP] | beyond | not only 
+[ADJP] | smaller | not as important 
+[X] | not | either not 
+[ADJP] | bad | not right 
+[ADVP] | ani | not even 
+[ADJP] | considerable | not less 
+[ADJP] | creepy | not jaydee 
+[ADJP] | enough | not sufficient 
+[X] | not | are n't 
+[X] | not | of failing 
+[ADJP] | unwise | not reasonable 
+[ADJP] | fake | not correct 
+[S] | n't | not to 
+[X] | not | otherwise of 
+[ADVP] | recently | not long 
+[S] | not | did n't you 
+[VP] | not | did n't you 
+[ADJP] | futile | not necessary 
+[ADJP] | insecure | not safe 
+[NP] | nothing | not a word 
+[ADJP] | cher | not cheap 
+[X] | not | refrain from 
+[ADJP] | mostly | not least 
+[FRAG] | mostly | not least 
+[ADJP] | modest | not many 
+[SBAR] | not | do n't i 
+[VP] | not | are n't we 
+[X] | not | are n't we 
+[S] | not | it 's not 
+[ADJP] | dormant | not active 
+[X] | not | , is n't it 
+[S] | not | i right 
+[ADJP] | pissed | not happy 
+[X] | not | don " t 
+[VP] | not | does n't he 
+[X] | not | does n't he 
+[X] | not | lack of 
+[X] | not | why , no 
+[X] | not | do n't we 
+[ADVP] | often | not infrequently 
+[X] | not | n't we 
+[ADJP] | cute | not bad 
+[ADVP] | few | not much 
+[ADJP] | impracticable | not realistic 
+[ADVP] | moreover | not only that 
+[ADVP] | bit | not long 
+[ADJP] | unacceptable | not right 
+[X] | not | , nor 
+[ADJP] | insufficient | not satisfactory 
+[ADVP] | obviously | not surprisingly 
+[ADVP] | not | not just 
+[X] | not | i wo n't 
+[ADVP] | hard | not easily 
+[NP] | no-one | not one 
+[X] | not | does nothing 
+[VP] | not | did n't l 
+[X] | less | not so much 
+[ADVP] | just | not only 
+[ADJP] | shortly | not much 
+[ADVP] | shortly | not much 
+[NP] | shortly | not much 
+[ADVP] | neither | not even 
+[S] | unspecified | not specified 
+[ADJP] | substantial | not inconsiderable 
+[ADJP] | unspent | not used 
+[ADJP] | substantial | not negligible 
+[X] | not | not just 
+[X] | not | no longer 
+[ADJP] | deficient | not enough 
+[NP] | not | no way 
+[X] | not | 's no 
+[X] | not | it failed to 
+[ADJP] | unhappy | not satisfied 
+[X] | not | n't from 
+[X] | not | don " 
+[NP] | everyone | not everybody 
+[NP] | inadequacy | not enough 
+[ADJP] | flawed | not perfect 
+[ADJP] | fucked-up | not jaydee 
+[ADJP] | least | not as important 
+[S] | not | you do n't 
+[ADJP] | limited | not many 
+[ADVP] | away | not there 
+[ADVP] | not | n't even 
+[ADJP] | difficult | not simple 
+[ADJP] | infeasible | not possible 
+[ADVP] | besides | not only 
+[X] | only | not but 
+[ADJP] | unfeasible | not possible 
+[ADVP] | poorly | not sufficiently 
+[ADJP] | non-binding | not mandatory 
+[ADJP] | much | not less 
+[ADVP] | much | not less 
+[X] | not | no , they wo n't 
+[ADJP] | false | not right 
+[ADVP] | unacceptably | not acceptable 
+[ADJP] | indefensible | not sustainable 
+[ADJP] | fraudulent | not true 
+[ADJP] | insensitive | not cool 
+[ADJP] | inappropriate | not suitable 
+[ADJP] | impracticable | not possible 
+[X] | not | of non 
+[X] | not | not part 
+[X] | not | it does n't 
+[VP] | not | did n't we 
+[X] | not | did n't we 
+[X] | not | oh , not 
+[X] | not | , without 
+[X] | not | it failed 
+[X] | not | have n't 
+[ADVP] | shortly | not very 
+[X] | not | n't he 
+[X] | not | no , you did n't 
+[ADJP] | inappropriate | not correct 
+[ADJP] | premature | not appropriate 
+[ADVP] | around | not far 
+[X] | not | without a 
+[ADJP] | unable | not impossible 
+[ADJP] | unclear | not obvious 
+[ADJP] | unworkable | not applicable 
+[ADVP] | equal | not less 
+[X] | not | not go 
+[VP] | not | ai n't 
+[X] | not | no , they do n't 
+[ADJP] | non-binding | not compulsory 
+[VP] | not | is n't she 
+[X] | not | is n't she 
+[ADVP] | not | not even 
+[X] | not | no , i was n't 
+[ADVP] | no | not yet 
+[ADJP] | anomalous | not right 
+[ADVP] | now | not anymore 
+[ADJP] | under-inclusive | not complete 
+[ADJP] | separate | not equal 
+[VP] | not | 's not 
+[ADVP] | logically | not surprisingly 
+[ADVP] | shortly | not very long 
+[ADVP] | understandably | not surprisingly 
+[X] | not | uh ... no 
+[ADJP] | impermissible | not permissible 
+[ADJP] | refused | not accepted 
+[ADJP] | disappointing | not satisfactory 
+[X] | not | no , she did n't 
+[TOP] | wonderful | not bad , huh ? 
+[ADJP] | inexact | not correct 
+[INTJ] | not | hell , no 
+[X] | not | hell , no 
+[ADJP] | poor | not good 
+[X] | not | without any 
+[INTJ] | not | ah , no 
+[ADVP] | inadequately | not well 
+[X] | not | would n't it 
+[X] | not | they do n't 
+[ADVP] | shortly | not so long 
+[X] | not | ai n't i 
+[ADVP] | beyond | not just 
+[ADJP] | worthless | not useful 
+[ADJP] | elusive | not precise 
+[ADJP] | unspecified | not determined 
+[ADJP] | blameless | not guilty 
+[X] | not | of failing to 
+[X] | not | ai n't he 
+[ADJP] | lesser | not as important 
+[X] | not | no , actually 
+[ADJP] | unhelpful | not necessary 
+[X] | not | n't do it 
+[S] | not | i wo n't 
+[ADJP] | impassable | not practical 
+[X] | not | you wo n't 
+[ADJP] | unenforceable | not applicable 
+[X] | not | none of 
+[ADJP] | uncertain | not clear 
+[ADJP] | implausible | not likely 
+[X] | not | no , you wo n't 
+[ADVP] | net | not even 
+[X] | no | not yet 
+[ADJP] | unattainable | not possible 
+[ADJP] | ill-advised | not reasonable 
+[ADJP] | crazy | not normal 
+[NP] | not | no means 
+[ADJP] | futile | not useful 
+[X] | not | is without 
+[X] | not | no , it does n't 
+[ADJP] | evil | not good 
+[ADJP] | eh | not true 
+[INTJ] | not | oh , no , no 
+[X] | not | oh , no , no 
+[ADJP] | unwell | not appropriate 
+[ADJP] | n.d. | not available 
+[ADJP] | invalid | not ok 
+[ADJP] | negligeable | not significant 
+[X] | not | it is n't 
+[X] | not | will never 
+[ADJP] | untrue | not right 
+[X] | not | never been 
+[INTJ] | not | oh no 
+[VP] | not | oh no 
+[X] | not | oh no 
+[X] | not | could n't 
+[X] | not | still not 
+[X] | not | does n't she 
+[X] | not | not such 
+[NP] | shortly | not long 
+[ADJP] | objectionable | not acceptable 
+[ADJP] | mad | not crazy 
+[ADVP] | poorly | not adequately 
+[ADVP] | out | not here 
+[ADJP] | other | not limited to 
+[ADJP] | right | not , grandpa 
+[X] | not | not really 
+[ADVP] | incorrectly | not well 
+[X] | not | to fail to 
+[X] | not | not simply 
+[ADJP] | trivial | not important 
+[ADVP] | inevitably | not unexpectedly 
+[ADJP] | harsh | not cool 
+[S] | not | 's not 
+[X] | alia | not limited 
+[X] | not | no , she 's not 
+[X] | not | not even 
+[ADJP] | unequivocal | not subject to appeal 
+[ADVP] | both | not just 
+[X] | not | really do 
+[ADVP] | late | not later 
+[ADVP] | sometimes | not always 
+[ADJP] | nonexistent | not available 
+[VP] | not | are n't they 
+[X] | not | are n't they 
+[ADJP] | baseless | not valid 
+[ADJP] | open | not allocated 
+[ADVP] | anymore | not now 
+[ADJP] | unhelpful | not useful 
+[ADJP] | ineffective | not valid 
+[ADJP] | undetermined | not specified 
+[X] | not | n't make 
+[X] | not | they fail to 
+[X] | not | should n't 
+[X] | not | we do n't 
+[X] | not | and nor 
+[ADJP] | short | not many 
+[ADVP] | little | not well 
+[ADVP] | gee | not excessively 
+[ADJP] | ineffective | not operational 
+[ADJP] | nothing | not much 
+[ADVP] | nothing | not much 
+[ADJP] | ok | not serious 
+[ADVP] | equally | not less 
+[S] | not | no 's 
+[ADJP] | hard | not obvious 
+[ADJP] | minor | not significant 
+[ADVP] | damn | not excessively 
+[X] | not | otherwise than 
+[X] | not | does nothing to 
+[ADJP] | unwell | not good 
+[X] | not | no , we 're not 
+[ADJP] | tough | not obvious 
+[ADVP] | insufficiently | not long enough 
+[ADVP] | hardly | not quite 
+[X] | not | n't be 
+[ADJP] | mainly | not least 
+[X] | not | it ai n't 
+[ADJP] | logical | not surprising 
+[X] | not | this is n't 
+[X] | just | not but 
+[ADVP] | not | not simply 
+[ADVP] | shortly | not long ago 
+[ADJP] | wrong | not gonna 
+[ADVP] | then | not really so 
+[X] | not | not something 
+[X] | denied | not accepted 
+[ADJP] | unimportant | not significant 
+[X] | not | really not 
+[X] | not | had failed 
+[X] | not | 4 no 
+[X] | not | no way 
+[ADJP] | determining | not determined 
+[ADJP] | inhuman | not suitable 
+[X] | not | nothing to 
+[INTJ] | not | no , uh 
+[ADJP] | unbearable | not sustainable 
+[X] | not | oh , do 
+[INTJ] | not | no. no 
+[X] | not | absence of 
+[ADJP] | few | not long 
+[ADVP] | few | not long 
+[NP] | few | not long 
+[NP] | none | not applicable 
+[TOP] | none | not applicable 
+[ADVP] | shortly | not too long ago 
+[ADJP] | easier | not as easy 
+[NP] | little | not enough 
+[NP] | not | a lack 
+[X] | not | the non 
+[ADJP] | impractical | not impossible 
+[ADVP] | not | either not 
+[NP] | n | not applicable 
+[ADJP] | harmful | not safe 
+[X] | not | n't to 
+[X] | not | not fail 
+[ADVP] | bad | not adequately 
+[INTJ] | not | no , ma 'am 
+[X] | not | no , ma 'am 
+[ADVP] | nonetheless | not less 
+[X] | not | , do n't you 
+[TOP] | na | not applicable 
+[SBAR] | not | i do n't 
+[S] | not | i do n't 
+[X] | more | not either 
+[ADJP] | primarily | not least 
+[X] | not | , did n't i 
+[ADJP] | impossible | not available 
+[NP] | shortage | not enough 
+[ADJP] | untenable | not acceptable 
+[ADJP] | meaningless | not important 
+[FRAG] | possible | not impossible 
+[X] | not | no , he did n't 
+[X] | not | oh , no , not 
+[ADJP] | unhealthy | not good 
+[ADVP] | minus | not as 
+[X] | not | just does 
+[INTJ] | not | mm , no 
+[ADJP] | immaterial | not significant 
+[X] | only | not until 
+[ADJP] | underpaid | not sufficient 
+[INTJ] | not | n- no 
+[VP] | not | are n't l 
+[X] | not | which fail 
+[ADJP] | forbidden | not permissible 
+[X] | not | please do n't 
+[X] | not | no ... no 
+[ADJP] | little | not well 
+[ADJP] | okay | not hungry 
+[X] | not | not be able 
+[ADVP] | soon | not very long 
+[X] | not | was n't 
+[X] | not | not now 
+[ADJP] | intolerable | not sustainable 
+[X] | not | still do 
+[ADVP] | apart | not only 
+[ADJP] | improper | not right 
+[X] | not | not be allowed 
+[X] | not | ... no 
+[VP] | not | did n't 
+[X] | not | has failed 
+[X] | not | , non 
+[FRAG] | nice | not too bad 
+[ADJP] | questionable | not sure 
+[ADVP] | nearly | not far 
+[ADJP] | dicey | not safe 
+[ADVP] | only | not just 
+[ADJP] | possible | not impossible 
+[X] | not | that do n't 
+[ADJP] | unacceptable | not admissible 
+[ADJP] | unable | not feasible 
+[ADVP] | soon | not so long 
+[X] | not | then not 
+[X] | not | proceed without 
+[X] | not | " t 
+[X] | not | n't about 
+[ADJP] | naive | not guilty 
+[X] | not | just do n't 
+[ADJP] | inconsiderable | not significant 
+[ADVP] | just | not but 
+[ADVP] | lately | not long ago 
+[X] | not | n't not 
+[X] | not | has n't it 
+[ADJP] | undesirable | not appropriate 
+[VP] | not | don 't 
+[ADJP] | indeterminate | not specified 
+[X] | not | i did n't 
+[S] | pending | not fixed 
+[X] | not | have n't i 
+[X] | not | not yet been 
+[ADVP] | wrongly | not well 
+[X] | not | they fail 
+[S] | not | it is n't 
+[ADJP] | non-profit-making | not for profit 
+[X] | not | did n't they 
+[X] | no | not yet been 
+[ADJP] | bad | not ok 
+[ADJP] | inefficient | not efficient 
+[X] | not | fuck , no 
+[ADJP] | normal | not surprising 
+[ADJP] | handsome | not bad 
+[ADJP] | weak | not sufficient 
+[INTJ] | not | hey , no 
+[X] | not | hey , no 
+[X] | not | without the 
+[X] | not | be unable to 
+[X] | not | no , he 's not 
+[X] | not | are unable 
+[X] | not | n't the 
+[NP] | insufficiency | not enough 
+[X] | not | don ' 
+[ADJP] | redundant | not applicable 
+[ADJP] | fake | not right 
+[ADJP] | unsuitable | not suitable 
+[X] | alia | not limited to 
+[ADJP] | challenging | not easy 
+[ADJP] | irresponsible | not serious 
+[ADJP] | ambiguous | not clear 
+[VP] | not | wo n't 
+[X] | not | no criminal 
+[ADVP] | almost | not far 
+[X] | not | is neither 
+[ADVP] | inevitably | not surprisingly 
+[X] | shall | not allowed 
+[X] | not | did n't she 
+[ADJP] | irrelevant | not essential 
+[X] | not | is failing 
+[X] | not | not allowed 
+[X] | not | i 'm not 
+[X] | not | n't have 
+[X] | not | there 's no 
+[INTJ] | not | no , please 
+[X] | not | no , please 
+[ADJP] | ineligible | not admissible 
+[X] | not | of ne 
+[INTJ] | not | no , neo 
+[X] | not | are failing 
+[ADJP] | unfair | not reasonable 
+[X] | no | not making 
+[ADVP] | so | not really so 
+[X] | not | to refrain 
+[X] | not | n't for 
+[X] | not | un no. 
+[SBAR] | not | you do n't 
+[ADJP] | distinct | not equal 
+[ADJP] | unclear | not sure 
+[ADVP] | except | not only 
+[X] | not | has n't 
+[X] | not | be without 
+[ADJP] | short | not much 
+[X] | until | not till 
+[X] | if | not unless 
+[X] | not | to proceed without 
+[NP] | not | the moment 
+[ADVP] | close | not too far 
+[ADJP] | alright | not bad 
+[X] | not | is unable 
+[SBAR] | not | no , eddie 
+[X] | not | that fail 
+[X] | not | i 'm afraid not 
+[VP] | not | was n't he 
+[X] | not | was n't he 
+[VP] | not | ai n't you 
+[X] | not | ai n't you 
+[FRAG] | also | not least 
+[ADJP] | superfluous | not necessary 
+[ADJP] | low | not many 
+[ADJP] | impossible | not sustainable 
+[ADVP] | difficile | not easily 
+[X] | not | 's failure to 
+[X] | even | not to say 
+[X] | not | she failed to 
+[ADVP] | n't | not not 
+[X] | not | n't do that 
+[NP] | not | no. 973 
+[VP] | not | 's remembered 
+[ADJP] | unnatural | not normal 
+[X] | not | -lrb- no. 
+[X] | not | heading no. 
+[ADJP] | unlimited | not determined 
+[ADJP] | pretend | not serious 
+[ADJP] | living | not alive 
+[ADJP] | low | not much 
+[X] | not | , do n't you think 
+[X] | no | not wearing 
+[NP] | easy | not a problem 
+[INTJ] | not | er , no 
+[ADVP] | soon | not long ago 
+[ADVP] | hard | not well 
+[ADJP] | inconclusive | not clear 
+[VP] | not | is n't 
+[ADJP] | optional | not mandatory 
+[ADJP] | unusual | not right 
+[INTJ] | not | no , see 
+[X] | not | yet , 
+[X] | not | to fail 
+[X] | not | hell no 
+[X] | not | that you do n't 
+[X] | not | no programme 
+[X] | not | now , do 
+[ADVP] | elsewhere | not only 
+[X] | not | we fail 
+[X] | not | you did n't 
+[X] | not | well , do 
+[X] | not | , huh 
+[X] | not | yet to 
+[ADJP] | unreasonable | not appropriate 
+[ADVP] | wrong | not adequately 
+[ADJP] | prevalent | not uncommon 
+[X] | denied | not approved 
+[X] | not | nothing to do 
+[ADJP] | unacceptable | not desirable 
+[X] | not | n't ... 
+[ADJP] | lacking | not available 
+[FRAG] | none | not one 
+[INTJ] | not | yeah , no 
+[X] | not | yeah , no 
+[ADVP] | away | not far from here 
+[X] | not | to refrain from 
+[ADJP] | unaltered | not modified 
+[ADJP] | wrong | not , dude 
+[X] | not | no , you ca n't 
+[ADJP] | impressive | not bad 
+[ADVP] | nevertheless | not less 
+[ADVP] | soon | not too long ago 
+[TOP] | wonderful | not bad , eh ? 
+[X] | off | not selected 
+[NP] | sure | not a problem 
+[FRAG] | particularly | not least 
+[X] | not | - do n't 
+[X] | not | just wo 
+[S] | too | not least 
+[X] | not | n't they 
+[X] | not | do nothing to 
+[ADJP] | habitual | not unusual 
+[X] | not | have failed 
+[X] | not | would n't you 
+[ADJP] | reprehensible | not acceptable 
+[X] | not | nothing of 
+[X] | not | no fucking 
+[X] | shall | not be allowed 
+[ADJP] | adequate | not enough 
+[ADJP] | improper | not ok 
+[X] | not | he 's not 
+[NP] | not | the failure 
+[ADJP] | flawed | not correct 
+[ADVP] | within | not later 
+[X] | not | no ... not 
+[S] | not | deny it 
+[ADJP] | shortly | not long 
+[X] | none | not a single 
+[ADJP] | poor | not sufficient 
+[ADVP] | without | not yet 
+[X] | not | that failed to 
+[ADJP] | optional | not compulsory 
+[X] | not | instead of 
+[ADVP] | too | not enough 
+[X] | not | that fail to 
+[ADVP] | recently | not long after 
+[X] | not | now do 
+[X] | not | , yet , 
+[X] | not | shall only 
+[ADJP] | considerable | not insignificant 
+[ADJP] | limited | not much 
+[X] | not | uh , not 
+[ADVP] | frequently | not often 
+[X] | not | free of 
+[X] | not | which fail to 
+[ADVP] | inadequately | not enough 
+[X] | not | i mean , not 
+[X] | not | no big 
+[X] | not | the failure 
+[ADVP] | golly | not excessively 
+[ADVP] | jeez | not excessively 
+[ADJP] | lousy | not good 
+[X] | not | has failed to 
+[X] | not | ' t 
+[X] | shall | not allowed to 
+[ADJP] | minimal | not very important 
+[NP] | too | not enough 
+[ADVP] | scarcely | not easily 
+[ADVP] | leonard | not now 
+[X] | not | it 's no 
+[ADVP] | strongly | not at all 
+[X] | not | refuse to 
+[X] | not | no , they 're not 
+[ADJP] | moot | not important 
+[INTJ] | not | wait , no 
+[X] | not | wait , no 
+[X] | none | not one of 
+[X] | attention | not careful 
+[INTJ] | not | no , honey 
+[X] | not | no , honey 
+[ADVP] | nearby | not too far 
+[X] | not | n't that 
+[X] | not | place of 
+[ADVP] | hardly | not even 
+[ADJP] | weird | not normal 
+[X] | not | including not 
+[X] | not | impossible to 
+[NP] | anyone | not one 
+[X] | not | will only 
+[X] | not | he failed to 
+[ADJP] | unreal | not true 
+[TOP] | n.a. | not applicable 
+[ADJP] | important | not insignificant 
+[X] | not | nothin ' 
+[X] | not | . no. 
+[ADVP] | badly | not adequately 
+[X] | not | please , do 
+[X] | not | , rather 
+[X] | not | ca n't you 
+[X] | not | they failed 
+[X] | not | do n't you just 
+[NP] | underemployment | not enough 
+[INTJ] | not | no , dude 
+[VP] | not | were n't you 
+[X] | not | were n't you 
+[ADJP] | miserable | not possible 
+[ADJP] | ok | not bad 
+[ADVP] | hardly | not too 
+[X] | not | that ai n't 
+[ADVP] | totally | not at all 
+[X] | not | just did 
+[ADJP] | sorry | not cool 
+[ADJP] | unnecessary | not applicable 
+[ADJP] | silly | not jaydee 
+[ADVP] | furthermore | not only that 
+[ADJP] | fine | not serious 
+[ADJP] | inconceivable | not acceptable 
+[ADJP] | unfilled | not allocated 
+[ADVP] | hardly | not reaily 
+[X] | not | she failed 
+[X] | not | they failed to 
+[ADVP] | n't | not just 
+[ADVP] | away | not even here 
+[X] | not | he failed 
+[ADJP] | weak | not enough 
+[X] | not | not very 
+[X] | before | not later than 
+[ADVP] | hunt | not here 
+[S] | no | not , sir 
+[X] | not | n't even 
+[ADVP] | not | just not 
+[X] | not | do n't , do n't 
+[ADJP] | sparse | not many 
+[ADVP] | near | not far 
+[X] | not | are away from 
+[ADJP] | unwell | not right 
+[X] | none | not any 
+[NP] | tara | not everything 
+[X] | not | please , no 
+[ADJP] | small | not many 
+[X] | not | omitted to 
+[X] | not | opposed to 
+[X] | not | and non 
+[ADVP] | scarcely | not readily 
+[S] | not | please do n't 
+[VP] | not | please do n't 
+[ADJP] | unconscionable | not permissible 
+[INTJ] | not | uh , no , no 
+[ADJP] | unsupported | not compatible 
+[ADJP] | panicky | not possible 
+[ADJP] | sensible | not unreasonable 
+[ADJP] | thin | not much 
+[ADVP] | before | not later 
+[ADJP] | hard | not as easy 
+[X] | not | 's none 
+[FRAG] | evil | not good 
+[VP] | not | have n't you 
+[X] | not | have n't you 
+[X] | not | just ca 
+[X] | not | had failed to 
+[ADJP] | different | not identical 
+[SBAR] | not | i 'm not 
+[S] | not | i 'm not 
+[ADJP] | inaccurate | not right 
+[ADJP] | unworkable | not possible 
+[X] | not | 's failure 
+[X] | against | not in favour 
+[ADJP] | few | not enough 
+[X] | not | not , however 
+[ADJP] | mistaken | not correct 
+[X] | no | not now 
+[ADJP] | inappropriate | not right 
+[ADJP] | wide | not inconsiderable 
+[X] | not | , does n't it 
+[ADJP] | unconscionable | not acceptable 
+[S] | not | not , sir 
+[ADVP] | minus | not so 
+[ADJP] | indefensible | not acceptable 
+[ADJP] | superfluous | not applicable 
+[X] | not | actually , no 
+[ADJP] | disingenuous | not true 
+[X] | not | not ... 
+[ADJP] | dirty | not cool 
+[VP] | not | do nothing 
+[X] | not | wo n't you 
+[X] | not | who do n't 
+[X] | not | - no , i do n't 
+[ADJP] | conflicting | not compatible 
+[X] | not | it was n't 
+[ADJP] | incomplete | not perfect 
+[ADJP] | unknown | not available 
+[TOP] | unknown | not available 
+[X] | not | would never 
+[X] | not | of failure to 
+[X] | not | not otherwise 
+[INTJ] | not | okay , no 
+[X] | not | okay , no 
+[X] | not | that failed 
+[X] | not | have n't we 
+[X] | not | bear in 
+[X] | not | i would n't 
+[X] | not | you 're not 
+[X] | not | , are n't you 
+[ADJP] | poor | not enough 
+[ADJP] | irrelevant | not necessary 
+[X] | not | no , i ai n't 
+[ADJP] | fucked | not jaydee 
+[ADJP] | unthinkable | not acceptable 
+[ADJP] | easier | not hard 
+[X] | not | it wo n't 
+[ADVP] | merely | not only 
+[X] | not | n't get 
+[ADJP] | adequate | not sufficient 
+[ADJP] | inadequate | not relevant 
+[X] | no | not getting 
+[X] | not | 2 no 
+[ADVP] | immediately | not long 
+[X] | not | are without 
+[X] | often | not uncommon 
+[ADJP] | vast | not inconsiderable 
+[ADVP] | pat | not even 
+[ADJP] | unrealistic | not real 
+[X] | can | not able 
+[X] | not | no , it was n't 
+[ADVP] | apart | not just 
+[ADJP] | untrue | not , dude 
+[TOP] | warning | not classified 
+[X] | not | - no. 
+[X] | not | the failure to 
+[X] | not | really do not 
+[X] | not | not true 
+[X] | not | , rather than 
+[ADJP] | voluntary | not mandatory 
+[ADJP] | substantial | not less 
+[ADVP] | low | not very 
+[ADJP] | costly | not cheap 
+[ADVP] | inappropriately | not well 
+[X] | not | it without 
+[ADJP] | incorrect | not good 
+[ADJP] | meaningless | not necessary 
+[X] | not | who failed 
+[X] | not | you ca n't 
+[ADJP] | modest | not much 
+[FRAG] | particular | not least 
+[ADJP] | phony | not , dude 
+[ADJP] | noticeable | not insignificant 
+[X] | not | n't she 
+[ADJP] | unsafe | not sure 
+[VP] | not | 'm not 
+[X] | man | not be implemented 
+[X] | not | n't do 
+[SBAR] | not | i did n't 
+[S] | not | i did n't 
+[ADVP] | bit | not well 
+[X] | not | no , i ca n't 
+[ADJP] | harmless | not bad 
+[X] | not | we fail to 
+[ADJP] | infeasible | not impossible 
+[NP] | person | not one 
+[X] | person | not one 
+[X] | no | not part 
+[X] | not | neither a 
+[INTJ] | not | - oh , no 
+[X] | not | - oh , no 
+[ADJP] | ugly | not good 
+[ADVP] | amiss | not well 
+[X] | not | will neither 
+[X] | not | who fail 
+[X] | not | rather , 
+[ADJP] | unaltered | not changed 
+[X] | not | failure of 
+[ADJP] | doubtful | not safe 
+[X] | no | not maintain 
+[X] | not | n't on 
+[X] | not | you ca 
+[ADVP] | poor | not well 
+[ADVP] | not | not only 
+[NP] | inadequacies | not enough 
+[ADJP] | inappropriate | not acceptable 
+[ADJP] | insufferable | not possible 
+[ADJP] | meaningless | not significant 
+[X] | not | is nothing 
+[VP] | not | ca n't 
+[X] | not | wo n't we 
+[X] | not | it neither 
+[SBAR] | not | it is n't 
+[X] | not | , do n't they 
+[X] | not | nor is 
+[X] | no | not think so 
+[ADJP] | satisfactory | not ideal 
+[X] | not | ... do 
+[X] | not | ai n't she 
+[X] | not | , are n't i 
+[X] | not | as opposed 
+[ADVP] | never | not yet 
+[ADVP] | latest | not now 
+[ADVP] | completely | not at all 
+[X] | not | , did n't you 
+[ADVP] | fewer | not as 
+[X] | no | not otherwise 
+[X] | not | - uh , no 
+[ADJP] | misused | not right 
+[X] | not | not in fact 
+[ADVP] | ill | not easily 
+[ADJP] | voluntary | not compulsory 
+[ADJP] | even | not least 
+[ADJP] | difficult | not obvious 
+[NP] | anything | not much 
+[VP] | not | 're not 
+[ADJP] | unavailable | not possible 
+[ADVP] | no. | not yet 
+[X] | against | not support 
+[X] | not | this ai n't 
+[ADJP] | no | not possible 
+[INTJ] | not | - nope 
+[X] | not | - nope 
+[ADVP] | no | not now 
+[FRAG] | no | not now 
+[TOP] | none | not one . 
+[NP] | shortfall | not enough 
+[ADJP] | negligible | not very important 
+[ADVP] | least | not even 
+[ADJP] | irrelevant | not useful 
+[SBAR] | not | it 's not 
+[X] | as | not unlike 
+[ADJP] | unreasonable | not normal 
+[ADJP] | scarce | not many 
+[X] | not | that fails 
+[X] | danger | not safe 
+[SBAR] | not | they do n't 
+[S] | not | they do n't 
+[X] | disability | not able 
+[ADJP] | erroneous | not right 
+[X] | no | not such 
+[X] | no | not stop 
+[ADJP] | irreconcilable | not compatible 
+[ADJP] | unclear | not transparent 
+[ADJP] | evil | not right 
+[ADJP] | lower | not as important 
+[X] | not | , is n't he 
+[TOP] | initial | not yet received 
+[X] | error | not mistaken 
+[ADJP] | identify | not determined 
+[ADJP] | tired | not jaydee 
+[X] | not | god , no 
+[ADJP] | easier | not difficult 
+[FRAG] | easier | not difficult 
+[X] | not | - nah 
+[X] | not | not quite 
+[NP] | not | no. 33480 
+[X] | not | no. 33480 
+[X] | not | who fail to 
+[X] | not | no extra 
+[X] | not | borne in 
+[ADJP] | ridiculous | not serious 
+[ADVP] | no | not just 
+[X] | not | not be able to 
+[ADJP] | near | not too distant 
+[X] | not | ca n't i 
+[INTJ] | not | no , look 
+[X] | not | no , look 
+[X] | not | n't in 
+[ADJP] | small | not very important 
+[X] | not | nor to 
+[ADVP] | low | not much 
+[NP] | low | not much 
+[NP] | nobody | not everyone 
+[ADVP] | nowhere | not even 
+[ADJP] | unjustified | not right 
+[X] | shall | not permitted to 
+[X] | not | and neither 
+[X] | not | that fails to 
+[ADJP] | outrageous | not acceptable 
+[ADVP] | not | not now 
+[ADJP] | invalid | not correct 
+[ADVP] | ill | not readily 
+[X] | not | she 's not 
+[X] | not | , do n't i 
+[X] | not | i mean , no 
+[X] | not | oh , no , sir 
+[X] | not | do n't you agree 
+[ADVP] | actually | not really , 
+[ADJP] | broad | not inconsiderable 
+[X] | not | not a case 
+[ADJP] | obsolete | not applicable 
+[X] | no | not really 
+[X] | not | they wo n't 
+[S] | not | this is not the case 
+[ADVP] | little | not too 
+[ADJP] | erroneous | not true 
+[S] | not | it does n't 
+[ADJP] | meaningless | not useful 
+[ADJP] | common | not unusual 
+[X] | not | please do not 
+[X] | not | is absent from 
+[X] | not | sales no 
+[X] | not | a failure 
+[NP] | none | not a thing 
+[X] | not | simply do 
+[X] | not | -no , not 
+[S] | other | not limited to 
+[ADJP] | moot | not available 
+[X] | not | rather not 
+[X] | not | that does n't 
+[ADVP] | geez | not excessively 
+[X] | shall | not permitted 
+[NP] | nothin | not a thing 
+[ADJP] | uncertain | not safe 
+[X] | like | not unlike 
+[ADJP] | untrue | not accurate 
+[X] | not | were n't 
+[X] | not | , ai n't it 
+[ADJP] | crazy | not funny 
+[ADJP] | harmless | not harmful 
+[ADJP] | bad | not desirable 
+[X] | not | , did n't he 
+[X] | not | the lack of 
+[ADJP] | unfeasible | not impossible 
+[ADVP] | never | not even 
+[ADJP] | redundant | not useful 
+[X] | not | absence without 
+[X] | not | decide not 
+[X] | not | n't think 
+[ADJP] | unachievable | not possible 
+[X] | not | none at 
+[ADJP] | especiaily | not least 
+[X] | not | then no 
+[ADVP] | recently | not long afterwards 
+[SBAR] | not | you wo n't 
+[S] | not | you wo n't 
+[X] | not | of gross 
+[X] | not | n't it be 
+[ADJP] | badly | not good 
+[ADJP] | objectionable | not permissible 
+[ADJP] | unacceptable | not eligible 
+[ADJP] | usual | not unusual 
+[X] | even | not least 
+[ADJP] | phony | not correct 
+[ADVP] | no | not otherwise 
+[X] | not | are not allowed 
+[ADJP] | disgraceful | not acceptable 
+[ADJP] | few | not less 
+[ADJP] | noticeable | not inconsiderable 
+[X] | not | they 're not 
+[ADJP] | impracticable | not impossible 
+[X] | not | -no , i 'm not 
+[ADVP] | avoid | not too much 
+[X] | not | is not something 
+[ADJP] | noticeable | not negligible 
+[S] | not | you did n't 
+[ADJP] | insignificant | not likely 
+[ADVP] | frequently | not infrequently 
+[X] | less | not nearly 
+[X] | none | not a 
+[ADJP] | minimal | not many 
+[X] | not | have failed to 
+[SBAR] | not | he did n't 
+[S] | not | he did n't 
+[X] | not | he did n't 
+[X] | only | not till 
+[ADVP] | closely | not far 
+[X] | not | - no , i 'm not 
+[ADJP] | inhumane | not suitable 
+[X] | not | rather than a 
+[X] | not | of failure 
+[X] | not | which failed 
+[ADJP] | superfluous | not useful 
+[NP] | short | not long 
+[X] | not | are failing to 
+[ADVP] | slim | not excessively 
+[ADVP] | n't | not well 
+[ADJP] | anything | not much 
+[ADVP] | anything | not much 
+[ADJP] | sick | not ill 
+[ADJP] | low | not very important 
+[ADVP] | recently | not too long 
+[ADJP] | mistaken | not right 
+[X] | not | no , it 's not okay 
+[ADVP] | not | not otherwise 
+[ADJP] | possible | not feasible 
+[X] | denied | not issued 
+[ADJP] | unhealthy | not reasonable 
+[ADJP] | inconvenient | not appropriate 
+[X] | not | oh , do n't 
+[ADJP] | marginal | not significant 
+[X] | not | , did n't it 
+[ADVP] | least | not more 
+[X] | not | that i do n't 
+[ADJP] | huh | not , grandpa 
+[ADJP] | unreasonable | not acceptable 
+[ADJP] | crazy | not right 
+[X] | no | not just 
+[ADJP] | non-compliant | not receivable 
+[NP] | few | not enough 
+[X] | not | it hardly 
+[ADVP] | more | not anymore 
+[FRAG] | more | not anymore 
+[X] | more | not anymore 
+[X] | not | no , i just 
+[X] | not | not mean 
+[X] | not | no , forget it 
+[ADVP] | enough | not long enough 
+[ADJP] | confused | not sure 
+[ADVP] | no | not really 
+[X] | more | not still 
+[X] | not | ... do n't 
+[X] | not | no , jack 
+[ADJP] | insulting | not right 
+[X] | not | of course not 
+[ADJP] | bullshit | not true 
+[X] | disability | not capable 
+[NP] | not | nothing to 
+[X] | shall | not be permitted 
+[ADJP] | shortly | not many 
+[X] | not | that are n't 
+[VP] | not | are n't 
+[X] | not | ca n't he 
+[X] | not | no , i would n't 
+[INTJ] | not | no , sam 
+[X] | not | no , sam 
+[X] | not | without an 
+[ADJP] | hopeless | not possible 
+[X] | not | is n't there 
+[X] | not | no , really 
+[X] | not | yeah , not 
+[X] | not | who are n't 
+[X] | not | certainly do not 
+[ADVP] | no | not simply 
+[X] | against | not only against 
+[X] | not | no , he was n't 
+[ADJP] | unkind | not correct 
+[X] | not | , do n't it 
+[X] | not | is n't that right 
+[ADVP] | more | not longer 
+[X] | not | government not 
+[X] | not | , are n't we 
+[ADJP] | deficient | not satisfactory 
+[X] | not | are unable to 
+[X] | not | ai n't no 
+[ADJP] | deficient | not adequate 
+[X] | not | n't have any 
+[X] | not | no , i mean 
+[X] | not | non for 
+[ADVP] | hardly | not very 
+[X] | not | n't true 
+[ADJP] | feasible | not possible 
+[X] | especially | not least in 
+[ADVP] | darn | not excessively 
+[ADJP] | intolerable | not permissible 
+[X] | not | - it 's not 
+[ADVP] | n't | not even 
+[X] | not | i ca n't 
+[X] | not | short of 
+[ADVP] | not | not quite 
+[X] | not | look , do 
+[ADVP] | worse | not well 
+[X] | not | - hell , no 
+[ADJP] | undetermined | not known 
+[ADJP] | inadequate | not suitable 
+[ADJP] | wrong | not acceptable 
+[ADVP] | not | not really 
+[ADVP] | gosh | not excessively 
+[ADJP] | unaffected | not modified 
+[X] | less | not more 
+[ADVP] | not | not again 
+[ADVP] | ever | not once 
+[X] | not | n't there 
+[X] | not | i do n't think so 
+[NP] | deficiency | not enough 
+[X] | not | has n't he 
+[ADJP] | redundant | not necessary 
+[X] | not | neither the 
+[X] | not | i have n't 
+[X] | not | i do n't mean 
+[X] | not | he does n't 
+[ADJP] | practicable | not feasible 
+[X] | not | it did n't 
+[ADVP] | barely | not easily 
+[ADVP] | absolutely | not at all 
+[ADJP] | scarce | not sufficient 
+[X] | not | has yet 
+[ADJP] | unnatural | not right 
+[NP] | not | no. 31363 
+[VP] | not | do n't do it 
+[X] | not | do n't do it 
+[NP] | not | no. 2545 
+[ADJP] | short | not enough 
+[ADJP] | unconscionable | not reasonable 
+[NP] | not | the lack 
+[INTJ] | not | catalogue no 
+[X] | not | catalogue no 
+[ADJP] | unlimited | not limited 
+[ADJP] | immaterial | not relevant 
+[X] | not | , was n't it 
+[NP] | not | the absence 
+[INTJ] | not | no , dad 
+[X] | not | no , dad 
+[NP] | no | not a thing 
+[X] | no | not a thing 
+[ADJP] | reasonnable | not unreasonable 
+[X] | not | who failed to 
+[ADJP] | sick | not good 
+[ADJP] | understandable | not surprising 
+[ADJP] | absent | not available 
+[ADVP] | inside | not later 
+[S] | not | i ca n't 
+[X] | not | which fails 
+[X] | not | s not 
+[X] | no | not simply 
+[X] | not | mean , 
+[INTJ] | not | - no , sir 
+[X] | not | - no , sir 
+[X] | not | no , it ca n't 
+[INTJ] | not | no , wait 
+[X] | not | no , wait 
+[X] | not | that is n't 
+[X] | no | not a single 
+[ADJP] | pricey | not cheap 
+[ADJP] | inactive | not operational 
+[ADVP] | fewer | not so much 
+[ADVP] | merely | not but 
+[X] | not | would only 
+[X] | denied | not allowed 
+[ADVP] | not | not too 
+[ADJP] | toothless | not effective 
+[X] | no | not given 
+[X] | not | not permitted 
+[X] | not | , does n't he 
+[X] | not | n't have a 
+[X] | application | not sure 
+[X] | not | you fail 
+[INTJ] | not | -no , no 
+[X] | not | -no , no 
+[NP] | fine | not a problem 
+[X] | not | , god 
+[X] | not | keep in 
+[ADVP] | not | ever before 
+[X] | not | ever before 
+[ADJP] | appalling | not acceptable 
+[ADJP] | unlikely | not possible 
+[X] | not | are neither 
+[X] | not | not containing 
+[ADJP] | inappropriate | not desirable 
+[X] | responsibility | not responsible 
+[ADJP] | unattainable | not impossible 
+[ADVP] | around | not too far 
+[ADVP] | nowhere | not far 
+[X] | no | not waste 
+[X] | not | 'm only 
+[ADJP] | badly | not right 
+[X] | not | , neither 
+[ADJP] | moved | not appropriate 
+[X] | not | have yet 
+[X] | not | - oh no 
+[ADVP] | barely | not readily 
+[ADVP] | away | not far 
+[NP] | deficiencies | not enough 
+[NP] | person | not everyone 
+[X] | not | refraining from 
+[FRAG] | tough | not easy 
+[ADJP] | underfunded | not sufficient 
+[ADJP] | sketchy | not complete 
+[X] | not | if it was n't for 
+[VP] | not | have n't 
+[X] | not | failed to do 
+[X] | not | hey , do 
+[ADVP] | mal | not adequately 
+[ADJP] | weak | not satisfactory 
+[X] | not | now no 
+[X] | not | , did n't we 
+[X] | especially | not least , 
+[ADVP] | less | not even 
+[X] | less | not even 
+[ADVP] | wrong | not at all 
+[X] | not | not able to 
+[X] | not | a lack of 
+[X] | not | " do n't 
+[X] | not | is n't it , 
+[ADJP] | rough | not easy 
+[ADVP] | not | all right 
+[X] | law | not entitled 
+[X] | not | not allowed to 
+[X] | not | , do n't we 
+[X] | not | let 's not 
+[ADVP] | minus | not so much 
+[X] | not | n't go 
+[ADJP] | alright | not serious 
+[ADJP] | poor | not satisfactory 
+[ADVP] | good | not well 
+[INTJ] | not | -oh , no 
+[X] | not | -oh , no 
+[X] | not | absence from 
+[ADVP] | no | not even 
+[X] | not | it never 
+[ADJP] | insignificant | not many 
+[X] | not | being unable 
+[X] | not | that 's no 
+[ADJP] | perilous | not safe 
+[ADJP] | unknown | not determined 
+[X] | not | - you do n't 
+[S] | not | you 're not 
+[X] | not | be impossible 
+[X] | not | not then 
+[ADVP] | still | not always 
+[X] | not | not been able to 
+[ADVP] | n't | not much 
+[ADJP] | few | not well 
+[ADVP] | few | not well 
+[NP] | limited | not much 
+[X] | not | not able 
+[NP] | not | a failure 
+[X] | not | who 's not 
+[X] | not | they did n't 
+[ADJP] | inadmissible | not right 
+[ADJP] | common | not uncommon 
+[ADJP] | hurt | not good 
+[X] | most | not either 
+[VP] | not | fuck that 
+[ADJP] | cool | not serious 
+[S] | not | i mean 
+[X] | not | i mean 
+[X] | no | not then 
+[X] | not | not happen 
+[ADJP] | ineffective | not useful 
+[TOP] | enforceability | not a problem . 
+[X] | representation | not represented 
+[X] | not | n't you think 
+[X] | not | it do n't 
+[ADVP] | iater | not now 
+[VP] | not | am i right 
+[X] | not | am i right 
+[X] | not | at the very 
+[ADJP] | missing | not available 
+[ADVP] | poorly | not very 
+[X] | not | is n't that 
+[ADJP] | unsatisfactory | not adequate 
+[ADJP] | close | not too distant 
+[X] | note | not notice 
+[NP] | nothing | not everything 
+[ADJP] | misguided | not appropriate 
+[ADJP] | illogical | not reasonable 
+[X] | not | not here 
+[SBAR] | not | we do n't 
+[S] | not | we do n't 
+[ADVP] | not | not right 
+[X] | not | of unexploded 
+[NP] | not | an absence 
+[X] | less | not be as 
+[X] | no | not something 
+[ADVP] | least | not less 
+[X] | not | person shall 
+[X] | protection | not protected 
+[ADJP] | low | not enough 
+[X] | against | not approve of 
+[X] | not | during the 
+[X] | not | be borne 
+[ADJP] | vain | not necessary 
+[ADVP] | awry | not well 
+[X] | not | no , stop 
+[ADVP] | poorly | not much 
+[ADJP] | unwell | not applicable 
+[X] | not | , is n't she 
+[X] | not | nor a 
+[X] | most | not more 
+[X] | not | is unable to 
+[X] | use | not be used 
+[ADVP] | merely | not just 
+[X] | not | to never 
+[X] | these | not such 
+[X] | not | not therefore 
+[X] | not | be prohibited 
+[ADJP] | less | not complete 
+[X] | not | n't fucking 
+[X] | not | not making 
+[X] | off | not set 
+[ADJP] | insufferable | not acceptable 
+[ADVP] | fewer | not so 
+[X] | denied | not willing 
+[ADJP] | surprising | not unusual 
+[X] | not | all right 
+[NP] | low | not long 
+[ADJP] | mistaken | not true 
+[ADVP] | even | not yet 
+[X] | not | never be 
+[ADJP] | realistic | not practical 
+[X] | includes | not deduct 
+[X] | can | not in a position 
+[ADJP] | nonsense | not true 
+[NP] | more | not everything 
+[ADJP] | others | not limited to 
+[NP] | nothing | not one 
+[X] | not | is failing to 
+[X] | no | not ... 
+[X] | not | not put 
+[X] | not | to avoid 
+[X] | not | 're welcome 
+[ADVP] | elsewhere | not just 
+[ADJP] | wrong | not appropriate 
+[ADJP] | low | not sufficient 
+[X] | not | now not 
+[X] | not | therefore not 
+[ADVP] | not | ai n't 
+[ADJP] | minimal | not much 
+[ADJP] | just | not wrong 
+[ADVP] | actually | not really 
+[NP] | anybody | not one 
+[ADJP] | non-compliant | not admissible 
+[ADJP] | mandatory | not valid 
+[NP] | okay | not a thing 
+[ADJP] | shortly | not enough 
+[FRAG] | more | not only that 
+[X] | more | not only that 
+[X] | no | not fail 
+[S] | not | they 're not 
+[X] | not | if we do n't 
+[ADJP] | universal | not uncommon 
+[X] | question | not gonna happen 
+[ADJP] | misguided | not true 
+[X] | not | no , i do n't know 
+[NP] | not | my god 
+[X] | not | my god 
+[ADJP] | alive | not dead 
+[ADVP] | again | not yet 
+[X] | not | who fails 
+[X] | not | 've no 
+[FRAG] | nothing | not one 
+[X] | not | n't help 
+[ADVP] | short | not much 
+[X] | not | nor the 
+[X] | not | , you do n't 
+[S] | not | there are no queries 
+[ADJP] | unreliable | not acceptable 
+[X] | not | n't nothing 
+[ADJP] | unjust | not reasonable 
+[X] | not | not actually 
+[ADJP] | obliged | not right 
+[S] | not | it did n't 
+[X] | no | not provide 
+[X] | not | ... without 
+[ADVP] | evidently | not surprisingly 
+[ADVP] | unless | not only 
+[VP] | not | was n't 
+[ADJP] | bad | not correct 
+[ADJP] | small | not much 
+[X] | not | no , you know 
+[X] | not | n't going 
+[ADJP] | wrong | not accurate 
+[X] | not | ca n't we 
+[ADVP] | hardly | not often 
+[X] | not | no , never 
+[ADJP] | untenable | not possible 
+[X] | not | i guess not 
+[X] | not | not get 
+[ADJP] | unnecessary | not appropriate 
+[X] | whether | not unless 
+[X] | not | there is n't 
+[X] | not | not the case 
+[X] | less | not strictly 
+[S] | not | it easy 
+[X] | not | it easy 
+[X] | not | are either 
+[X] | not | no , we ca n't 
+[ADVP] | soon | not much 
+[X] | name | not hold 
+[X] | not | not wearing 
+[X] | not | , are n't they 
+[ADVP] | away | not now 
+[X] | even | not differ 
+[X] | not | - you have n't 
+[FRAG] | okay | not anything 
+[X] | not | free from 
+[ADJP] | inequitable | not right 
+[X] | not | who fails to 
+[ADJP] | clean | not ill 
+[ADJP] | unaffordable | not sustainable 
+[ADVP] | less | not more 
+[X] | not | though not 
+[X] | not | n't try 
+[ADVP] | barely | not really 
+[ADJP] | tenable | not sustainable 
+[X] | use | not used 
+[ADVP] | recently | not long thereafter 
+[X] | not | , would n't it 
+[X] | not | do n't , 
+[ADJP] | questionable | not right 
+[ADVP] | formerly | not so long ago 
+[X] | not | is only 
+[ADJP] | outside | not gonna 
+[X] | not | n't do this 
+[ADJP] | not | that correct 
+[ADVP] | soon | not very 
+[ADJP] | thin | not many 
+[X] | not | have never 
+[ADJP] | unaffected | not changed 
+[ADVP] | oh | not here 
+[ADJP] | underpaid | not enough 
+[X] | less | not quite 
+[ADVP] | clearly | not surprisingly 
+[ADVP] | crap | not excessively 
+[X] | not | course not 
+[ADVP] | short | not very 
+[ADVP] | well | not even 
+[X] | not | -lsb- chuckles 
+[NP] | really | not a thing 
+[X] | no | not a bit 
+[ADJP] | impractical | not applicable 
+[X] | not | , it 's not 
+[ADJP] | sufficient | not adequate 
+[ADJP] | helpless | not necessary 
+[X] | not | abstain from 
+[ADJP] | crazy | not good 
+[ADVP] | forever | not ever 
+[NP] | no-one | not everyone 
+[ADJP] | low | not long 
+[ADVP] | low | not long 
+[X] | not | nor did 
+[ADVP] | prior | not later 
+[ADVP] | without | not even 
+[X] | not | can never 
+[X] | not | is none 
+[X] | not | not say 
+[S] | not | you know 
+[X] | not | was neither 
+[NP] | shortfalls | not enough 
+[X] | not | were unable 
+[ADJP] | horrible | not polite 
+[X] | not | step , 
+[X] | denied | not accept 
+[ADJP] | modest | not large 
+[X] | not | not enough 
+[SBAR] | not | he 's not 
+[S] | not | he 's not 
+[X] | not | n't at 
+[ADJP] | hurt | not right 
+[ADVP] | bit | not too 
+[ADVP] | inter | not only 
+[ADJP] | confused | not safe 
+[X] | not | onto the 
+[ADVP] | besides | not only that 
+[FRAG] | besides | not only that 
+[ADVP] | not | right now 
+[NP] | tara | not all 
+[X] | particularly | not least in 
+[X] | implementation | not be applied 
+[ADVP] | hardly | not well 
+[ADJP] | harder | not easy 
+[ADVP] | hardly | not much 
+[X] | even | not changed 
+[X] | not | was without 
+[ADJP] | unsustainable | not acceptable 
+[X] | not | , however , 
+[X] | not | , t 
+[X] | not | without being 
+[X] | not | , except 
+[S] | not | that is not the case 
+[X] | not | that is not the case 
+[X] | not | n't anything 
+[X] | not | it impossible 
+[X] | none | not one single 
+[VP] | not | do n't do that 
+[X] | not | do n't do that 
+[ADJP] | ineligible | not right 
+[X] | not | not possible 
+[ADVP] | shoot | not excessively 
+[X] | not | rather than the 
+[X] | not | no vote 
+[X] | not | n't you , 
+[X] | not | certainly does not 
+[X] | not | you know 
+[ADVP] | simply | not but 
+[ADJP] | compulsory | not valid 
+[ADJP] | no | not long 
+[X] | no | not long 
+[ADJP] | surprised | not surprising 
+[X] | not | this is not the case 
+[X] | not | oh , god , no 
+[ADJP] | nasty | not good 
+[ADJP] | unoccupied | not allocated 
+[X] | not | not , however , 
+[ADVP] | just | not long ago 
+[ADJP] | bad | not very 
+[ADJP] | pointless | not relevant 
+[VP] | not | 'm not mad 
+[ADVP] | lately | not too long ago 
+[ADVP] | stiii | not again 
+[X] | more | not another 
+[ADJP] | hopeless | not necessary 
+[NP] | briefly | not long 
+[X] | not | stay away 
+[X] | not | n't wear 
+[X] | not | not set 
+[ADVP] | hard | not readily 
+[ADJP] | unbearable | not acceptable 
+[X] | not | please , do n't 
+[ADJP] | unreachable | not available 
+[X] | not | impossible for 
+[X] | not | i hear no 
+[S] | not | at present 
+[ADJP] | customary | not unusual 
+[X] | not | a failure to 
+[ADJP] | underfunded | not enough 
+[ADVP] | not | less than 
+[X] | not | i ai n't 
+[ADJP] | fruitless | not necessary 
+[ADJP] | picky | not easy 
+[X] | not | the failure of 
+[X] | not | nor does it 
+[ADVP] | rather | not very 
+[X] | not | it was only 
+[X] | not | no , i 'm good 
+[SBAR] | not | they 're not 
+[X] | not | not long 
+[X] | not | has never 
+[X] | not | -rrb- no. 
+[ADJP] | elusive | not possible 
+[X] | more | not ever 
+[X] | not | , nothing 
+[X] | within | not later than 
+[ADVP] | solely | not only 
+[X] | not | is not the case 
+[X] | not | you would n't 
+[ADVP] | tough | not easily 
+[ADJP] | untenable | not permissible 
+[ADJP] | under-funded | not sufficient 
+[X] | not | not come 
+[X] | person | not one of 
+[X] | not | lies not 
+[ADJP] | impossible | not workable 
+[S] | include | not least 
+[ADJP] | bogus | not , dude 
+[ADVP] | scarcely | not well 
+[ADJP] | abuse | not right 
+[X] | not | - no , i did n't 
+[NP] | either | not one 
+[X] | not | order not 
+[ADVP] | poorly | not easily 
+[X] | not | no yes 
+[ADVP] | barely | not well 
+[ADJP] | irrelevant | not significant 
+[ADVP] | not | really not 
+[X] | not | there 's not 
+[X] | only | not seeing 
+[ADJP] | much | not many 
+[ADVP] | improperly | not adequately 
+[X] | not | far from 
+[ADJP] | sick | not suitable 
+[ADVP] | hardly | not too much 
+[ADJP] | strange | not known 
+[X] | not | you 're wrong 
+[ADVP] | not | only just 
+[X] | not | only just 
+[ADVP] | furthermore | not only 
+[ADVP] | badly | not bad 
+[ADJP] | improper | not acceptable 
+[X] | between | not only between 
+[X] | not | have not yet 
+[ADJP] | mal | not good 
+[ADVP] | scarcely | not often 
+[ADJP] | eh | not , grandpa 
+[X] | not | can only 
+[ADVP] | not | no way 
+[ADJP] | correct | not true 
+[ADJP] | shortly | not well 
+[ADVP] | shortly | not well 
+[X] | not | not necessarily 
+[X] | not | to desist from 
+[X] | not | are only 
+[ADJP] | miserable | not impossible 
+[X] | not | never , 
+[X] | not | n't get a 
+[NP] | not | all right 
+[ADJP] | cheap | not much 
+[ADJP] | unclear | not available 
+[S] | not | i have n't 
+[S] | not | he is n't 
+[X] | not | he is n't 
+[X] | not | n't make it 
+[X] | issue | not gonna happen 
+[ADVP] | insufficiently | not well 
+[X] | not | not expected 
+[S] | not | he does n't 
+[ADJP] | improper | not good 
+[ADVP] | never | not at all 
+[X] | not | it ca n't be 
+[X] | not | n't an 
+[NP] | anyone | not everyone 
+[ADVP] | still | not too 
+[ADVP] | not | less so 
+[ADJP] | misleading | not true 
+[ADVP] | immediately | not long after 
+[S] | not | come on 
+[VP] | not | come on 
+[X] | not | come on 
+[ADJP] | mad | not happy 
+[ADJP] | alien | not known 
+[X] | not | been unable 
+[ADVP] | poorly | not readily 
+[X] | not | , man 
+[X] | publication | not published 
+[X] | particularly | not least , 
+[X] | no | not , however 
+[ADVP] | low | not well 
+[X] | not | maybe not 
+[NP] | not | no problem 
+[ADJP] | indefensible | not permissible 
+[X] | not | 're only 
+[X] | not | incapable of 
+[X] | some | not just any 
+[ADVP] | still | not less 
+[X] | not | no , of course not 
+[X] | not | whether the government 
+[ADVP] | also | not only 
+[ADJP] | obtainable | not possible 
+[ADJP] | lacking | not sufficient 
+[ADJP] | impulsive | not possible 
+[ADJP] | practical | not realistic 
+[NP] | things | not everything 
+[X] | not | still does not 
+[X] | not | , ca n't you 
+[ADJP] | under-inclusive | not exhaustive 
+[X] | not | no , thanks 
+[X] | not | has yet to 
+[ADVP] | also | not even 
+[ADJP] | unavailable | not applicable 
+[ADJP] | complex | not easy 
+[X] | yes | not quite 
+[X] | not | had yet 
+[NP] | short | not much 
+[X] | not | he wo n't 
+[ADJP] | panicky | not impossible 
+[ADJP] | sick | not right 
+[X] | not | - nothing 
+[X] | not | he ai n't 
+[ADJP] | counterfeit | not , dude 
+[X] | not | n't never 
+[X] | not | wo n't do 
+[X] | against | not agree with 
+[X] | not | was unable 
+[SBAR] | not | you ca n't 
+[S] | not | you ca n't 
+[ADVP] | scarcely | not even 
+[X] | not | , issue 
+[ADJP] | not | not gonna 
+[X] | not | not gonna 
+[X] | review | not be considered 
+[X] | not | without , 
+[ADVP] | except | not just 
+[ADJP] | inappropriate | not ok 
+[ADJP] | unspecified | not known 
+[ADJP] | phony | not right 
+[X] | not | not already 
+[ADJP] | unworkable | not impossible 
+[ADJP] | scarce | not enough 
+[ADJP] | interesting | not bad 
+[X] | not | not been able 
+[ADJP] | extensive | not inconsiderable 
+[ADJP] | livid | not happy 
+[X] | not | can not afford 
+[X] | more | not gonna 
+[ADVP] | naturaily | not surprisingly 
+[ADJP] | manageable | not unreasonable 
+[X] | consideration | not be considered 
+[ADJP] | next | not too distant 
+[X] | just | not until 
+[ADVP] | lower | not as 
+[ADJP] | unsuccessful | not ok 
+[X] | only | not fail 
+[X] | not | 's only 
+[X] | not | not getting 
+[S] | not | you have n't 
+[X] | not | you have n't 
+[X] | not | certainly do 
+[X] | everything | not like it 
+[X] | not | no , it 's 
+[ADVP] | little | not quite 
+[ADJP] | widespread | not uncommon 
+[X] | not | does not go 
+[X] | not | - that 's not 
+[ADVP] | sometime | not long 
+[X] | less | not least 
+[X] | no | not very 
+[ADJP] | hairy | not safe 
+[X] | not | although not 
+[ADJP] | limited | not long 
+[NP] | limited | not long 
+[ADJP] | incomplete | not sufficient 
+[ADVP] | not | too much 
+[X] | not | must n't 
+[X] | not | i do n't think 
+[X] | over | not either 
+[S] | not | no , i 'm sorry 
+[X] | not | no , i 'm sorry 
+[ADJP] | unwarranted | not right 
+[X] | not | that ca n't 
+[ADJP] | out | not gonna 
+[X] | not | still does 
+[ADJP] | insane | not good 
+[NP] | not | no question 
+[ADVP] | considerably | not less 
+[X] | not | wrong to 
+[ADVP] | no. | not so 
+[X] | especially | not the least 
+[X] | not | not too 
+[X] | not | simply no 
+[ADVP] | over | not anymore 
+[ADVP] | fully | not completely 
+[X] | not | to lack 
+[X] | not | then do 
+[X] | not | yes , you did 
+[X] | not | nor can 
+[X] | no | not even 
+[ADVP] | greatly | not less 
+[ADJP] | unacceptable | not normal 
+[ADVP] | under | not as 
+[X] | under | not as 
+[ADJP] | vivid | not alive 
+[ADVP] | 13.6 | not only 
+[NP] | not | no. 39574 
+[X] | not | i never 
+[X] | not | well , it 's not 
+[ADJP] | ill | not good 
+[X] | not | not taking 
+[ADJP] | suitable | not appropriate 
+[X] | not | be borne in 
+[X] | discussion | not discussed 
+[X] | not | we wo n't 
+[X] | not | outside the 
+[X] | not | contrary , 
+[X] | not | never to 
+[S] | not | we 're not 
+[X] | not | we 're not 
+[ADVP] | n't | not here 
+[X] | not | as opposed to 
+[X] | not | , never 
+[VP] | not | was n't there 
+[X] | not | was n't there 
+[X] | more | not now , 
+[X] | not | she does n't 
+[VP] | not | is n't that right 
+[ADJP] | simple | not hard 
+[X] | not | no , nothing 
+[ADJP] | unknown | not possible 
+[X] | not | other hand 
+[X] | not | , eh 
+[ADVP] | up | not exceeding 
+[X] | not | 's wrong 
+[ADJP] | safe | not dangerous 
+[ADVP] | still | not yet , 
+[ADJP] | weak | not adequate 
+[X] | c | not see 
+[ADJP] | bogus | not correct 
+[ADJP] | decent | not bad 
+[ADVP] | yet | not even 
+[ADJP] | objectionable | not eligible 
+[X] | not | you must n't 
+[X] | not | was unable to 
+[X] | not | along the 
+[X] | not | had n't 
+[X] | not | does n't have 
+[ADJP] | sucky | not good 
+[X] | not | not likely 
+[X] | disability | not managed 
+[ADJP] | limitless | not limited 
+[ADVP] | not | any less 
+[ADJP] | more | not only 
+[ADJP] | huh | not right 
+[ADVP] | huh | not right 
+[X] | not | absolutely no 
+[ADVP] | sparsely | not very 
+[ADJP] | no | not available 
+[FRAG] | no | not available 
+[X] | no | not available 
+[NP] | time | not long 
+[ADVP] | still | not even 
+[X] | not | is completely 
+[X] | not | rather than to 
+[X] | not | and without 
+[X] | not | just could 
+[ADJP] | insecure | not sure 
+[X] | most | not any more 
+[ADJP] | difficult | not good 
+[ADJP] | useless | not appropriate 
+[ADJP] | moot | not necessary 
+[X] | not | the absence of 
+[X] | not | should only 
+[ADVP] | always | not yet 
+[ADJP] | improper | not relevant 
+[X] | no | not again 
+[ADJP] | upset | not good 
+[ADJP] | unlikely | not sure 
+[X] | not | well , it 
+[ADJP] | bizarre | not normal 
+[ADVP] | sparsely | not much 
+[ADJP] | mal | not right 
+[SBAR] | not | it was n't 
+[S] | not | it was n't 
+[ADJP] | short | not sufficient 
+[SBAR] | not | you know 
+[ADJP] | limited | not enough 
+[X] | not | , failed 
+[X] | not | n't know 
+[X] | not | not under 
+[X] | no | not okay 
+[ADVP] | non | not that 
+[X] | not | only be 
+[X] | not | i should n't 
+[ADJP] | misguided | not right 
+[ADVP] | just | not very 
+[X] | not | not acceptable 
+[ADVP] | not | perhaps not 
+[X] | not | perhaps not 
+[NP] | not | no water 
+[ADVP] | more | not only 
+[ADJP] | natural | not surprising 
+[NP] | not | a lie 
+[ADJP] | ineffective | not necessary 
+[X] | no | not provide a 
+[X] | not | refuses to 
+[ADVP] | really | not very 
+[X] | knowledge | not be more 
+[ADJP] | boundless | not limited 
+[ADJP] | insufferable | not impossible 
+[ADJP] | amiss | not right 
+[NP] | definitely | not a problem 
+[ADJP] | undesirable | not good 
+[X] | not | whether such 
+[X] | not | lack a 
+[ADJP] | limited | not sufficient 
+[S] | not | it is now 
+[ADJP] | inconceivable | not possible 
+[S] | not | all right 
+[ADVP] | additionally | not only that 
+[ADJP] | significant | not less 
+[ADVP] | that | not only 
+[X] | that | not only 
+[X] | ¡ | not a 
+[X] | not | not stop 
+[X] | not | ... ... not 
+[ADVP] | easily | not readily 
+[X] | not | you wo 
+[X] | off | not working 
+[ADJP] | flawed | not satisfactory 
+[VP] | not | is that right 
+[ADJP] | partial | not complete 
+[X] | not | no secret 
+[ADJP] | terrible | not good 
+[ADVP] | n't | not at all 
+[X] | not | n't like 
+[X] | not | mean , i 
+[X] | not | not again 
+[X] | not | not provide 
+[ADVP] | ill | not adequately 
+[X] | not | - no way 
+[X] | not | , step 
+[ADJP] | wicked | not good 
+[S] | not | i would n't 
+[X] | understanding | not trying to 
+[X] | not | a bad 
+[ADVP] | besides | not just 
+[VP] | not | would n't 
+[ADVP] | both | not simply 
+[X] | not | , rather , 
+[X] | not | , my god 
+[NP] | not | no. 1 
+[X] | not | no. 1 
+[X] | not | good step 
+[X] | not | n . 
+[ADVP] | alone | not only 
+[ADVP] | fully | not entirely 
+[X] | not | no problem , 
+[X] | not | stay out 
+[ADVP] | incompletely | not well 
+[X] | not | you 're kidding me 
+[ADJP] | counterfeit | not correct 
+[S] | not | he was n't 
+[X] | not | he was n't 
+[X] | namely | not least 
+[X] | not | not be allowed to 
+[ADJP] | unnecessary | not very 
+[ADJP] | unconscionable | not eligible 
+[ADJP] | lacking | not enough 
+[S] | importantly | not least 
+[ADJP] | wrong | not too good 
+[X] | not | it 's none 
+[ADJP] | unsatisfactory | not acceptable 
+[X] | not | were either 
+[ADJP] | under-funded | not enough 
+[ADVP] | moreover | not only 
+[S] | not | that 's impossible 
+[X] | no | not without 
+[X] | not | that 's 
+[X] | not | do n't have 
+[ADJP] | okay | not true 
+[FRAG] | okay | not true 
+[NP] | shortcomings | not enough 
+[S] | not | the answer is no 
+[X] | not | the answer is no 
+[X] | none | not a bit 
+[X] | not | had never 
+[ADVP] | short | not enough 
+[ADJP] | impossible | not applicable 
+[X] | not | instead , 
+[X] | not | you ai n't 
+[ADJP] | shitty | not official 
+[X] | not | no real 
+[X] | not | ' no ' vote 
+[ADJP] | unavailable | not feasible 
+[X] | denied | not want 
+[NP] | not | no thanks 
+[X] | not | no thanks 
+[X] | not | has not yet 
+[X] | not | i do n't want 
+[ADJP] | unhappy | not good 
+[X] | table | not bad 
+[ADVP] | maybe | not now 
+[ADJP] | uncertain | not known 
+[S] | not | we did n't 
+[X] | not | we did n't 
+[X] | not | , yet 
+[X] | not | not taken 
+[X] | not | oh , 
+[X] | not | nothing but 
+[ADJP] | plain | not terrible , but not great 
+[S] | not | it 's impossible 
+[X] | not | other way around 
+[X] | not | had been unable to 
+[X] | not | choose not 
+[INTJ] | not | - oh 
+[X] | not | - oh 
+[X] | not | not a matter 
+[NP] | not | lack of 
+[X] | also | not least , 
+[X] | like | not the way 
+[ADVP] | back | not here 
+[ADVP] | slightly | not much 
+[ADVP] | always | not necessarily 
+[ADJP] | restricted | not limited 
+[ADJP] | simple | not difficult 
+[X] | not | you never 
+[ADVP] | boy | not excessively 
+[X] | none | not have 
+[X] | not | is beyond 
+[SBAR] | not | forget about it 
+[X] | not | n't got 
+[X] | not | , i 'm not 
+[X] | not | - i did n't 
+[X] | against | not favour 
+[ADVP] | few | not too 
+[X] | against | not agree 
+[X] | not | simply do not 
+[X] | against | not in favour of 
+[VP] | not | forget it 
+[ADJP] | vain | not useful 
+[X] | denied | not received 
+[X] | not | oh , no , 
+[X] | not | , i do n't 
+[NP] | not | no point 
+[X] | not | do n't want it 
+[ADVP] | least | not only 
+[X] | less | not just as 
+[NP] | not | the present time 
+[X] | could | not been able to 
+[ADJP] | overpriced | not cheap 
+[ADVP] | over | not only 
+[ADVP] | no. | not just 
+[ADVP] | ill | not really 
+[X] | not | i was n't 
+[ADJP] | no | not good 
+[X] | no | not good 
+[X] | especially | not least by 
+[ADJP] | not | wrong with 
+[X] | not | wrong with 
+[NP] | not | no. 7515 
+[X] | not | , okay 
+[X] | not | outside of 
+[X] | not | throughout the 
+[X] | not | fall short 
+[X] | denied | not allow 
+[ADJP] | less | not much 
+[X] | not | lack the 
+[X] | not | an absence of 
+[ADJP] | tricky | not easy 
+[X] | knowledge | not aware 
+[X] | not | n't right 
+[X] | not | refused to 
+[ADVP] | done | not anymore 
+[X] | less | not be 
+[X] | not | have nothing 
+[ADJP] | marginalized | not included 
+[ADJP] | nonsense | not correct 
+[ADVP] | poorly | not long 
+[NP] | shortages | not enough 
+[X] | not | in the very 
+[ADJP] | weird | not right 
+[ADVP] | both | not merely 
+[X] | not | was not able to 
+[X] | not | n't use 
+[ADJP] | unachievable | not impossible 
+[ADVP] | non | not now 
+[X] | not | absent from 
+[ADJP] | deficient | not complete 
+[X] | not | uh , no , 
+[X] | not | 's just not 
+[ADVP] | neither | not only 
+[NP] | lack | not much 
+[ADJP] | unclear | not known 
+[X] | shall | not be allowed to 
+[X] | particularly | not least by 
+[TOP] | initial | not yet due 
+[ADVP] | below | not as 
+[ADVP] | sure | not at all 
+[X] | not | however , 
+[ADJP] | unavailable | not impossible 
+[NP] | not | no kidding 
+[X] | not | no kidding 
+[TOP] | not | no ... 
+[X] | not | no ... 
+[ADVP] | slightly | not very 
+[ADVP] | simply | not only 
+[ADVP] | no | not only 
+[X] | no | not create 
+[ADJP] | commonplace | not uncommon 
+[X] | not | not good 
+[NP] | minimal | not much 
+[X] | not | inability to 
+[ADJP] | large | not inconsiderable 
+[NP] | anybody | not everyone 
+[X] | not | not because 
+[X] | not | away from 
+[ADVP] | former | not later 
+[ADJP] | specifically | not least 
+[ADJP] | harsh | not easy 
+[X] | not | not work 
+[ADJP] | accurate | not correct 
+[X] | not | nothing , 
+[X] | not | only been 
+[X] | not | not a question 
+[ADVP] | inadequately | not adequately 
+[NP] | larry | not a chance 
+[X] | not | , did n't 
+[ADJP] | inappropriate | not relevant 
+[ADJP] | sound | not harmful 
+[ADVP] | no | not elsewhere 
+[X] | no | not elsewhere 
+[ADVP] | here | not there 
+[ADVP] | jesus | not excessively 
+[X] | alia | not least 
+[X] | not | 's just 
+[ADJP] | unreasonable | not right 
+[TOP] | never | not ever . 
+[ADJP] | precluded | not permissible 
+[ADVP] | approximately | not far 
+[X] | not | rather than an 
+[ADJP] | poor | not desirable 
+[ADJP] | unfair | not correct 
+[X] | more | not again 
+[ADJP] | poor | not adequate 
+[ADVP] | sufficiently | not enough 
+[X] | framework | not part 
+[X] | not | absolutely not 
+[ADJP] | complex | not simple 
+[X] | can | not entitled 
+[ADVP] | newly | not long ago 
+[ADJP] | miserable | not feasible 
+[ADVP] | more | not now 
+[X] | more | not now 
+[X] | whether | not then 
+[X] | not | of lack of 
+[S] | yesterday | not coming 
+[X] | can | not entitled to 
+[X] | not | really does 
+[X] | not | n't just 
+[X] | not | are outside 
+[X] | not | without it 
+[X] | not | no , not really 
+[ADVP] | course | not surprisingly 
+[X] | less | not such 
+[X] | not | that nothing 
+[ADVP] | indeed | not even 
+[ADVP] | outside | not only 
+[X] | not | here in the 
+[X] | not | really did 
+[ADVP] | imperfectly | not well 
+[X] | not | do n't be 
+[X] | not | to abstain from 
+[X] | not | we ca n't 
+[ADVP] | ago | not later 
+[INTJ] | not | oh , god 
+[X] | not | oh , god 
+[ADVP] | so | not only 
+[X] | could | not able 
+[ADVP] | right | not well 
+[X] | because | not least because 
+[S] | not | there is n't 
+[ADJP] | weak | not much 
+[S] | not | no , thank you 
+[X] | not | no , thank you 
+[X] | not | not be possible 
+[ADJP] | else | not equal 
+[X] | not | it 's not a 
+[ADJP] | unacceptable | not satisfactory 
+[ADVP] | not | not elsewhere 
+[X] | not | not elsewhere 
+[ADVP] | recently | not very long 
+[ADJP] | incidental | not significant 
+[NP] | not | the contrary 
+[X] | not | the contrary 
+[X] | application | not applied 
+[X] | not | do n't do 
+[X] | not | not provided 
+[NP] | anything | not a word 
+[X] | not | to bear 
+[X] | not | be avoided 
+[X] | not | no , that 's not 
+[ADVP] | out | not even here 
+[ADJP] | hopeless | not impossible 
+[ADJP] | fragmented | not complete 
+[ADJP] | panicky | not feasible 
+[ADJP] | inadequate | not right 
+[X] | especially | not least with 
+[ADJP] | minuscule | not significant 
+[ADJP] | useful | not necessary 
+[X] | more | not here 
+[X] | not | not to say 
+[ADJP] | helpless | not useful 
+[ADJP] | ill | not right 
+[ADJP] | problematic | not easy 
+[X] | object | not apply 
+[ADJP] | not | all right 
+[X] | not | you do n't have 
+[X] | medium | not so good 
+[X] | may | not entitled 
+[ADJP] | not | not right 
+[X] | not | not right 
+[X] | yeah | not quite 
+[ADVP] | somewhat | not very 
+[X] | not | n't gonna 
+[ADVP] | almost | not completely 
+[ADJP] | bad | not safe 
+[ADVP] | non | not otherwise 
+[ADVP] | incorrectly | not adequately 
+[X] | may | not entitled to 
+[ADVP] | plus | not only that 
+[ADJP] | faulty | not correct 
+[X] | more | not only 
+[ADJP] | unacceptable | not true 
+[ADVP] | 'il | not gonna 
+[X] | not | to refuse to 
+[ADVP] | recent | not too long ago 
+[X] | not | , ever 
+[ADVP] | recently | not so long 
+[ADVP] | earlier | not too long ago 
+[X] | not | around the 
+[X] | not | -no , 
+[S] | not | otherwise provided 
+[X] | not | otherwise provided 
+[TOP] | never | not at all . 
+[X] | not | has been unable to 
+[ADVP] | most | not anymore 
+[ADJP] | outside | not only 
+[X] | not | n't say 
+[ADJP] | modest | not big 
+[ADVP] | immediately | not too long 
+[ADVP] | just | not merely 
+[X] | not | 's lack 
+[X] | not | n't want 
+[ADJP] | straightforward | not hard 
+[X] | particularly | not least with 
+[X] | not | and nothing 
+[ADJP] | good | not impossible 
+[S] | not | is not the case 
+[ADJP] | obscene | not acceptable 
+[ADJP] | scandalous | not acceptable 
+[X] | not | other way round 
+[X] | should | not expected 
+[ADJP] | unknown | not specified 
+[ADJP] | finally | not least 
+[ADJP] | short | not long 
+[ADVP] | short | not long 
+[X] | not | not possible to 
+[X] | application | not be applied 
+[VP] | not | stop it 
+[X] | no | not show 
+[X] | not | had not yet 
+[X] | no | not too 
+[ADJP] | hurting | not good 
+[ADVP] | neither | not yet 
+[S] | not | i do n't think 
+[ADVP] | barely | not even 
+[ADJP] | fair | not right 
+[ADJP] | incorrect | not , dude 
+[ADVP] | apart | not simply 
+[FRAG] | fine | not anything 
+[X] | not | 'm afraid 
+[ADJP] | included | not least 
+[X] | application | not claim 
+[ADVP] | only | not exceeding 
+[X] | access | not available 
+[ADVP] | never | not always 
+[X] | no | not even a 
+[ADVP] | more | not well 
+[X] | more | not well 
+[X] | no | not in fact 
+[X] | no | not exactly 
+[X] | not | no , not yet 
+[X] | not | you ca n't do that 
+[TOP] | nothing | not a thing . 
+[ADJP] | incomplete | not enough 
+[ADVP] | solely | not but 
+[X] | e.g. | not least 
+[ADJP] | arduous | not easy 
+[X] | none | not have a 
+[ADVP] | less | not very 
+[X] | delete | not going 
+[X] | not | loss to 
+[ADJP] | hopeless | not useful 
+[X] | not | not done 
+[ADVP] | ever | not at all 
+[X] | not | still do not 
+[NP] | none | not everyone 
+[ADJP] | substandard | not sufficient 
+[ADJP] | easiest | not hard 
+[ADJP] | furthermore | not least 
+[X] | not | , you did n't 
+[X] | period | not last 
+[ADJP] | life-threatening | not safe 
+[X] | not | , no. 973 
+[ADVP] | lower | not so 
+[ADVP] | or | not even 
+[X] | not | have yet to 
+[X] | not | , you 're not 
+[NP] | not | no shit 
+[X] | not | no shit 
+[X] | not | 'm just 
+[X] | not | may only 
+[ADVP] | non | not really 
+[ADJP] | fruitless | not useful 
+[ADJP] | invalid | not admissible 
+[ADJP] | inappropriate | not applicable 
+[ADJP] | wrong | not bad 
+[X] | not | do n't ... 
+[X] | not | but never 
+[NP] | not | nothing wrong 
+[X] | not | nothing wrong 
+[ADJP] | unavoidable | not possible 
+[X] | not | can not afford to 
+[X] | not | of african 
+[S] | included | not least 
+[X] | not | not exactly 
+[ADJP] | enraged | not happy 
+[ADVP] | apart | not merely 
+[ADJP] | unreal | not , grandpa 
+[X] | purpose | not intended 
+[TOP] | na | not applicable . 
+[X] | shall | not subject 
+[ADVP] | really | not bad 
+[ADJP] | permanent | not determined 
+[ADJP] | sick | not appropriate 
+[X] | not | nor any 
+[X] | not | does not constitute 
+[X] | not | i do n't know 
+[X] | not | n't matter 
+[ADJP] | off | not gonna 
+[NP] | no | not a chance 
+[ADJP] | dysfunctional | not perfect 
+[ADVP] | under | not so 
+[X] | under | not so 
+[X] | not | , is n't 
+[ADVP] | commonly | not infrequently 
+[ADJP] | moreover | not least 
+[S] | moreover | not least 
+[X] | not | , ca 
+[ADJP] | unlikely | not safe 
+[X] | purpose | not apply 
+[ADVP] | long | not long after 
+[ADJP] | convenient | not hard 
+[ADVP] | inefficiently | not well 
+[X] | not | step forward 
+[ADJP] | sorry | not possible 
+[ADJP] | slightly | not much 
+[S] | not | i was wrong 
+[X] | not | i was wrong 
+[ADJP] | questionable | not safe 
+[X] | against | not approve 
+[ADJP] | outrageous | not permissible 
+[X] | respect | not satisfy 
+[X] | not | but without 
+[ADVP] | often | not always 
+[ADVP] | n't | not there 
+[S] | here | not coming 
+[ADJP] | hardto | not easy 
+[X] | not | n't really 
+[ADVP] | lower | not so much 
+[X] | no | not here 
+[S] | not | it impossible 
+[X] | not | has not been able to 
+[INTJ] | not | no man 
+[NP] | not | no man 
+[X] | not | no man 
+[ADJP] | yeah | not true 
+[ADVP] | no | not quite 
+[X] | no | not quite 
+[ADJP] | invalid | not right 
+[ADJP] | intolerable | not right 
+[ADJP] | partial | not comprehensive 
+[ADJP] | insufferable | not feasible 
+[ADJP] | insignificant | not much 
+[X] | not | is totally 
+[ADVP] | admittedly | not only 
+[ADJP] | fraudulent | not , dude 
+[ADVP] | not | not very 
+[X] | not | is either 
+[X] | no | not usually 
+[NP] | not | the middle 
+[X] | not | neither do 
+[S] | unnecessary | not required 
+[X] | not | do n't think 
+[SBAR] | not | she did n't 
+[S] | not | she did n't 
+[X] | not | she did n't 
+[X] | not | yeah , 
+[X] | not | , number 
+[ADJP] | fair | not wrong 
+[ADJP] | rude | not correct 
+[ADJP] | unworkable | not sustainable 
+[X] | not | to the contrary 
+[X] | not | was nothing 
+[X] | between | not only among 
+[ADVP] | alike | not only 
+[ADJP] | rock-hard | not easy 
+[ADJP] | no | not guilty 
+[X] | often | not always 
+[X] | not | that 's not true 
+[X] | not | less of 
+[ADVP] | ineffectively | not well 
+[ADVP] | once | not so long ago 
+[ADJP] | unacceptable | not sustainable 
+[ADJP] | spiteful | not good 
+[ADJP] | insane | not right 
+[X] | not | not constitute 
+[X] | not | if you do n't 
+[ADVP] | once | not well 
+[X] | not | , come on 
+[ADVP] | harder | not easily 
+[INTJ] | not | oh , man 
+[X] | not | oh , man 
+[X] | not | i 'm not going 
+[ADVP] | similar | not even 
+[ADJP] | fresh | not polite 
+[X] | not | not represent 
+[ADJP] | impermissible | not receivable 
+[X] | not | not think 
+[ADJP] | no | not feasible 
+[ADJP] | specific | not least 
+[ADJP] | small | not significant 
+[X] | not | lieu of 
+[X] | denied | not agree 
+[ADJP] | straightforward | not difficult 
+[X] | not | you 're kidding 
+[TOP] | o.k. | not at all . 
+[S] | not | i was n't 
+[X] | not | wrong , 
+[ADJP] | large | not less 
+[X] | not | , yeah 
+[ADVP] | natural | not surprisingly 
+[X] | not | - i do n't 
+[X] | not | n't need 
+[X] | person | not here 
+[ADVP] | longer | not anymore 
+[FRAG] | longer | not anymore 
+[ADVP] | solely | not just 
+[ADVP] | shortly | not too 
+[ADJP] | e.g. | not least 
+[X] | not | there is nothing 
+[ADJP] | nominal | not significant 
+[X] | implementation | not applied 
+[X] | not | wo n't be 
+[ADJP] | underage | not significant 
+[X] | if | not true 
+[NP] | poor | not enough 
+[X] | not | , yes 
+[X] | not | 're just 
+[NP] | not | no. 2 
+[X] | not | no. 2 
+[X] | more | not exceeding 
+[X] | includes | not include 
+[ADVP] | few | not often 
+[ADVP] | nope | not that 
+[FRAG] | anything | not one 
+[S] | includes | not least 
+[X] | not | oh , boy 
+[X] | not | keep it 
+[X] | no | not a word 
+[ADJP] | off-limits | not permissible 
+[ADJP] | easiest | not difficult 
+[X] | not | definitely not 
+[ADJP] | alia | not limited to 
+[X] | not | without having 
+[X] | less | not exceeding 
+[X] | less | not more than 
+[ADJP] | upset | not right 
+[X] | not | n't believe it 
+[INTJ] | not | - yeah 
+[X] | not | - yeah 
+[ADJP] | unfinished | not complete 
+[X] | not | is impossible 
+[X] | not | , nor the 
+[ADVP] | god | not excessively 
+[X] | not | no. 1 -rrb- 
+[X] | some | not certain 
+[ADVP] | not | never before 
+[ADJP] | eh | not right 
+[ADVP] | eh | not right 
+[NP] | zero | not a thing 
+[ADVP] | simply | not just 
+[X] | mode | not at 
+[X] | no | not go 
+[ADJP] | hurting | not right 
+[X] | less | not particularly 
+[X] | none | not specific 
+[NP] | not | no. 25 
+[X] | not | plight of 
+[X] | no | not far 
+[ADJP] | normal | not unusual 
+[X] | not | ever , 
+[ADJP] | cheesy | not good 
+[ADJP] | unreliable | not correct 
+[X] | not | has not yet been 
+[X] | not | n't been 
+[ADVP] | wrongly | not adequately 
+[X] | not | quite a 
+[X] | before | not less than 
+[X] | not | less than 
+[X] | not | well , 
+[ADJP] | less | not least 
+[X] | not | was only 
+[X] | not | , instead 
+[X] | notice | not find 
+[X] | not | not without 
+[ADVP] | around | not here 
+[ADVP] | n't | not only 
+[VP] | not | do n't go 
+[X] | not | do n't go 
+[X] | not | i wo 
+[ADJP] | irrelevant | not true 
+[X] | not | a pretty 
+[X] | not | nothing is 
+[X] | not | n't mean 
+[ADJP] | extraneous | not necessary 
+[ADJP] | undesirable | not acceptable 
+[ADVP] | minimally | not very 
+[ADVP] | however | not surprisingly 
+[ADJP] | convenient | not difficult 
+[ADJP] | infinite | not limited 
+[X] | not | were only 
+[ADJP] | needless | not appropriate 
+[ADVP] | correctly | not well 
+[X] | not | gonna be 
+[ADVP] | less | not much 
+[NP] | less | not much 
+[ADVP] | timeframe | not later 
+[X] | not | i hear 
+[X] | not | oh , my god 
+[X] | everything | not a thing 
+[X] | not | it just 
+[ADVP] | soon | not yet 
+[NP] | not | no good 
+[X] | not | no good 
+[X] | error | not true 
+[X] | not | , however 
+[ADVP] | adequately | not sufficiently 
+[ADJP] | untenable | not impossible 
+[X] | not | number of the 
+[X] | not | kind of 
+[X] | not | of less 
+[X] | not | that neither 
+[ADVP] | further | not only 
+[ADJP] | sure | not least 
+[X] | no | not under 
+[X] | version | not available 
+[ADJP] | wide-ranging | not inconsiderable 
+[X] | each | not every 
+[ADVP] | back | not there 
+[S] | not | we are now 
+[X] | lf | not unless 
+[NP] | not | your problem 
+[NP] | non | not one 
+[S] | not | we ca n't 
+[ADJP] | major | not insignificant 
+[ADJP] | smelly | not good 
+[X] | could | not been able 
+[X] | not | 's nothing 
+[X] | not | is not able 
+[ADJP] | unabated | not modified 
+[X] | not | is less 
+[X] | denied | not do 
+[X] | not | never before 
+[NP] | not | no money 
+[X] | not | it wo 
+[X] | everything | not rest 
+[X] | not | it ca n't 
+[X] | not | oh , really 
+[ADVP] | sure | not so 
+[VP] | not | do n't shoot 
+[X] | not | do n't shoot 
+[ADJP] | sore | not good 
+[ADVP] | not | no less 
+[X] | not | no less 
+[NP] | neither | not a thing 
+[ADJP] | wasteful | not effective 
+[NP] | scratch | not a thing 
+[S] | not | to go 
+[X] | not | here in 
+[ADVP] | no. | not simply 
+[X] | not | , dear 
+[ADJP] | least | not only 
+[X] | not | unlikely to 
+[ADVP] | little | not easily 
+[X] | no | not , however , 
+[ADJP] | untrue | not , grandpa 
+[ADVP] | somewhat | not much 
+[NP] | somewhat | not much 
+[X] | not | n't here 
+[X] | two | not the same 
+[ADJP] | moot | not useful 
+[ADJP] | impossible | not more 
+[X] | not | -lrb- ngos 
+[X] | not | minimum of 
+[ADJP] | pointless | not appropriate 
+[ADJP] | admissible | not receivable 
+[X] | not | step in 
+[X] | can | not able to 
+[ADJP] | iilegal | not permissible 
+[ADJP] | unhappy | not right 
+[ADJP] | unable | not practicable 
+[X] | none | not at all 
+[X] | not | it right 
+[X] | not | addition to 
+[ADJP] | awful | not good 
+[ADVP] | poorly | not enough 
+[X] | not | the wrong 
+[VP] | not | do n't think so 
+[X] | just | not till 
+[X] | not | know i 
+[ADJP] | fraudulent | not correct 
+[ADJP] | insignificant | not large 
+[X] | for | not only for 
+[ADJP] | empty | not allocated 
+[ADJP] | unacceptable | not possible 
+[ADJP] | disgraceful | not permissible 
+[X] | not | , save 
+[NP] | not | no. 19 
+[X] | not | was less 
+[ADVP] | below | not so 
+[ADVP] | unavoidably | not surprisingly 
+[ADJP] | minimal | not long 
+[NP] | minimal | not long 
+[X] | not | n't look 
+[ADVP] | alone | not just 
+[X] | application | not request 
+[X] | not | of any kind 
+[X] | not | not use 
+[X] | not | could only 
+[ADJP] | bogus | not right 
+[S] | right | not to 
+[ADVP] | still | not too much 
+[X] | not | guess i 
+[ADVP] | nope | not now 
+[X] | no | not the case 
+[X] | not | but it 's not 
+[ADVP] | sparsely | not long 
+[ADJP] | complicated | not easy 
+[X] | not | not subject 
+[NP] | not | no. 169 
+[X] | not | no. 169 
+[ADJP] | redundant | not relevant 
+[NP] | no. | not all 
+[ADVP] | really | not exactly 
+[INTJ] | not | - yes 
+[X] | not | - yes 
+[X] | delete | not having 
+[ADVP] | hardly | not yet 
+[ADVP] | beyond | not merely 
+[ADVP] | previously | not so long ago 
+[S] | complete | not completed 
+[X] | not | , you ca 
+[ADVP] | actually | not exactly 
+[ADJP] | same | not least 
+[ADVP] | otherwise | not only 
+[ADVP] | sparingly | not often 
+[ADVP] | plus | not anymore 
+[ADJP] | hopeless | not feasible 
+[X] | not | except the 
+[INTJ] | not | - well 
+[X] | not | - well 
+[ADVP] | little | not readily 
+[ADVP] | not | no further 
+[X] | not | no further 
+[ADJP] | scant | not many 
+[ADVP] | appropriately | not surprisingly 
+[ADVP] | barely | not exactly 
+[TOP] | nope | not . 
+[X] | not | decided not 
+[X] | not | makes no 
+[S] | huh | not to 
+[ADJP] | crazy | not true 
+[X] | not | only the 
+[ADJP] | misguided | not correct 
+[ADVP] | inevitably | not necessarily 
+[X] | not | still no 
+[X] | not | refusing to 
+[X] | not | yes , i am 
+[NP] | scarcity | not enough 
+[X] | not | of steps 
+[ADJP] | bizarre | not right 
+[ADVP] | hard | not adequately 
+[ADJP] | hard | not good 
+[ADJP] | unsuccessful | not effective 
+[ADVP] | too | not even 
+[ADJP] | unclear | not safe 
+[ADVP] | hardly | not too adequate 
+[X] | not | of only 
+[ADJP] | difficult | not hard 
+[ADVP] | unevenly | not well 
+[X] | application | not know 
+[ADVP] | nowhere | not too far 
+[X] | not | have nothing to 
+[ADJP] | sane | not unreasonable 
+[ADJP] | low | not well 
+[X] | ter | not lose 
+[ADVP] | plus | not longer 
+[VP] | not | let go 
+[X] | not | let go 
+[X] | not | it only 
+[VP] | not | 're kidding 
+[ADJP] | underdeveloped | not sufficient 
+[X] | state | not true 
+[ADJP] | obligatory | not valid 
+[ADJP] | bad | not true 
+[ADVP] | away | not too far 
+[X] | less | not even a 
+[VP] | not | 's not true 
+[X] | t | not have 
+[ADJP] | sure | not safe 
+[ADJP] | feasible | not practical 
+[ADJP] | unwarranted | not appropriate 
+[X] | not | done in the 
+[X] | law | not qualify 
+[X] | not | not available 
+[NP] | impossibility | not a chance 
+[ADVP] | newly | not too long ago 
+[ADVP] | there | not less 
+[X] | just | not fair 
+[X] | application | not apply 
+[ADJP] | choosy | not easy 
+[ADJP] | harmless | not serious 
+[ADVP] | non | not so 
+[ADJP] | insane | not possible 
+[ADJP] | rational | not unreasonable 
+[X] | not | ceases to 
+[X] | among | not only between 
+[X] | not | beyond the 
+[X] | not | , you know 
+[X] | not | very least 
+[ADVP] | hardly | not so 
+[X] | not | i 'il tell you 
+[X] | if | not everyone 
+[X] | not | i 'm tired 
+[X] | not | , boy 
+[X] | not | never mind 
+[ADVP] | least | not just 
+[X] | not | no , i 'm 
+[ADVP] | commonly | not often 
+[ADVP] | not | very little 
+[ADJP] | special | not least 
+[X] | not | , remember 
+[FRAG] | over | not anymore 
+[X] | over | not anymore 
+[ADJP] | small | not long 
+[ADVP] | incompletely | not fully 
+[ADVP] | certainly | not only 
+[ADVP] | non | not yet 
+[VP] | not | say no 
+[X] | not | say no 
+[ADJP] | counterfeit | not right 
+[X] | not | of the lack of 

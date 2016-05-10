@@ -1,0 +1,540 @@
+Setting parameters from params/conservative.txt
+Loading corpus from data/test/morph_wordlist.txt
+Loading words...
+622 types loaded.
+840441 tokens loaded.
+Init time: 0.165s
+
+Lexicon stats:
+Types: 622 Tokens: 840441
+
+Handling hyphenation...
+Lexicon stats:
+Types: 686 Tokens: 890472
+Memory status: 4MB Used, 1815MB Remaining
+
+Starting learning...
+Iteration 1
+Lexicon stats:
+Types: 686 Tokens: 890472
+Base size: 0
+Derived size: 0
+Unmodeled size: 686
+Hypothesizing and scoring transforms...
+Selecting a transform...
+
+Vetting transform +($, s)
+Weighted Types: 19, Types: 19, Tokens: 122340, Pairs: 19, Normal/Accom. Pairs: 19/0
+Samples: (19) deportation/deportations, derogation/derogations, internship/internships
+Overlap Ratio: 0/0
+Breaking tie between +($, s) and +(s, $)
+Seg. Precision: 0.1557377049180328
+Selected +($, s)
+Learned +($, s)
+Weighted Types: 19, Types: 19, Tokens: 122340, Pairs: 19, Normal/Accom. Pairs: 19/0
+Samples: (19) deportation/deportations, derogation/derogations, internship/internships
+0 new pairs inferred by conservative inference.
+Memory status: 13MB Used, 1806MB Remaining
+
+
+Iteration 2
+Lexicon stats:
+Types: 686 Tokens: 890472
+Base size: 19
+Derived size: 19
+Unmodeled size: 648
+Hypothesizing and scoring transforms...
+Selecting a transform...
+
+Vetting transform ($, inter)+
+Weighted Types: 15, Types: 3, Tokens: 1368, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) dependencies/interdependencies, linkages/interlinkages, linked/interlinked
+Overlap Ratio: 0/0
+Breaking tie between ($, inter)+ and (inter, $)+
+Seg. Precision: 0.004457652303120356
+Seg. Precision too low
+
+Vetting transform (inter, $)+
+Weighted Types: 15, Types: 3, Tokens: 1368, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) interdependencies/dependencies, interlinkages/linkages, interlinked/linked
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(ation, ed)
+Weighted Types: 15, Types: 5, Tokens: 5679, Pairs: 5, Normal/Accom. Pairs: 5/0
+Samples: (5) demobilization/demobilized, indexation/indexed, initialization/initialized
+Overlap ratio: 1.0
+Seg. Precision: 0.05952380952380952
+Selected +(ation, ed)
+Learned +(ation, ed)
+Weighted Types: 15, Types: 5, Tokens: 5679, Pairs: 5, Normal/Accom. Pairs: 5/0
+Samples: (5) demobilization/demobilized, indexation/indexed, initialization/initialized
+0 new pairs inferred by conservative inference.
+Memory status: 18MB Used, 1801MB Remaining
+
+
+Iteration 3
+Lexicon stats:
+Types: 686 Tokens: 890472
+Base size: 23
+Derived size: 24
+Unmodeled size: 639
+Hypothesizing and scoring transforms...
+Selecting a transform...
+
+Vetting transform ($, inter)+
+Weighted Types: 15, Types: 3, Tokens: 1368, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) dependencies/interdependencies, linkages/interlinkages, linked/interlinked
+Overlap Ratio: 0/0
+Seg. Precision: 0.05084745762711865
+Selected ($, inter)+
+Learned ($, inter)+
+Weighted Types: 15, Types: 3, Tokens: 1368, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) dependencies/interdependencies, linkages/interlinkages, linked/interlinked
+0 new pairs inferred by conservative inference.
+Memory status: 23MB Used, 1797MB Remaining
+
+
+Iteration 4
+Lexicon stats:
+Types: 686 Tokens: 890472
+Base size: 26
+Derived size: 27
+Unmodeled size: 633
+Hypothesizing and scoring transforms...
+Selecting a transform...
+
+Vetting transform ($, under)+
+Weighted Types: 10, Types: 2, Tokens: 610, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) age/underage, funded/underfunded
+Overlap Ratio: 0/0
+Breaking tie between ($, under)+ and (under, $)+
+Seg. Precision: 0.08
+Selected ($, under)+
+Learned ($, under)+
+Weighted Types: 10, Types: 2, Tokens: 610, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) age/underage, funded/underfunded
+0 new pairs inferred by conservative inference.
+Memory status: 27MB Used, 1792MB Remaining
+
+
+Iteration 5
+Lexicon stats:
+Types: 686 Tokens: 890472
+Base size: 28
+Derived size: 29
+Unmodeled size: 629
+Hypothesizing and scoring transforms...
+Selecting a transform...
+
+Vetting transform +($, d)
+Weighted Types: 9, Types: 9, Tokens: 22269, Pairs: 9, Normal/Accom. Pairs: 9/0
+Samples: (9) deregulate/deregulated, invoice/invoiced, uncc/unccd
+Overlap ratio: 2.0
+Seg. Precision: 0.09278350515463918
+Selected +($, d)
+Learned +($, d)
+Weighted Types: 10, Types: 10, Tokens: 22389, Pairs: 10, Normal/Accom. Pairs: 9/1
+Samples: (10) deregulate/deregulated, invoice/invoiced, uncc/unccd
+0 new pairs inferred by conservative inference.
+Memory status: 32MB Used, 1788MB Remaining
+
+
+Iteration 6
+Lexicon stats:
+Types: 686 Tokens: 890472
+Base size: 36
+Derived size: 38
+Unmodeled size: 612
+Hypothesizing and scoring transforms...
+Selecting a transform...
+
+Vetting transform +($, ed)
+Weighted Types: 8, Types: 4, Tokens: 2778, Pairs: 4, Normal/Accom. Pairs: 4/0
+Samples: (4) derail/derailed, increment/incremented, unblock/unblocked
+Overlap ratio: 1.0
+Seg. Precision: 0.047619047619047616
+Selected +($, ed)
+Learned +($, ed)
+Weighted Types: 8, Types: 4, Tokens: 2778, Pairs: 4, Normal/Accom. Pairs: 4/0
+Samples: (4) derail/derailed, increment/incremented, unblock/unblocked
+0 new pairs inferred by conservative inference.
+Memory status: 5MB Used, 1815MB Remaining
+
+
+Iteration 7
+Lexicon stats:
+Types: 686 Tokens: 890472
+Base size: 39
+Derived size: 42
+Unmodeled size: 605
+Hypothesizing and scoring transforms...
+Selecting a transform...
+
+Vetting transform +(y, ies)
+Weighted Types: 6, Types: 3, Tokens: 6937, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) depositary/depositaries, inequity/inequities, insolvency/insolvencies
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(le, ility)
+Weighted Types: 6, Types: 2, Tokens: 8518, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) inadmissible/inadmissibility, interoperable/interoperability
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(ies, y)
+Weighted Types: 6, Types: 3, Tokens: 6937, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) depositaries/depositary, inequities/inequity, insolvencies/insolvency
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(ility, le)
+Weighted Types: 6, Types: 2, Tokens: 8518, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) inadmissibility/inadmissible, interoperability/interoperable
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +($, table)
+Weighted Types: 5, Types: 1, Tokens: 504, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) ins/instable
+Transform has too few types.
+
+Vetting transform +(table, $)
+Weighted Types: 5, Types: 1, Tokens: 504, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) instable/ins
+Transform has too few types.
+
+Vetting transform ($, un)+
+Weighted Types: 4, Types: 2, Tokens: 1049, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) funded/unfunded, insured/uninsured
+Overlap ratio: 2.0
+Seg. Precision: 0.01015228426395939
+Selected ($, un)+
+Learned ($, un)+
+Weighted Types: 4, Types: 2, Tokens: 1049, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) funded/unfunded, insured/uninsured
+4 new pairs inferred by conservative inference.
+Memory status: 10MB Used, 1810MB Remaining
+
+
+Iteration 8
+Lexicon stats:
+Types: 688 Tokens: 891076
+Base size: 42
+Derived size: 48
+Unmodeled size: 598
+Hypothesizing and scoring transforms...
+Selecting a transform...
+
+Vetting transform +(y, ies)
+Weighted Types: 6, Types: 3, Tokens: 6937, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) depositary/depositaries, inequity/inequities, insolvency/insolvencies
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(le, ility)
+Weighted Types: 6, Types: 2, Tokens: 8518, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) inadmissible/inadmissibility, interoperable/interoperability
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(ies, y)
+Weighted Types: 6, Types: 3, Tokens: 6937, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) depositaries/depositary, inequities/inequity, insolvencies/insolvency
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(ility, le)
+Weighted Types: 6, Types: 2, Tokens: 8518, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) inadmissibility/inadmissible, interoperability/interoperable
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform ($, de)+
+Weighted Types: 4, Types: 2, Tokens: 1222, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) listing/delisting, mining/demining
+Overlap Ratio: 0/0
+Breaking tie between ($, de)+ and (de, $)+
+Seg. Precision: 0.002962962962962963
+Seg. Precision too low
+
+Vetting transform (de, $)+
+Weighted Types: 4, Types: 2, Tokens: 1222, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) delisting/listing, demining/mining
+Overlap Ratio: 0/0
+Seg. Precision: 0.002962962962962963
+Seg. Precision too low
+
+Vetting transform +($, tion)
+Weighted Types: 4, Types: 1, Tokens: 830, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) demo/demotion
+Transform has too few types.
+
+Vetting transform +($, ly)
+Weighted Types: 4, Types: 2, Tokens: 239, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) inclusive/inclusively, unswerving/unswervingly
+Overlap Ratio: 0/0
+Seg. Precision: 0.06060606060606061
+Selected +($, ly)
+Learned +($, ly)
+Weighted Types: 4, Types: 2, Tokens: 239, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) inclusive/inclusively, unswerving/unswervingly
+0 new pairs inferred by conservative inference.
+Memory status: 15MB Used, 1805MB Remaining
+
+
+Iteration 9
+Lexicon stats:
+Types: 688 Tokens: 891076
+Base size: 44
+Derived size: 50
+Unmodeled size: 594
+Hypothesizing and scoring transforms...
+Selecting a transform...
+
+Vetting transform +(y, ies)
+Weighted Types: 6, Types: 3, Tokens: 6937, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) depositary/depositaries, inequity/inequities, insolvency/insolvencies
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(le, ility)
+Weighted Types: 6, Types: 2, Tokens: 8518, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) inadmissible/inadmissibility, interoperable/interoperability
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(ies, y)
+Weighted Types: 6, Types: 3, Tokens: 6937, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) depositaries/depositary, inequities/inequity, insolvencies/insolvency
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(ility, le)
+Weighted Types: 6, Types: 2, Tokens: 8518, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) inadmissibility/inadmissible, interoperability/interoperable
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform ($, de)+
+Weighted Types: 4, Types: 2, Tokens: 1222, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) listing/delisting, mining/demining
+Overlap Ratio: 0/0
+Seg. Precision: 0.012195121951219513
+Selected ($, de)+
+Learned ($, de)+
+Weighted Types: 4, Types: 2, Tokens: 1222, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) listing/delisting, mining/demining
+0 new pairs inferred by conservative inference.
+Memory status: 19MB Used, 1800MB Remaining
+
+
+Iteration 10
+Lexicon stats:
+Types: 688 Tokens: 891076
+Base size: 46
+Derived size: 52
+Unmodeled size: 590
+Hypothesizing and scoring transforms...
+Selecting a transform...
+
+Vetting transform +(y, ies)
+Weighted Types: 6, Types: 3, Tokens: 6937, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) depositary/depositaries, inequity/inequities, insolvency/insolvencies
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(le, ility)
+Weighted Types: 6, Types: 2, Tokens: 8518, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) inadmissible/inadmissibility, interoperable/interoperability
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(ies, y)
+Weighted Types: 6, Types: 3, Tokens: 6937, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) depositaries/depositary, inequities/inequity, insolvencies/insolvency
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(ility, le)
+Weighted Types: 6, Types: 2, Tokens: 8518, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) inadmissibility/inadmissible, interoperability/interoperable
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +($, ness)
+Weighted Types: 4, Types: 1, Tokens: 34890, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) innovative/innovativeness
+Transform has too few types.
+
+Vetting transform +(e, ing)
+Weighted Types: 4, Types: 2, Tokens: 9271, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) delete/deleting, invoice/invoicing
+Overlap ratio: 1.0
+Seg. Precision: 0.045454545454545456
+Selected +(e, ing)
+Learned +(e, ing)
+Weighted Types: 4, Types: 2, Tokens: 9271, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) delete/deleting, invoice/invoicing
+9 new pairs inferred by conservative inference.
+Memory status: 23MB Used, 1796MB Remaining
+
+
+Iteration 11
+Lexicon stats:
+Types: 691 Tokens: 893903
+Base size: 49
+Derived size: 60
+Unmodeled size: 582
+Hypothesizing and scoring transforms...
+Selecting a transform...
+
+Vetting transform +(y, ies)
+Weighted Types: 6, Types: 3, Tokens: 6937, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) depositary/depositaries, inequity/inequities, insolvency/insolvencies
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(le, ility)
+Weighted Types: 6, Types: 2, Tokens: 8518, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) inadmissible/inadmissibility, interoperable/interoperability
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(ies, y)
+Weighted Types: 6, Types: 3, Tokens: 6937, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) depositaries/depositary, inequities/inequity, insolvencies/insolvency
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(ility, le)
+Weighted Types: 6, Types: 2, Tokens: 8518, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) inadmissibility/inadmissible, interoperability/interoperable
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(ness, $)
+Weighted Types: 4, Types: 1, Tokens: 34890, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) innovativeness/innovative
+Transform has too few types.
+
+Vetting transform (i, inco)+
+Weighted Types: 3, Types: 1, Tokens: 350, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) insistently/inconsistently
+Transform has too few types.
+
+Vetting transform (inco, i)+
+Weighted Types: 3, Types: 1, Tokens: 350, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) inconsistently/insistently
+Transform has too few types.
+
+Vetting transform +($, ity)
+Weighted Types: 3, Types: 1, Tokens: 1969, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) intermodal/intermodality
+Transform has too few types.
+
+Vetting transform +($, t)
+Weighted Types: 3, Types: 3, Tokens: 3332, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) deb/debt, dep/dept, una/unat
+Overlap Ratio: 0/0
+Seg. Precision: 0.10344827586206896
+Selected +($, t)
+Learned +($, t)
+Weighted Types: 3, Types: 3, Tokens: 3332, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) deb/debt, dep/dept, una/unat
+6 new pairs inferred by conservative inference.
+Memory status: 28MB Used, 1792MB Remaining
+
+
+Iteration 12
+Lexicon stats:
+Types: 694 Tokens: 893952
+Base size: 55
+Derived size: 69
+Unmodeled size: 570
+Hypothesizing and scoring transforms...
+Selecting a transform...
+
+Vetting transform +(y, ies)
+Weighted Types: 6, Types: 3, Tokens: 6937, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) depositary/depositaries, inequity/inequities, insolvency/insolvencies
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(le, ility)
+Weighted Types: 6, Types: 2, Tokens: 8518, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) inadmissible/inadmissibility, interoperable/interoperability
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(ies, y)
+Weighted Types: 6, Types: 3, Tokens: 6937, Pairs: 3, Normal/Accom. Pairs: 3/0
+Samples: (3) depositaries/depositary, inequities/inequity, insolvencies/insolvency
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(ility, le)
+Weighted Types: 6, Types: 2, Tokens: 8518, Pairs: 2, Normal/Accom. Pairs: 2/0
+Samples: (2) inadmissibility/inadmissible, interoperability/interoperable
+Overlap ratio: 0/0
+Overlap ratio too high.
+
+Vetting transform +(tion, l)
+Weighted Types: 3, Types: 1, Tokens: 106, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) generation/general
+Transform has too few types.
+
+Vetting transform +(ed, ation)
+Weighted Types: 3, Types: 1, Tokens: 1377, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) represented/representation
+Transform has too few types.
+
+Vetting transform +(able, y)
+Weighted Types: 3, Types: 1, Tokens: 1033, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) inequitable/inequity
+Transform has too few types.
+
+Vetting transform +(y, able)
+Weighted Types: 3, Types: 1, Tokens: 1033, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) inequity/inequitable
+Transform has too few types.
+
+Vetting transform +(ity, $)
+Weighted Types: 3, Types: 1, Tokens: 1969, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) intermodality/intermodal
+Transform has too few types.
+
+Vetting transform +(ated, g)
+Weighted Types: 3, Types: 1, Tokens: 586, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) undated/undg
+Transform has too few types.
+
+Vetting transform +(g, ated)
+Weighted Types: 3, Types: 1, Tokens: 586, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) undg/undated
+Transform has too few types.
+
+Vetting transform +(l, tion)
+Weighted Types: 3, Types: 1, Tokens: 106, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) general/generation
+Transform has too few types.
+
+Vetting transform +(l, ment)
+Weighted Types: 3, Types: 1, Tokens: 2618, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) install/instalment
+Transform has too few types.
+
+Vetting transform ($, in)+
+Weighted Types: 2, Types: 1, Tokens: 6710, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) depth/indepth
+Transform has too few types.
+Out of good transforms to learn. Giving up.
+Handling final compounding...
+Memory status: 32MB Used, 1788MB Remaining
+Broke 0 compounds in base
+Memory status: 32MB Used, 1788MB Remaining
+Broke 0 compounds in unmodeled
+Learning complete. Analyzing...
+
+Learning time: 0.477s

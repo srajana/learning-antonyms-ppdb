@@ -1,0 +1,83 @@
+Setting parameters from params/conservative.txt
+Loading corpus from data/test/morph_wordlist.txt
+Loading words...
+655 types loaded.
+1528 tokens loaded.
+Init time: 0.863s
+
+Lexicon stats:
+Types: 655 Tokens: 1528
+
+Handling hyphenation...
+Lexicon stats:
+Types: 729 Tokens: 1697
+Memory status: 31MB Used, 1788MB Remaining
+
+Starting learning...
+Iteration 1
+Lexicon stats:
+Types: 729 Tokens: 1697
+Base size: 0
+Derived size: 0
+Unmodeled size: 729
+Hypothesizing and scoring transforms...
+Selecting a transform...
+
+Vetting transform +($, un)
+Weighted Types: 2, Types: 1, Tokens: 17, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) habitat/habitatun
+Transform has too few types.
+
+Vetting transform +(er, $)
+Weighted Types: 2, Types: 1, Tokens: 23, Pairs: 2, Normal/Accom. Pairs: 1/0
+Samples: (2) deader/dead, inter/int
+Transform has too few types.
+
+Vetting transform +(er, ated)
+Weighted Types: 2, Types: 1, Tokens: 13, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) under/undated
+Transform has too few types.
+
+Vetting transform +(un, $)
+Weighted Types: 2, Types: 1, Tokens: 17, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) habitatun/habitat
+Transform has too few types.
+
+Vetting transform (rela, roo)+
+Weighted Types: 1, Types: 1, Tokens: 4, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) related/rooted
+Transform has too few types.
+
+Vetting transform (dump, min)+
+Weighted Types: 1, Types: 1, Tokens: 4, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) dumping/mining
+Transform has too few types.
+
+Vetting transform (roo, rela)+
+Weighted Types: 1, Types: 1, Tokens: 4, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) rooted/related
+Transform has too few types.
+
+Vetting transform (dum, do)+
+Weighted Types: 1, Types: 1, Tokens: 14, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) dumping/doping
+Transform has too few types.
+
+Vetting transform (dop, min)+
+Weighted Types: 1, Types: 1, Tokens: 14, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) doping/mining
+Transform has too few types.
+
+Vetting transform (min, dump)+
+Weighted Types: 1, Types: 1, Tokens: 4, Pairs: 1, Normal/Accom. Pairs: 1/0
+Samples: (1) mining/dumping
+Transform has too few types.
+Out of good transforms to learn. Giving up.
+Handling final compounding...
+Memory status: 32MB Used, 1787MB Remaining
+Broke 0 compounds in base
+Memory status: 32MB Used, 1787MB Remaining
+Broke 2 compounds in unmodeled
+Learning complete. Analyzing...
+
+Learning time: 0.197s

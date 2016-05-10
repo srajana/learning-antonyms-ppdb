@@ -1,0 +1,655 @@
+anti-constitutional	ANTI CONSTITUTIONAL
+anti-corruption	ANTI CORRUPTION
+anti-doping	ANTI DOPING
+anti-dumping	ANTI DUMPING
+anti-racism	ANTI RACISM
+anti-terrorism	ANTI TERRORISM
+antigua	ANTIGUA
+antimicrobials	ANTIMICROBIALS
+antiretrovirals	ANTIRETROVIRALS
+antivirals	ANTIVIRALS
+de-escalation	DE ESCALATION
+de-insured	DE INSURED
+de-linked	DE LINKED*
+de-listing	DE LISTING
+de-mining	DE MINING
+de-what	DE WHAT
+dea	DEA
+deactivate	DEACTIVATE
+dead-on	DEA +(d) ON
+deader	DEADER
+deadlocked	DEADLOCKED
+deafness	DEAFNESS
+death-proof	DEATH PROOF
+deb	DEB
+debbie	DEBBIE
+debit	DEBIT
+debriefing	DEBRIEFING
+debt-servicing	DEBT SERVICING
+debtor	DEBTOR
+debtors	DEBTOR +(s)
+debug	DEBUG
+debugging	DEBUGGING
+dec	DEC
+decals	DECALS
+decapitated	DECAPITATED
+decentralisation	DECENTRALISATION
+decentralized	DECENTRALIZED
+decimated	DECIMATED
+decipher	DECIPHER
+decision-makers	DECISION MAKERS
+decision-taking	DECISION TAKING
+decisionmaking	DECISIONMAKING
+decolonisation	DECOLONISATION
+decolonization	DECOLONIZATION
+decommissioned	DECOMMISSIONE* +(ed)
+decommissioning	DECOMMISSIONE* +(ing)
+deconcentration	DECONCENTRATION
+decontamination	DECONTAMINATION
+decoupling	DECOUPLING
+decree-law	DECREE LAW
+decreto	DECRETO
+deems	DEEMS
+deep-rooted	DEEP ROOTED
+deepens	DEEPENS
+defamation	DEFAMATION
+defaults	DEFAULTS
+defenceless	DEFENCELESS
+defences	DEFENCES
+deferral	DEFERRAL
+deferrals	DEFERRAL +(s)
+defiinitely	DEFIINITELY
+definetly	DEFINETLY
+definitively	DEFINITIVELY
+deflation	DEFLATION
+deflection	DEFLECTION
+defo	DEFO
+deforestation	DEFORESTATION
+deformed	DEFORMED
+defrauded	DEFRAUDED
+defuse	DEFUSE
+degenerate	DEGENERATE
+dehp	DEHP
+delaying	DELAYING
+delete	DELETE
+deleted	DELETE +(d)
+deletes	DELETE +(s)
+deleting	DELETE +(ing)
+deletion	DELETION
+deletions	DELETION +(s)
+deliberated	DELIBERATE* +(ed)
+deliberating	DELIBERATE* +(ing)
+delimitation	DELIMITATION
+delineate	DELINEATE
+delirious	DELIRIOUS
+delisted	DELISTE* +(ed)
+delisting	DELISTE* +(ing)
+deliverables	DELIVERABLES
+deliveries	DELIVERIES
+delocalisation	DELOCALISATION
+delusional	DELUSIONAL
+delusions	DELUSIONS
+dem	DEM
+demand-driven	DEMAND DRIVEN
+demarches	DEMARCHES
+demeaning	DEMEANING
+dementia	DEMENTIA
+demilitarization	DEMILITARIZATION
+deminers	DEMINERS
+demining	DEMINING
+demirel	DEMIREL
+demo	DEMO
+demobilisation	DEMOBILISATION
+demobilization	DEMOBILIZATION
+demobilized	DEMOBILIZATION +(ed)
+democratically	DEMOCRATICALLY
+democratisation	DEMOCRATISATION
+demographics	DEMOGRAPHICS
+demolitions	DEMOLITIONS
+demos	DEMO +(s)
+demotion	DEMOTION
+dems	DEM +(s)
+deng	DENG
+dengue	DENGUE
+denis	DENIS
+denise	DENISE
+denktash	DENKTASH
+densely	DENSELY
+denser	DENSER
+denuclearization	DENUCLEARIZATION
+dep	DEP
+dependability	DEPENDABILITY
+dependants	DEPENDANTS
+dependencies	DEPENDENCIES
+depicts	DEPICTS
+depleted	DEPLETED
+deploy	DEPLOY
+deployments	DEPLOYMENTS
+deploys	DEPLOY +(s)
+depopulation	DEPOPULATION
+deportation	DEPORTATION
+deportations	DEPORTATION +(s)
+deported	DEPORTATION +(ed)
+depositaries	DEPOSITARIES
+depositary	DEPOSITARY
+deprecated	DEPRECATED
+depreciate	DEPRECIATE
+dept	DEPT
+derail	DERAIL
+derailed	DERAIL +(ed)
+derechos	DERECHOS
+deregistered	DEREGISTERED
+deregistration	DEREGISTRATION
+deregulate	DEREGULATE
+deregulated	DEREGULATE +(d)
+deregulation	DEREGULATION
+derek	DEREK
+derisory	DERISORY
+derivatives	DERIVATIVES
+derogation	DEROGATION
+derogations	DEROGATION +(s)
+desa	DESA
+descriptors	DESCRIPTORS
+deselected	DESELECTED
+desertification	DESERTIFICATION
+deservedly	DESERVEDLY
+desiccation	DESICCATION
+desist	DESIST
+desktop	DESKTOP
+desktops	DESKTOP +(s)
+despatch	DESPATCH
+despicable	DESPICABLE
+destabilisation	DESTABILISATION
+destabilization	DESTABILIZATION
+destabilizing	DESTABILIZING
+destinations	DESTINATIONS
+destitution	DESTITUTION
+destroys	DESTROYS
+det	DET
+detachments	DETACHMENTS
+detainee	DETAINEE
+detainees	DETAINEE +(s)
+detaining	DETAINING
+detectability	DETECTABILITY
+detects	DETECTS
+detentions	DETENTIONS
+deterred	DETERRE* +(ed)
+deterring	DETERRE* +(ing)
+detonate	DETONATE
+detonators	DETONATORS
+detoxification	DETOXIFICATION
+detritus	DETRITUS
+deutschland	DEUTSCHLAND
+dev	DEV
+devaluation	DEVALUATION
+devalued	DEVALUATION +(ed)
+devolution	DEVOLUTION
+devolved	DEVOLVED
+devon	DEVON
+dex	DEX
+in-	IN-
+in-depth	IN DEPTH
+in-flight	IN FLIGHT
+in-house	IN HOUSE
+in-into	IN INTO
+in-progress	IN PROGRESS
+in-session	IN SESSION
+ina	INA
+inac	INAC
+inaccurately	INACCURATELY
+inactivated	INACTIVATED
+inadi	INADI
+inadmissibility	INADMISSIBILITY
+inadmissible	INADMISSIBLE
+inappropriately	INAPPROPRIATELY
+inbound	INBOUND
+inbox	INBOX
+inc	INC
+incarceration	INCARCERATION
+incb	INCB
+incidences	INCIDENCES
+incidently	INCIDENTLY
+incineration	INCINERATION
+incinerators	INCINERATORS
+include-	INCLUDE-
+including-	INCLUDING-
+inclusively	INCLUSIVELY
+incoherence	INCOHERENCE
+income-generation	INCOME GENERATION
+incommunicado	INCOMMUNICADO
+incompatibilities	INCOMPATIBILITIES
+inconsistently	INCONSISTENTLY
+incontestably	INCONTESTABLY
+incontrovertibly	INCONTROVERTIBLY
+incorrectly	INCORRECTLY
+increment	INCREMENT
+incrementality	INCREMENTALITY
+incrementally	INCREMENTALLY
+incremented	INCREMENT +(ed)
+increments	INCREMENT +(s)
+incriminated	INCRIMINATED
+incursions	INCURSIONS
+indebtedness	INDEBTEDNESS
+indefatigably	INDEFATIGABLY
+indemnification	INDEMNIFICATION
+indemnities	INDEMNITIES
+indepth	INDEPTH
+indexation	INDEXATION
+indexed	INDEXATION +(ed)
+indictees	INDICTEES
+indigence	INDIGENCE
+indiscriminately	INDISCRIMINATELY
+indispensably	INDISPENSABLY
+indisputable	INDISPUTABLE
+indissociable	INDISSOCIABLE
+indonesians	INDONESIANS
+indubitably	INDUBITABLY
+industrialisation	INDUSTRIALISATION
+indy	INDY
+ine	INE
+inebriated	INEBRIATED
+inec	INEC
+inefficiencies	INEFFICIENCIES
+inefficiently	INEFFICIENTLY
+ineligibility	INELIGIBILITY
+inequalities	INEQUALITIES
+inequitable	INEQUITABLE
+inequities	INEQUITIES
+inequity	INEQUITY
+inestimable	INESTIMABLE
+inextricably	INEXTRICABLY
+infc	INFC
+infeasible	INFEASIBLE
+infectivity	INFECTIVITY
+infiltrators	INFILTRATORS
+inflexibility	INFLEXIBILITY
+inflows	INFLOWS
+info	INFO
+infocap	INFOCAP
+informals	INFORMALS
+informatics	INFORMATICS
+information-gathering	INFORMATION GATHERING
+information-sharing	INFORMATION SHARING
+informationization	INFORMATIONIZATION
+informatization	INFORMATIZATION
+informers	INFORMERS
+infoscape	INFOSCAPE
+infoway	INFOWAY
+infractions	INFRACTIONS
+infrastructure	INFRASTRUCTURE
+infrastructures	INFRASTRUCTURE +(s)
+infringe	INFRINGE
+infringed	INFRINGE +(d)
+infringers	INFRINGERS
+ingc	INGC
+ingos	INGOS
+ingrained	INGRAINED
+inhabitant	INHABITANT
+inhale	INHALE
+inhumanity	INHUMANITY
+ini	INI
+initialization	INITIALIZATION
+initialized	INITIALIZATION +(ed)
+initialled	INITIALLED
+initiatives	INITIATIVES
+initiators	INITIATORS
+injections	INJECTIONS
+injector	INJECTOR
+injure	INJURE
+inm	INM
+inmd	INM +(d)
+inmha	INMHA
+innit	INNIT
+innocuous	INNOCUOUS
+innovating	INNOVATING
+innovative	INNOVATIVE
+innovativeness	INNOVATIVENESS
+inoffensive	INOFFENSIVE
+inoperative	INOPERATIVE
+inpi	INPI
+inputs	INPUTS
+ins	INS
+inscribe	INSCRIBE
+insee	INSEE
+inseparably	INSEPARABLY
+inserting	INSERTING
+insignia	INSIGNIA
+insistently	INSISTENTLY
+insolvencies	INSOLVENCIES
+insolvency	INSOLVENCY
+insolvent	INSOLVENT
+inspectorate	INSPECTORATE
+inspectors	INSPECTORS
+inspekta	INSPEKTA
+instable	INSTABLE
+installs	INSTALLS
+instalment	INSTALMENT
+institution-building	INSTITUTION BUILDING
+institutionalise	INSTITUTIONALISE
+institutionalised	INSTITUTIONALISE +(d)
+instraw	INSTRAW
+insufferable	INSUFFERABLE
+insufficiency	INSUFFICIENCY
+insupportable	INSUPPORTABLE
+insurer	INSURER
+insurers	INSURER +(s)
+insurgency	INSURGENCY
+int	INT
+inta	INTA
+intakes	INTAKES
+integrally	INTEGRALLY
+intel	INTEL
+intensifies	INTENSIFIES
+inter-agency	INTER AGENCY
+inter-alia	INTER ALIA
+inter-connected	INTER CONNECTED
+inter-dependent	INTER DEPENDENT
+inter-ethnic	INTER ETHNIC
+inter-linkages	INTER LINKAGES*
+inter-linked	INTER LINKED*
+inter-related	INTER RELATED
+inter-state	INTER STATE
+interactive	INTERACTIVE
+interactivity	INTERACTIVITY
+interahamwe	INTERAHAMWE
+interception	INTERCEPTION
+interceptions	INTERCEPTION +(s)
+interconnection	INTERCONNECTION
+interconnections	INTERCONNECTION +(s)
+interconnectivity	INTERCONNECTIVITY
+intercultural	INTERCULTURAL
+interdependencies	(inter)+ DEPENDENCIES
+interdependency	INTERDEPENDENCY
+interdiction	INTERDICTION
+interdisciplinary	INTERDISCIPLINARY
+interestedin	INTERESTEDIN
+interfax	INTERFAX
+interferences	INTERFERENCES
+interferon	INTERFERON
+interfet	INTERFET
+interjection	INTERJECTION
+interlinkages	(inter)+ LINKAGES*
+interlinked	(inter)+ LINKED*
+interlocutors	INTERLOCUTORS
+intermediaries	INTERMEDIARIES
+intermediation	INTERMEDIATION
+interminably	INTERMINABLY
+intermodal	INTERMODAL
+intermodality	INTERMODALITY
+internalisation	INTERNALISATION
+internalization	INTERNALIZATION
+internationalisation	INTERNATIONALISATION
+internationalization	INTERNATIONALIZATION
+internationaux	INTERNATIONAUX
+internet	INTERNET
+internment	INTERNMENT
+internship	INTERNSHIP
+internships	INTERNSHIP +(s)
+interoperability	INTEROPERABILITY
+interoperable	INTEROPERABLE
+interpol	INTERPOL
+interpreters	INTERPRETERS
+interreg	INTERREG
+interrelatedness	INTERRELATEDNESS
+interrogated	INTERROGATED
+interrogations	INTERROGATIONS
+interrogatories	INTERROGATORIES
+interrupting	INTERRUPTING
+intersessional	INTERSESSIONAL
+intersputnik	INTERSPUTNIK
+interveners	INTERVENERS
+intervenors	INTERVENORS
+interventions	INTERVENTIONS
+intifada	INTIFADA
+intimidating	INTIMIDATING
+intoxication	INTOXICATION
+inuit	INUIT
+inuvik	INUVIK
+invalidation	INVALIDATION
+invalidity	INVALIDITY
+inventiveness	INVENTIVENESS
+inventoried	INVENTORIED
+invertebrates	INVERTEBRATES
+investhk	INVESTHK
+invoice	INVOICE
+invoiced	INVOICE +(d)
+invoicing	INVOICE +(ing)
+invokes	INVOKES
+un-habitat	UN HABITAT
+un-habitatun-habitat	UN HABITATUN HABITAT
+un-nadaf	UN NADAF
+un-oceans	UN OCEANS
+un-water	UN WATER
+una	UNA
+unabashedly	UNABASHEDLY
+unacceptably	UNACCEPTABLY
+unaffordable	UNAFFORDABLE
+unafri	UNAFRI
+unaids	UNAIDS
+unaltered	UNALTERED
+unama	UNAMA
+unamended	UNAMENDED
+unamet	UNAMET
+unami	UNAMI
+unamid	UNAMI +(d)
+unamir	UNAMIR
+unamsil	UNAMSIL
+unappy	UNAPPY
+unarguably	UNARGUABLY
+unassailable	UNASSAILABLE
+unat	UNAT
+unavailability	UNAVAILABILITY
+unavem	UNAVEM
+unbiased	UNBIASED
+unblock	UNBLOCK
+unblocked	UNBLOCK +(ed)
+unbundling	UNBUNDLING
+unc	UNC
+uncalled-for	UNCALLED FOR
+uncc	UNCC
+unccd	UNCC +(d)
+uncdf	UNCDF
+unced	UNC +(ed)
+unchr	UNCHR
+unchs	UNCHS
+uncitral	UNCITRAL
+unclassified	UNCLASSIFIED
+unclos	UNCLOS
+uncompetitive	UNCOMPETITIVE
+uncomplicated	UNCOMPLICATED
+unconstitutionality	UNCONSTITUTIONALITY
+uncontroversial	UNCONTROVERSIAL
+uncool	UNCOOL
+uncro	UNCRO
+unctad	UNCTAD
+undaf	UNDAF
+undafs	UNDAF +(s)
+undated	UNDATED
+undc-5	UNDC 5
+undcp	UNDCP
+undecided	UNDECIDED
+undemanding	UNDEMANDING
+under-5	UNDER 5
+under-age	UNDER AGE*
+under-five	UNDER FIVE
+under-funded	UNDER FUNDED*
+under-inclusive	UNDER INCLUSIVE
+under-reporting	UNDER REPORTING
+under-representation	UNDER REPRESENTATION
+under-secretary	UNDER SECRETARY
+under-secretary-general	UNDER SECRETARY GENERAL
+underage	(under)+ AGE*
+underdevelopment	UNDERDEVELOPMENT
+underemployment	UNDEREMPLOYMENT
+underestimation	UNDERESTIMATION
+underfunded	(under)+ FUNDED*
+underlines	UNDERLINES
+undermines	UNDERMINES
+undernourished	UNDERNOURISHED
+undernourishment	UNDERNOURISHMENT
+undernutrition	UNDERNUTRITION
+underrepresented	UNDERREPRESENTED
+underscores	UNDERSCORES
+understaffed	UNDERSTAFFED
+underutilization	UNDERUTILIZATION
+undervalue	UNDERVALUE
+undervalued	UNDERVALUE +(d)
+underweight	UNDERWEIGHT
+undg	UNDG
+undiagnosed	UNDIAGNOSED
+undignified	UNDIGNIFIED
+undisputable	UNDISPUTABLE
+undisputedly	UNDISPUTEDLY
+undocumented	UNDOCUMENTED
+undof	UNDOF
+undp	UNDP
+undress	UNDRESS
+uneca	UNECA
+unece	UNECE
+unencumbered	UNENCUMBERED
+unenforceable	UNENFORCEABLE
+unep	UNEP
+unequivocal	UNEQUIVOCAL
+unesco	UNESCO
+unethical	UNETHICAL
+unevenly	UNEVENLY
+unexceptable	UNEXCEPTABLE
+unf	UNF
+unfa	UNFA
+unfairness	UNFAIRNESS
+unfavourable	UNFAVOURABLE
+unfccc	UNFCCC
+unfeasible	UNFEASIBLE
+unff	UNFF
+unficyp	UNFICYP
+unfilled	UNFILLED
+unfip	UNFIP
+unforeseeable	UNFORESEEABLE
+unforgiving	UNFORGIVING
+unfpa	UNFPA
+unfunded	UNFUNDED
+ungass	UNGASS
+ungegn	UNGEGN
+unharmed	UNHARMED
+unhcr	UNHCR
+unhelpful	UNHELPFUL
+unic	UNIC
+unicef	UNICEF
+unicri	UNICRI
+unidir	UNIDIR
+unido	UNIDO
+unidroit	UNIDROIT
+unifem	UNIFEM
+unikom	UNIKOM
+unilateralism	UNILATERALISM
+unimpeded	UNIMPEDED
+unimplemented	UNIMPLEMENTED
+uninhabitable	UNINHABITABLE
+uninstall	UNINSTALL
+uninsured	UNINSURED
+unintentional	UNINTENTIONAL
+unionists	UNIONISTS
+uniosil	UNIOSIL
+unipsil	UNIPSIL
+unis	UNIS
+unita	UNITA
+unitaid	UNITAID
+unitar	UNITAR
+unitary	UNITARY
+universalization	UNIVERSALIZATION
+unjspf	UNJSPF
+unjustly	UNJUSTLY
+unlb	UNLB
+unlocatable	UNLOCATABLE
+unmade	UNMADE
+unmas	UNMAS
+unmee	UNMEE
+unmibh	UNMIBH
+unmih	UNMIH
+unmik	UNMIK
+unmil	UNMIL
+unmin	UNMIN
+unmis	UNMIS
+unmiset	UNMISET
+unmit	UNMIT
+unmop	UNMOP
+unmos	UNMOS
+unmot	UNMOT
+unmovic	UNMOVIC
+unoa	UNOA
+unobstructed	UNOBSTRUCTED
+unoci	UNOCI
+unodc	UNODC
+unog	UNOG
+unogbis	UNOGBIS
+unomb	UNOMB
+unomig	UNOMIG
+unomil	UNOMIL
+unomsa	UNOMSA
+unomsil	UNOMSIL
+unomur	UNOMUR
+unon	UNON
+unopposed	UNOPPOSED
+unops	UNOPS
+unosom	UNOSOM
+unotil	UNOTIL
+unov	UNOV
+unowa	UNOWA
+unpa	UNPA
+unpan	UNPAN
+unpf	UNPF
+unplugged	UNPLUGGED
+unpob	UNPOB
+unpos	UNPOS
+unprecedentedly	UNPRECEDENTEDLY
+unpredep	UNPREDEP
+unprejudiced	UNPREJUDICED
+unprofor	UNPROFOR
+unproven	UNPROVEN
+unquestioned	UNQUESTIONED
+unreachable	UNREACHABLE
+unreadable	UNREADABLE
+unremittingly	UNREMITTINGLY
+unreported	UNREPORTED
+unrepresented	UNREPRESENTED
+unrisd	UNRISD
+unrivaled	UNRIVALED
+unrwa	UNRWA
+unsatisfied	UNSATISFIED
+unscear	UNSCEAR
+unsco	UNSCO
+unscom	UNSCOM
+unsd	UNSD
+unsecoord	UNSECOORD
+unshaken	UNSHAKEN
+unsia	UNSIA
+unsma	UNSMA
+unsmih	UNSMIH
+unso	UNSO
+unsoa	UNSOA
+unsound	UNSOUND
+unspent	UNSPENT
+unspoiled	UNSPOILED
+unstat	UNSTAT
+unsubstantiated	UNSUBSTANTIATED
+unsurprisingly	UNSURPRISINGLY
+unsustainable	UNSUSTAINABLE
+unswerving	UNSWERVING
+unswervingly	UNSWERVINGLY
+untac	UNTAC
+untaes	UNTAES
+untaet	UNTAET
+untiringly	UNTIRINGLY
+untmih	UNTMIH
+untop	UNTOP
+untraceable	UNTRACEABLE
+untso	UNTSO
+unu	UNU
+unu-ony	UNU ONY
+unusable	UNUSABLE
+unv	UNV
+unvs	UNV +(s)
+unwavering	UNWAVERING
+unwell	UNWELL
+unwieldy	UNWIELDY
+unwind	UNWIND

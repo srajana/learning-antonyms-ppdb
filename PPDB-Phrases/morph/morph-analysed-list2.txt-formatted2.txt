@@ -1,0 +1,6 @@
+unfunded	funded
+uninsured	insured
+unrepresented	represented
+demining	mining
+uninstall	install
+delisting	listing
