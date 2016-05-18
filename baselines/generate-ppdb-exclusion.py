@@ -18,7 +18,7 @@ def get_ppdb(ppdbfile) :
 	with gzip.open(ppdbfile) as f : 
 		for line in f : 
 			text = line.split(' ||| ')
-			if(len(text) == 6 and text[5].strip() = 'Exclusion'):
+			if(len(text) == 6 and text[5].strip() == 'Exclusion'):
 				_, x, y, _ = line.strip().split(' ||| ', 3)
 				pair = (x,y) if x < y else (y,x)
 				ppdb.add(pair)
