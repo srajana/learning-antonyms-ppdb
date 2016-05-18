@@ -1,0 +1,163 @@
+belgium	spain
+czech republic	poland
+finals	preliminaries
+blue	green
+leeward	windward
+france	spain
+czech republic	germany
+finland	germany
+horizontal	vertical
+down	up
+italy	portugal
+germany	netherlands
+sweden	the netherlands
+buy	sell
+men	women
+netherlands	sweden
+belgium	italy
+exported	imported
+denmark	finland
+export	imports
+greece	sweden
+thicker	thinner
+left	right
+france and	germany and
+brother	sister
+france	greece
+norway	poland
+daughter	son
+sweden	switzerland
+greece	spain
+conservative	liberal
+germany	sweden
+portugal	spain
+north	south
+dry	wet
+belgium	germany
+, france ,	, italy ,
+africa	asia
+inside	outside
+italy	netherlands
+long	short
+negative	positive
+spain	sweden
+bad	good
+argentina	germany
+insolvent	solvent
+hungary	romania
+netherlands	new zealand
+germany	italy
+export	import
+friday	saturday
+france	norway
+maximum	minimum
+finland	france
+finland	sweden
+greece	italy
+austria	the netherlands
+children	parents
+argentina	chile
+downtown	uptown
+belgium	netherlands
+employment	unemployment
+ireland	spain
+japan	korea
+blacks	whites
+red	yellow
+local	national
+netherlands	poland
+slovenia	spain
+finland	netherlands
+france ,	italy ,
+england	scotland
+bottom	top
+easy	hard
+less likely	not likely
+austria	germany
+hungary	poland
+front	rear
+exports	imports
+downwind	upwind
+argentina	brazil
+bisexual	homosexual
+november	october
+germany	spain
+saturdays	wednesdays
+austria	sweden
+france	italy
+norway	the netherlands
+east	west
+complex	simple
+black	white
+germany	greece
+netherlands ,	norway ,
+end of	start of
+the end of	the start of
+blue	yellow
+black	red
+italy	spain
+impossible	possible
+el salvador	honduras
+man	woman
+full-time	part-time
+creditors	debtors
+illiterate	literate
+belgium	luxembourg
+czech republic	slovakia
+irrational	rational
+austria	spain
+females	males
+anybody	nobody
+thick	thin
+february	january
+france	germany
+sunrise	sunset
+a man	a woman
+new zealand	norway
+netherlands	spain
+high	low
+decreased	increased
+netherlands	norway
+january	july
+estonia	latvia
+norway	sweden
+finland	italy
+hardware	software
+female	male
+best	worst
+sweden ,	switzerland ,
+denmark	spain
+boys	girls
+the boys	the men
+italy	japan
+czech republic	greece
+spain	switzerland
+decrease	increase
+dependent	independent
+romania	slovakia
+australia	austria
+india	indonesia
+the east	the west
+lawful	unlawful
+father	mother
+bought	sold
+no man	nobody
+optimistic	pessimistic
+france	netherlands
+evil	good
+downstream	upstream
+denmark	italy
+creditor	debtor
+large	small
+afghanistan	pakistan
+children	mothers
+little	much
+finland	spain
+greece	portugal
+boy	girl
+exporting	importing
+finland	the netherlands
+romania	spain
+austria	italy
+, france	, italy
+new zealand	sweden
