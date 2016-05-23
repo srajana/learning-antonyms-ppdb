@@ -23,6 +23,32 @@
 \usepackage{multirow}
 \usepackage{tabularx}
 \usepackage{graphicx}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{listings}
+\usepackage{color}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\lstset{frame=tb,
+  language=Python,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=none,
+  numberstyle=\tiny\color{gray},
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true,
+  tabsize=3
+}
+
 
 %\setlength\titlebox{5cm}
 
@@ -122,7 +148,7 @@ PPDB is an automatically extracted database containing millions of paraphrases i
 \section{Our Approach}
 This is the first approach to have used PPDB to obtain antonyms and includes the following steps.
 \subsection{Creation of a seed set of antonym pairs}
-We first created a seed set of antonyms generated using WordNet. As mentioned in Section 2, antonyms derived from WordNet are direct antonyms. We extended this list to include indirect antonym word pairs that were derived from a cross product of the synonyms of each word in the antonym pair and its direct antonym. Table 1 shows examples of direct antonym pairs and indirect antonym pairs. This seed set of antonym pairs generated from WordNet was used like a gold standard for further experiments.
+We first created a seed set of antonyms generated using WordNet. As mentioned in Section 2, antonyms derived from WordNet are direct antonyms. We extended this list to include indirect antonym word pairs that were derived from a cross product of the synonyms of each word in the antonym pair and its direct antonym. Table 1 shows examples of direct antonym pairs and indirect antonym pairs. This seed set of antonym pairs generated from WordNet was used like a gold standard for further experiments. The pseudocode for extracting antonyms from WordNet is shown below.
 
 \begin{table}
 %\parbox{.45\linewidth}{
@@ -130,7 +156,7 @@ We first created a seed set of antonyms generated using WordNet. As mentioned in
 \begin{tabular}[t]{|c|c|}
 \hline
 Direct antonyms & Indirect antonyms\\
-\hline \hline
+\hline
 clean/dirty & clean/foul\\
  rise/fall & clean/grime\\
  rise/set & clean/muddy\\
@@ -144,15 +170,44 @@ clean/dirty & clean/foul\\
 \caption {Direct antonyms and Indirect antonyms from WordNet}
 \end{table}
 
+\begin{lstlisting}
+#Algorithm: Extracting WordNet antonyms
+#Input: None
+#Output: Set of all antonym pairs
+
+#packages required
+from nltk.corpus import wordnet as wn
+
+for i in wn.all_synsets():
+    for j in lemmas(i):
+        if j has antonyms:
+                #direct antonyms
+                word1 = j
+                word2 = antonym(j)
+                antonyms.add((word1,word2))
+                #indirect antonyms
+                #antonym(synonyms(word1),word2)
+                word1_synonyms = wn.synsets(word1)
+                for s in word1_synonyms:
+                    antonyms.add((s,word2))
+                #antonym(synonyms(word2),word1)
+                word2_synonyms = wn.synsets(word2)
+                for s in word2_synonyms:
+                    antonyms.add((s,word1))
+
+print(antonyms)
+
+\end{lstlisting}
+
 \subsection{Selection of paraphrases}
-In this study we focused on two types of paraphrase pairs from PPDB. The first type is of the form $<p1, p2>$ where $p1$ contains the word 'not' in it and $p2$ is a single word or lexical phrase (Example: not happy/happy). The second type is of the form $<p1, p2>$ where either $p1$ or $p2$ contains a negating prefix (Example: unhappy, demotivate, inaccurate etc.). We consider negating prefixes of the form 'in', 'un', 'anti' and 'de'. Table 2 shows examples of pairs in PPDB falling into these two categories. These two types of paraphrase pairs were chosen as we believed these to be most indicative of an antonym relationship between the target words. 
+In this study we focused on two types of paraphrase pairs from PPDB. The first type is of the form $<p1, p2>$ where $p1$ contains the word 'not' in it and $p2$ is a single word or lexical phrase (Example: not happy/happy). The second type is of the form $<p1, p2>$ where either $p1$ or $p2$ contains a negating prefix (Example: unhappy, demotivate, inaccurate etc.). We consider negating prefixes of the form 'in', 'un', 'anti' and 'de'. Table 2 shows examples of pairs in PPDB falling into these two categories. These two types of paraphrase pairs were chosen as we believed these to be most indicative of an antonym relationship between the target words. The pseudocodes for extracting PPDB paraphrases of the two types are shown below.
 %\begin{center}
 \begin{table*}[h!]
 \centering
  \begin{tabular}{|c | c|} 
  \hline
  Category 1 & Category 2 \\ [0.5ex] 
- \hline\hline
+ \hline
  not satisfactory/unsatisfactory & inadequate/ quite inadequate\\
  not appropriate/inappropriate & unacceptable/ wholly unacceptable\\
  not insignificant/significant & intolerable/ quite intolerable\\
@@ -169,17 +224,62 @@ In this study we focused on two types of paraphrase pairs from PPDB. The first t
 \end{table*}
 %\end{center}
 
+\begin{lstlisting}
+#Algorithm: Extracting PPDB paraphrase type 1
+#Input: PPDB 2.0 XXXL phrasal file
+#Output: Paraphrase pairs of type 1
+
+#packages required
+from nltk import word_tokenize
+
+for line in ppdb_file:
+    text = line.split("|||")
+    source = text[1]
+    source1 = word_tokenize(source)
+    target = text[2]
+    target1 = word_tokenize(target)
+    if 'not ' in source and len(source1)==2 and len(target1)==1:
+            phrases.add((source,target))
+    if 'not ' in target and len(target1)==2 and len(source1)==1:
+            phrases.add((target,source))
+
+print(phrases)
+\end{lstlisting}
+
+\begin{lstlisting}
+#Algorithm: Extracting PPDB paraphrase type 2
+#Input: PPDB 2.0 XXXL phrasal file
+#Output: Paraphrase pairs of type 2
+
+#packages required
+from nltk import word_tokenize
+
+for line in ppdb_file:
+    text = line.split("|||")
+    source = text[1]
+    source1 = word_tokenize(source)
+    target = text[2]
+    target1 = word_tokenize(target)
+    if len(source1) == 1:
+        if(source starts with 'in' or 'un' or 'anti' or 'de'):
+            phrases.add((source, target))
+    if len(target1) == 1:
+        if(target starts with 'in' or 'un' or 'anti' or 'de'):
+            phrases.add((target, source))
+
+print(phrases)
+\end{lstlisting}
 \subsection{Generating antonym pairs}
 Paraphrase type 1:  We used PPDB to retrieve paraphrase mappings that are useful in learning antonyms (Eg. not happy/happy, unhappy/happy, deactivate/activate etc.). For each word-pair obtained using PPDB, we found synonyms for both words first using WordNet synsets and then with PPDB. We then proceeded to map all synonyms of word1 in the antonym pair to word2 of the antonym pair and all synonyms of word2 in the antonym pair to word1 of the antonym pair. We used WordNet seed set as a gold standard to compare the newly generated antonym list using PPDB.\\
 Paraphrase type 2: A list of words obtained from PPDB containing negating prefixes were compiled and a morphological analysis was performed on these words to remove the negation markers. Antonyms were then generated from the base non-negated forms and all paraphrases of the negated form.
-Table 3 shows examples of antonym pairs derived from the two type of paraphrases from PPDB.
+Table 3 shows examples of antonym pairs derived from the two type of paraphrases from PPDB. The pseudocodes for generating antonyms from PPDB paraphrases of the two types are shown below.
 \begin{table}
 %\parbox{.45\linewidth}{
 %\centering
 \begin{tabular}[t]{|c|c|}
 \hline
 Paraphrase type 1 & Paraphrase type 2\\
-\hline \hline
+\hline
 sufficient/insufficient & dependence/independent\\
 adequate/not enough & significant/negligible\\
 happy/unhappy & effective/no good\\
@@ -195,6 +295,89 @@ stop/hold on & believable/unreal\\
 \caption {Antonyms derived from PPDB paraphrases of two types}
 \end{table}
 
+\begin{lstlisting}
+#Algorithm: Generating antonym pairs of the form <x,y>
+#Input: File containing PPDB paraphrases of the form <not x,y>
+#Output: Antonym pairs of the form <x,y>
+
+for line in input_file:
+    line = line.replace('not ', '')
+    x,y = line.split('\t')
+    antonyms.add((x,y))
+    
+print(antonyms)
+\end{lstlisting}
+
+\begin{lstlisting}
+#Algorithm: Generating antonym pairs of the form <synonyms(x),y> and <x,synonyms(y)> using WordNet to extract synonyms
+#Input: File containing antonym pairs of the form <x,y>
+#Output: Antonym pairs of the form <synonyms(x),y> and <x,synonyms(y)
+
+for line in input_file:
+    x,y = line.split('\t')
+    x_synonyms = get_wordnet_synsets(x)
+    for s in x_synonyms:
+        antonyms.add((s,y))
+    y_synonyms = get_wordnet_synsets(y)
+    for s in y_synonyms:
+        antonyms.add((s,x))
+        
+print(antonyms)
+\end{lstlisting}
+
+\begin{lstlisting}
+#Algorithm: Generating antonym pairs of the form <paraphrases(x),y> and <x,paraphrases(y)> using PPDB to extract paraphrases
+#Input: File containing antonym pairs of the form <x,y>
+#Output: Antonym pairs of the form <paraphrases(x),y> and <x,paraphrases(y)>
+
+for line in input_file:
+    x,y = line.split('\t')
+    x_synonyms = get_paraphrases_from_ppdb(x)
+    for s in x_synonyms:
+        antonyms.add((s,y))
+    y_synonyms = get_paraphrases_from_ppdb(y)
+    for s in y_synonyms:
+        antonyms.add((s,x))
+        
+print(antonyms)
+\end{lstlisting}
+
+\begin{lstlisting}
+#Algorithm: Performing morphological analysis on input list of words to remove the negating prefix
+#Input: List of words containing a negating prefix from PPDB
+#Output: Mapping between the word with negating prefix and its non-negated base form
+
+#package required - MORSEL
+
+#ppdb_morph_file: File containing words to be morphologically analysed with their frequencies
+for word in input_list:
+    ppdb_morph_file.write(word+
+    get_frequency_from_ppdb(word))
+    
+#Run the following command on the PPDB corpus wordlist, write the analysis to `out.txt`, write the log to `log.txt`, and use the conservative parameter set do the following:
+`java -jar morsel.jar <ppdb_morph_file> out.txt log.txt params/conservative.txt`
+
+#out.txt contains a mapping between the word and its non-negated base form
+\end{lstlisting}
+
+\begin{lstlisting}
+#Algorithm: Generating antonym pairs of the form <non_negated(x),paraphrases(negated(x))>
+#Input: File containing a mapping between the word with negating prefix and its non-negated base form
+#Output: Antonym pairs of the form <non_negated(x),paraphrases(negated(x))>
+
+morph_words = get_list_words_with_negated_prefix()
+
+morph_mapping = get_mapping_from_inputfile()
+
+for phrase_pair in ppdb_phrases:
+    #source = source_phrase in phrase_pair
+    #target = target_phrase in phrase_pair
+    if(source in morph_words):
+        antonyms.add((morph_mapping[source], target))
+
+print(antonyms)
+\end{lstlisting}
+
 \subsection{Hearst/Snow patterns for antonym pairs}
 In section 2.3 we described pattern based techniques to derive lexical relations from unrestricted text. Snow et al. (2004) and Hearst (1992) used easily recognizable and frequently occurring lexico-syntactic patterns to automatically derive lexical relations (hypernymy, hyponymy etc.) between noun pairs. Pavlick et al. (2015) used monolingual path features to learn new patterns to differentiate between more subtle relations like equivalence, negation and entailment. We used similar path features generated from dependency parses and Linguistic Data Consortium (LDC) data to learn new patterns that are indicative of an antonym relationship. Table 4 gives examples of some of these paths.
 \begin{table*}
@@ -202,7 +385,7 @@ In section 2.3 we described pattern based techniques to derive lexical relations
 \begin{tabular}{|c|c|}
 \hline
 Pattern & Example sentence\\
-\hline\hline
+\hline
 compared with X, Y & \textit{compared with the older generation, the new generation}\\
 to X or to Y & \textit{to fight or to surrender}\\
 X rather than Y & \textit{maximizing it rather than minimizing it}\\
@@ -219,22 +402,22 @@ neither X nor Y & \textit{neither women nor men}\\
  \hline
  Sl no. & Method & No. of unique pairs \\ [0.5ex]
  \hline\hline
- 1 & Antonyms from WordNet & 18306\\
- a & Direct antonyms & 3337\\
- b & Indirect antonyms & 14969\\
+ 1 & Antonyms from WordNet & 18,306\\
+ a & Direct antonyms & 3,337\\
+ b & Indirect antonyms & 14,969\\
  \hline
- 2 & PPDB phrases of the form $<$Not X, Y$>$ & 7878\\
- a & Antonyms of the form $<$X,Y$>$ from PPDB phrase $<$Not X,Y$>$ & 7878\\
+ 2 & PPDB phrases of the form $<$Not X, Y$>$ & 7,878\\
+ a & Antonyms of the form $<$X,Y$>$ from PPDB phrase $<$Not X,Y$>$ & 7,878\\
  b & Antonyms of the form $<$X, synonyms(Y)$>$ and $<$synonyms(X), Y$>$ &  \\
-  i &  Synonyms generated using WordNet & 27599409\\
+  i &  Synonyms generated using WordNet & 27,599,409\\
   ii & Synonyms generated using PPDB & 1932137\\
  \hline
- 3 & PPDB Phrases of the form $<$X with negating prefix, Y$>$ & 183159\\
- a & Antonyms of the form $<$Base non-negated form of X,Y$>$ & 183159\\
+ 3 & PPDB Phrases of the form $<$X with negating prefix, Y$>$ & 183,159\\
+ a & Antonyms of the form $<$Base non-negated form of X,Y$>$ & 183,159\\
   & from PPDB Phrase: $<$X with negating prefix, Y$>$ & \\
  b & Lexical words in PPDB containing a negating prefix
- & 1966\\ 
- c & Antonyms of the form $<$Non-negated form of X,Paraphrases(negated form of X)$>$ & 19732\\
+ & 1,966\\ 
+ c & Antonyms of the form $<$Non-negated form of X,Paraphrases(negated form of X)$>$ & 19,732\\
  \hline
 \end{tabular}
 \caption{Number of unique pairs generated in each step involved in generating the resulting antonym list}
@@ -246,6 +429,41 @@ Comparing entries 2-b-i and 2-b-ii in Table 6, we see that around 27 million wor
 
 Examples of antonym pairs generated using the two types of PPDB paraphrases are listed in table 3. Both the antonym lists contained good results and covered different senses of a given word For example, consider the antonym pair good/cold. This pair is probably indicative of characteristics of a person - 'he was good' vs. 'he was cold'. The list also contained the pair hot/cold. This pair contains the same word 'cold' but in a different sense and this antonym pair is a direct antonym pair - 'hot water' vs. 'cold water'. Unsurprisingly, the quality of the antonym pairs generated using PPDB paraphrase type 2 that contain words with a negating prefix was better than those generated using PPDB paraphrase type 1 that contains phrases containing the word 'not'. For example, consider the paraphrases 'not acceptable/objectionable' under category 1 in table 2 and 'unacceptable/wholly unacceptable' under category 2 in table 2. These phrases will return the antonym pairs 'acceptable/objectionable' and 'acceptable/wholly unacceptable' respectively using the method described in section 4.3. Pairing the word acceptable with paraphrases of unacceptable will indicate a better antonym relationship than pairing acceptable with paraphrases of not acceptable as unacceptable/acceptable indicates a stronger and more obvious antonym relationship than not acceptable/acceptable.  
 
+\section{Evaluation}
+We performed a manual evaluation of the quality of the antonyms that were extracted. A combined list of randomly selected antonyms from all of the methods listed above had about 44\% accuracy. We also evaluated the percentage of antonyms yielded by each method. Table 6 shows the accuracy of the baseline and the individual methods.
+\begin{table*}[h!]
+\centering
+ \begin{tabular}{| c | c |} 
+ \hline
+ Method & \% of antonyms \\ [0.5ex]
+ \hline
+ Combination & 44.20\\
+ Antonyms from WordNet (including Indirect antonyms) & 70.00\\
+ PPDB pairs classified as 'Exclusion' & 44.00\\
+ Antonyms of the form $<$X,Y$>$ from PPDB phrase $<$Not X,Y$>$ & 52.22\\
+ PPDB antonym pairs expanded using WordNet synsets & 18.00\\
+ PPDB antonym pairs expanded using PPDB paraphrases & 11.76\\
+ PPDB antonym pairs from the morphological negation patterns & 42.00\\
+ \hline
+\end{tabular}
+\caption{Percentage of antonyms yielded by each method}
+\end{table*}
+WordNet antonyms expanded with WordNet synsets achieved the highest accuracy of about 70\%. Antonyms of the form $<$X,Y$>$ from PPDB phrase $<$Not X,Y$>$ had the second best accuracy followed by PPDB antonym pairs from the morphological negation pattern. The errors in these methods mostly consisted of phrases and words that do not have a contradictory meaning after the removal of the negation pattern. For example, the antonym pair \textit{till/until} was derived from the PPDB phrase, \textit{not till/until}. But 'till' and 'until' have an equivalent meaning and are not actually antonyms of each other. Other non-antonyms generated from the above methods can be classified into unrelated pairs (background/figure), paraphrases or pairs that have an equivalent meaning (admissible/permissible), words that belong to a category (Africa/Asia), pairs that have an entailment relation (valid/equally valid) and pairs that are related but not with an antonym relationship (habitants/general public). Table 7 gives some examples of categories of non-antonyms. PPDB pairs directly classified as 'Exclusion' contained a lot of pairs that belong to a categories like colors (blue/red), countries (India/Indonesia) etc. Unrelated pairs and pairs with entailment and other relationships were present in the antonym list derived from PPDB paraphrases. 
+\begin{table*}[h!]
+ \begin{tabular}{| c | c | c | c | c |} 
+ \hline
+ Unrelated & Paraphrases & Categories & Entailment & Other relation \\ [0.5ex]
+ \hline
+ much/worthless & correct/that's right & Japan/Korea & investing/increased investment & twinkle/dark\\
+ disability/present & simply/merely & black/red & efficiency/operational efficiency & naw/not gonna\\
+ equality/gap & till/until & Jan/Feb & valid/equally valid & access/available\\
+ long/rare & no man/nobody & blonde/brunette & significant/statistically significant & valuable/premium\\
+ allow/right & right/alright & Africa/Asia & & don't do/not right\\
+ 
+ \hline
+\end{tabular}
+\caption{Examples of different types of non-antonyms}
+\end{table*}
 \section{Future work}
 Although the quality of the antonym pairs generated from the experiments described above was good in general, the lists contain a lot of unrelated pairs of words and phrases. A mechanism to automatically score the resulting antonym pairs and eliminating the low-score antonym pairs will improve the quality of the antonym list. We focused on only two types of phrase pairs from PPDB for our experiments. We can extend this by identifying other types of paraphrase pairs from PPDB that can help us in generating more antonyms and attempt to derive a larger and more accurate antonym list from those pairs.
 
