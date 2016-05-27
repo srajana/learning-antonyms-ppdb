@@ -3,7 +3,7 @@ import random
 import os
 import glob
 
-input_files = ['../antonyms/wordnet-antonyms.txt', '../antonyms/wordnet-synonyms-antonyms.txt', '../antonyms/exclusion-antonyms.txt', '../antonyms/not-antonyms.txt', '../../antonym-list-1.txt', '../../antonym-list-2.txt', '../../antonym-list-3.txt']
+input_files = ['../antonyms/wordnet-antonyms.txt', '../antonyms/wordnet-synonyms-antonyms.txt', '../antonyms/exclusion-antonyms.txt', '../antonyms/not-antonyms.txt', '../antonyms/antonym-list-1.txt', '../antonyms/antonym-list-2.txt', '../antonyms/antonym-list-3.txt']
 
 baseline_antonyms = set()
 
