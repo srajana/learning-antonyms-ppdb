@@ -1,4 +1,4 @@
-# learning-antonyms-ppdb
+# Learning Antonyms using the Paraphrase Database
 This project involves Natural Language Processing and Learning techniques to learn antonyms using PPDB:The Paraphrase Database (http://www.cis.upenn.edu/~ccb/ppdb/).
 
 The Abstract from this [paper](paper/paper_final.pdf):
