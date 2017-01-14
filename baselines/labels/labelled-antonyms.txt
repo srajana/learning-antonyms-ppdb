@@ -1,478 +1,457 @@
 losings	winnings	antonym
 harmoniousness	dissonance	antonym
 competent	incompetent	antonym
-lone	outside	antonym
+lone	outside	unrelated
 adroit	maladroit	antonym
- n 	  applicable 	antonym
-stalled	 be provided 	antonym
+stalled	 be provided 	unrelated
 keep_down	vomit	antonym
-  	 minimum of 	antonym
-  just 	 inter 	antonym
- farther 	  well 	antonym
-formation	 raise awareness 	antonym
+  just 	 inter 	unrelated
+ farther 	  well 	unrelated
+formation	 raise awareness 	unrelated
  prevalent 	  uncommon 	antonym
 absent	present	antonym
 tactful	tactless	antonym
-shitty	secure	antonym
-sights	 a submission 	antonym
-to	flavour	antonym
- no 	  quite 	antonym
+shitty	secure	other
+sights	 a submission 	unrelated
+to	flavour	unrelated
+ no 	  quite 	unrelated
 gutlessness	gutsiness	antonym
-netherlands ,	norway ,	antonym
-  	 exclusion of 	antonym
+netherlands ,	norway ,	category
 long	short	antonym
 scalable	unscalable	antonym
-  very 	 slightly 	antonym
-put	 your contributions 	antonym
-nonpareil	refrain	antonym
+  very 	 slightly 	other
+put	 your contributions 	unrelated
+nonpareil	refrain	unrelated
 offending	unoffending	antonym
-thus_far	even	antonym
+thus_far	even	unrelated
 openhanded	conservative	antonym
-formal	 informal consultation 	antonym
-corporation	 the involvement 	antonym
-bastard	legitimate	antonym
-necessary	 as necessary 	antonym
-  excessively 	 jeez 	antonym
+formal	 informal 	antonym
+corporation	 the involvement 	unrelated
+bastard	legitimate	other
+necessary	 as necessary 	entailment
+  excessively 	 jeez 	unrelated
 downwind	upwind	antonym
-germany	sweden	antonym
+germany	sweden	category
 bad_weather	good_weather	antonym
 pigeon-toed	splayfooted	antonym
-put	 the award 	antonym
+put	 the award 	unrelated
   realistic 	 impracticable 	antonym
-  yet 	 either 	antonym
+  yet 	 either 	unrelated
 front	rear	antonym
 datable	undatable	antonym
-ceaseed	 really dead 	antonym
+deceaseed	 really dead 	paraphrase
 turned	unturned	antonym
 grammatical_construction	misconstruction	antonym
- worse 	  adequately 	antonym
-abuse	whisper	antonym
-vested	 taken into care 	antonym
- little 	  yet 	antonym
- soon 	  yet 	antonym
+ worse 	  adequately 	unrelated
+abuse	whisper	unrelated
+vested	 taken into care 	other
+ little 	  yet 	unrelated
+ soon 	  yet 	unrelated
 immaturity	maturity	antonym
-hard	beneficial	antonym
-sluttish	complex	antonym
-no	just	antonym
-  	 nor the 	antonym
+hard	beneficial	unrelated
+sluttish	complex	unrelated
+no	just	unrelated
+  	 nor the 	unrelated
 allogeneic	xenogeneic	antonym
-  too 	 really 	antonym
-sandlike	argillaceous	antonym
+  too 	 really 	unrelated
+sandlike	argillaceous	paraphrase
 unawed	awed	antonym
-france	italy	antonym
-feated	 reduced to zero 	antonym
-tended	 it claims 	antonym
-, france	, italy	antonym
+france	italy	category
+feated	 reduced to zero 	unrelated
+tended	 it claims 	unrelated
+, france	, italy	category
 eligibility	ineligibility	antonym
- unknown 	  feasible 	antonym
+ unknown 	  feasible 	other
 north	south	antonym
   dead 	 alive 	antonym
 clear	 rather vague 	antonym
 now	ended	antonym
 bought	sold	antonym
-  but 	 just 	antonym
-  	 any questions 	antonym
-fewer	LE	antonym
-non	all_the_same	antonym
+  but 	 just 	unrelated
+  	 any questions 	unrelated
+fewer	LE	unrelated
+non	all_the_same	unrelated
 female	male	antonym
-in_effect	damaging	antonym
+in_effect	damaging	other
 Attic	nonionic	antonym
 modest	boastfully	antonym
-scribes	 'm talking 	antonym
+scribes	 'm talking 	unrelated
 peanut	large	antonym
 file_in	file_out	antonym
 play_down	play_up	antonym
-roads	 some progress 	antonym
-sight	 a brief outline 	antonym
+roads	 some progress 	unrelated
+sight	 a brief outline 	unrelated
 easy	baffling	antonym
-sight	 an analysis 	antonym
+sight	 an analysis 	unrelated
 multidimensional	unidimensional	antonym
 consonantal	vocalic	antonym
-signing	 the stationing 	antonym
-sights	 no idea 	antonym
+signing	 the stationing 	unrelated
+insights	 no idea 	paraphrase
 brave	timid	antonym
 disliked	liked	antonym
 sequester	deposit	antonym
 dishonourable	honorable	antonym
-  now 	 anymore 	antonym
- no. 	  quite 	antonym
-austria	spain	antonym
-  once 	 ever 	antonym
+  now 	 anymore 	unrelated
+ no. 	  quite 	unrelated
+austria	spain	category
+  once 	 ever 	unrelated
 insurmountable	surmountable	antonym
 uselessly	usefully	antonym
 unfaceted	faceted	antonym
-signation	 the identification 	antonym
+signation	 the identification 	paraphrase
 concentration	emersion	antonym
-formed	 be kept informed 	antonym
-less	 now if 	antonym
-equitable	actually	antonym
- unsurprisingly 	  unexpectedly 	antonym
+formed	 be kept informed 	unrelated
+less	 now if 	unrelated
+equitable	actually	unrelated
+ unsurprisingly 	  unexpectedly 	paraphrase
 demulsify	emulsify	antonym
-put	 their opinions 	antonym
-bad	dependable	antonym
-mates	 aboriginal offenders 	antonym
-satisfying	hollow	antonym
+put	 their opinions 	unrelated
+bad	dependable	unrelated
+mates	 aboriginal offenders 	unrelated
+satisfying	hollow	unrelated
 turn_away	admit	antonym
-only	beneficial	antonym
-spain	switzerland	antonym
-cured	 have carried out 	antonym
+only	beneficial	unrelated
+spain	switzerland	category
+cured	 have carried out 	unrelated
   ok 	 invalid 	antonym
 easy	hardworking	antonym
 manned	unmanned	antonym
 aright	abnormal	antonym
 right_on	misused	antonym
-only	suffer	antonym
+only	suffer	unrelated
 inebriation	soberness	antonym
 satisfactory	unsatisfactory	antonym
-easily	marginally	antonym
-take	 the hospitality 	antonym
-fancy	 early years 	antonym
+easily	marginally	unrelated
+take	 the hospitality 	unrelated
+fancy	 early years 	unrelated
 popular	unpopular	antonym
-austria	germany	antonym
- shortly 	  very 	antonym
+austria	germany	category
+ shortly 	  very 	unrelated
 employment	unemployment	antonym
 assembly	disassembly	antonym
  timeliness 	  later 	antonym
 unbelief	belief	antonym
-no	get_into	antonym
-habit	 live today 	antonym
+no	get_into	unrelated
+habit	 live today 	unrelated
 thick	thin	antonym
-break-dance	keep	antonym
-france	germany	antonym
+break-dance	keep	unrelated
+france	germany	category
 detribalisation	tribalisation	antonym
-unhealthy	proper	antonym
+unhealthy	proper	other
 communicate	excommunicate	antonym
-tent	 every intention 	antonym
-comeing	 hold on 	antonym
-scribe	 be developed 	antonym
-mighty	bad-looking	antonym
+intent	 every intention 	entailment
+scribe	 be developed 	unrelated
+mighty	bad-looking	unrelated
 conductive	nonconductive	antonym
-identical	marginally	antonym
+identical	marginally	unrelated
  moderately 	  long 	antonym
   feasible 	 practicable 	antonym
-very	actually	antonym
+very	actually	unrelated
  bogus 	  true 	antonym
-	diaphragm	antonym
-  jaydee 	 silly 	antonym
- back 	  here 	antonym
+  jaydee 	 silly 	unrelated
+ back 	  here 	unrelated
 certain	 clear to us 	antonym
-dependentce	 became independent 	antonym
+dependence	 became independent 	antonym
   intended 	 unintentional 	antonym
-italy	portugal	antonym
-  even 	 nowhere 	antonym
-ethan	for_certain	antonym
-fence	 the minister 	antonym
+italy	portugal	category
+  even 	 nowhere 	unrelated
+ethan	for_certain	unrelated
+fence	 the minister 	unrelated
 metamorphic	nonmetamorphic	antonym
 unforgivable	excusable	antonym
 hardhearted	softhearted	antonym
 children	parents	antonym
-creed	 a stop 	antonym
-true	right-hand	antonym
+creed	 a stop 	unrelated
+true	right-hand	unrelated
 computer_hardware	software	antonym
 refused	admit	antonym
  moderately 	  much 	antonym
-clear	unsealed	antonym
-fence	 a lawyer 	antonym
-valid	 too fucking bad 	antonym
+clear	unsealed	other
+fence	 a lawyer 	unrelated
+valid	 too fucking bad 	other
 effective	 pointless to do so 	antonym
 unavailing	effective	antonym
-cured	 be required 	antonym
-shortly	enough	antonym
-creases	 is growing 	antonym
-ductions	 tax reductions 	antonym
+cured	 be required 	unrelated
+shortly	enough	unrelated
+increases	 is growing 	paraphrase
+deductions	 tax reductions 	paraphrase
 stalling	 settle in 	antonym
-side	 that car 	antonym
-voices	 the bills 	antonym
+side	 that car 	unrelated
+voices	 the bills 	unrelated
 refresh	tire	antonym
- minus 	  so 	antonym
+ minus 	  so 	unrelated
 ionised	nonionized	antonym
-dians	 aboriginal persons 	antonym
- undoubtedly 	  only 	antonym
+ undoubtedly 	  only 	unrelated
 chirk_up	complain	antonym
   surprising 	 natural 	antonym
- unknown 	  possible 	antonym
+ unknown 	  possible 	unrelated
 capacity	incapacity	antonym
 convolute	untwist	antonym
 irrational	rational	antonym
-harmonical	vowel	antonym
- n't anything 	  	antonym
+harmonical	vowel	other
 crucial	inessential	antonym
-sign	 the preparations 	antonym
-sight	 new prospects 	antonym
-East	disorient	antonym
+sign	 the preparations 	unrelated
+sight	 new prospects 	other
+East	disorient	unrelated
  rightly 	  surprisingly 	antonym
-yet	level	antonym
+yet	level	unrelated
  compensatory 	  compulsory 	antonym
 undock	dock	antonym
-bates	 our thinking 	antonym
+bates	 our thinking 	unrelated
 asexual	sexual	antonym
-hell	yet	antonym
+hell	yet	unrelated
 mold	deregulate	antonym
-rude	seize	antonym
-soft_spot	good_part	antonym
+rude	seize	unrelated
+soft_spot	good_part	unrelated
   true 	 fake 	antonym
 aggressive	unaggressive	antonym
 wrongful	right	antonym
 obvious	unobvious	antonym
-sufficient	 sufficient enough 	antonym
-seedy	too	antonym
-roads	 positive developments 	antonym
+sufficient	 sufficient enough 	entailment
+seedy	too	unrelated
+roads	 positive developments 	unrelated
 naturalness	unnaturalness	antonym
 optimistic	pessimistic	antonym
 conceivable	 just impossible 	antonym
-fine	ripe	antonym
-correct	irrelevant	antonym
- slow 	  much 	antonym
+fine	ripe	other
+correct	irrelevant	other
+ slow 	  much 	unrelated
 punctuality	tardiness	antonym
-  	 without it 	antonym
-sights	 the bills 	antonym
-  here 	 back 	antonym
+sights	 the bills 	unrelated
+  here 	 back 	unrelated
 personalize	depersonalise	antonym
-answered	 be solved 	antonym
+answered	 be solved 	paraphrase
 poverty	wealth	antonym
-fervency	hire	antonym
-enough	trivial	antonym
+fervency	hire	unrelated
+enough	trivial	unrelated
 equalizer	imbalance	antonym
 rue	joy	antonym
-creaseing	 scaled up 	antonym
+decreaseing	 scaled up 	antonym
 black	white	antonym
-relieve	difficulty	antonym
+relieve	difficulty	unrelated
 convincing	unconvincing	antonym
 expedient	inexpedient	antonym
 available	 not available 	antonym
-adequate	 long enough 	antonym
-  easily 	 poorly 	antonym
+adequate	 long enough 	other
+  easily 	 poorly 	unrelated
 fractional	whole	antonym
  practical 	  realistic 	antonym
 dissolve	freeze	antonym
 lock_chamber	unlock	antonym
-application	applied	antonym
-  subject 	 shall 	antonym
-sole	yet	antonym
-fabulously	credibly	antonym
+application	applied	other
+  subject 	 shall 	unrelated
+sole	yet	unrelated
+fabulously	credibly	other
 believable	 pretty awesome 	antonym
-sureed	 being undertaken 	antonym
- above 	  only 	antonym
-poor_people	many	antonym
-creed	 the award 	antonym
-bates	 the debate on this motion 	antonym
-actually	actually	antonym
-dish_out	long	antonym
-fail	manage	antonym
-brilliant	admittedly	antonym
+ above 	  only 	unrelated
+poor_people	many	unrelated
+creed	 the award 	unrelated
+actually	actually	paraphrase
+dish_out	long	unrelated
+fail	manage	other
+brilliant	admittedly	unrelated
 multi-valued	bivalent	antonym
 couple	uncouple	antonym
-pressed	 been reduced 	antonym
+pressed	 been reduced 	unrelated
 precedented	unprecedented	antonym
 captor	liberator	antonym
 more	adequate	antonym
-fault	 is not 	antonym
+fault	 is not 	unrelated
 conjugation	separation	antonym
-  well 	 short 	antonym
-come	 tax collection 	antonym
+  well 	 short 	unrelated
+come	 tax collection 	unrelated
 crossbred	purebred	antonym
-nobelium	good	antonym
-bedded	unstratified	antonym
-perfect	weak	antonym
-portugal	spain	antonym
-  good 	 eh 	antonym
+nobelium	good	unrelated
+bedded	unstratified	unrelated
+perfect	weak	other
+portugal	spain	category
+  good 	 eh 	unrelated
 compartmented	uncompartmented	antonym
-new zealand	norway	antonym
+new zealand	norway	category
 ham_it_up	underact	antonym
-long	future_tense	antonym
-wise	 only reasonable 	antonym
-short	prospicient	antonym
-draftee	volunteer	antonym
-sure_as_shooting	ethan	antonym
-compensate	okay	antonym
+long	future_tense	unrelated
+wise	 only reasonable 	unrelated
+short	prospicient	unrelated
+draftee	volunteer	unrelated
+sure_as_shooting	ethan	unrelated
+compensate	okay	unrelated
 tastefulness	tastelessness	antonym
-tended	 might be expected 	antonym
+tended	 might be expected 	unrelated
 ease	 the anxiety 	antonym
 ineffectuality	effectiveness	antonym
-put	 its role 	antonym
+put	 its role 	unrelated
 rough	smooth	antonym
 accompanied	unaccompanied	antonym
 uncertain	ascertain	antonym
-japan	korea	antonym
-promiscuous	slim	antonym
-sireed	 intend to 	antonym
-red	yellow	antonym
+japan	korea	category
+promiscuous	slim	other
+red	yellow	category
 solved	unsolved	antonym
 east	west	antonym
 realistic	 not realistic 	antonym
-zero	peerless	antonym
-elsewhere	but	antonym
-backbreaking	challenging	antonym
+zero	peerless	unrelated
+elsewhere	but	unrelated
+backbreaking	challenging	other
 composure	discomposure	antonym
 farseeing	nearsighted	antonym
-short	dark	antonym
- older 	  anymore 	antonym
+short	dark	unrelated
+ older 	  anymore 	unrelated
 make	unmake	antonym
-norway	poland	antonym
+norway	poland	category
 demilitarize	militarize	antonym
 conceitedness	humility	antonym
-sires	 would like 	antonym
+sires	 would like 	unrelated
 iniquity	fair	antonym
 accurate	 not precise 	antonym
 longanimity	impatience	antonym
  unnecessary 	  applicable 	antonym
-gre	 the strength 	antonym
-spoilt	nice	antonym
+gre	 the strength 	unrelated
+spoilt	nice	other
 effectiveness	 the inadequacy 	antonym
-  supposed 	 shall 	antonym
+  supposed 	 shall 	unrelated
 whiteness	impurity	antonym
 assigned	unassigned	antonym
 carry_away	bring	antonym
-unclear	fuck	antonym
+unclear	fuck	unrelated
 approvingly	disapprovingly	antonym
-bait	walk	antonym
+bait	walk	unrelated
 unshaved	shaven	antonym
 sanitariness	unsanitariness	antonym
-much	miss	antonym
-gre	 a testament 	antonym
-usually	 more severely 	antonym
+much	miss	unrelated
+gre	 a testament 	unrelated
+usually	 more severely 	unrelated
   acceptable 	 undesirable 	antonym
-soused	dry	antonym
 repel	attract	antonym
-curs	 stand it 	antonym
 trustworthiness	untrustworthiness	antonym
-vanity	fullness	antonym
-only	advantageously	antonym
+vanity	fullness	unrelated
+only	advantageously	unrelated
   happy 	 livid 	antonym
-friday	saturday	antonym
+friday	saturday	category
 export	import	antonym
   available 	 unattainable 	antonym
 down	up	antonym
 nonsurgical	surgical	antonym
-MD	slave_state	antonym
+MD	slave_state	unrelated
 complex	simple	antonym
  unworkable 	  feasible 	antonym
-practicable	inadmissible	antonym
+practicable	inadmissible	other
 nonprehensile	prehensile	antonym
-belgium	spain	antonym
+belgium	spain	category
 fallible	infallible	antonym
 hurried	unhurried	antonym
 live_in	live_out	antonym
 no	yes	antonym
 applicability	inapplicability	antonym
  denied 	  accept 	antonym
-  	 , yes 	antonym
-alone	apart	antonym
+alone	apart	other
 intramural	extramural	antonym
-hurt	expert	antonym
-compensate	invalid	antonym
+hurt	expert	unrelated
+compensate	invalid	unrelated
 statesmanlike	unstatesmanlike	antonym
 fairness	unfairness	antonym
 bottom_out	top_out	antonym
 outboard	inboard	antonym
-finland	france	antonym
+finland	france	category
 ferned	fernless	antonym
 tender	tough	antonym
-  as 	 poorly 	antonym
- slight 	  well 	antonym
+  as 	 poorly 	unrelated
+ slight 	  well 	unrelated
   many 	 insignificant 	antonym
-stallation	 been installed 	antonym
+installation	 been installed 	entailment
 hard	easy	antonym
 nonsignificant	significant	antonym
 sparkling	still	antonym
-lay	 wait a minute 	antonym
-mental_synthesis	misconstruction	antonym
-greece	italy	antonym
-hungary	romania	antonym
+lay	 wait a minute 	unrelated
+mental_synthesis	misconstruction	unrelated
+greece	italy	category
+hungary	romania	category
 deniable	undeniable	antonym
-dismay	much	antonym
-put	 a vote 	antonym
-  right 	 hard 	antonym
+dismay	much	unrelated
+put	 a vote 	unrelated
+  right 	 hard 	unrelated
 appealable	unappealable	antonym
 crookedness	straightness	antonym
- quite 	  much 	antonym
-no man	nobody	antonym
+ quite 	  much 	other
+no man	nobody	paraphrase
 unsalted	seasoned	antonym
   	 yes no 	antonym
  earlier 	  later 	antonym
-swell	inappropriately	antonym
-defensive_structure	offence	antonym
+swell	inappropriately	unrelated
+defense	offence	antonym
 females	males	antonym
-signations	 the placement 	antonym
+signations	 the placement 	unrelated
 surmountable	 second to none 	antonym
  reasonable 	  unreasonable 	antonym
- scarcely 	  very 	antonym
- it just 	  	antonym
-lacy	unwebbed	antonym
+ scarcely 	  very 	other
+ it just 	  	unrelated
+lacy	unwebbed	unrelated
 dendroidal	nonarboreal	antonym
-actual	potential	antonym
+actual	potential	other
 deoxidize	oxidize	antonym
 demonstrative	undemonstrative	antonym
- persons 	  one 	antonym
+ persons 	  one 	other
   impossible 	 plausible 	antonym
-just	take_out	antonym
+just	take_out	unrelated
   appropriate 	 moot 	antonym
 believable	 something special 	antonym
-decent	questionable	antonym
-knockout	enough	antonym
+decent	questionable	other
+knockout	enough	unrelated
 criminalization	decriminalization	antonym
- unreal 	  right 	antonym
-right-hand	left	antonym
+ unreal 	  right 	unrelated
+right	left	antonym
 colonised	unsettled	antonym
-atomic_number_102	now	antonym
- never mind 	  	antonym
+atomic_number_102	now	unrelated
+ never mind 	  	unrelated
 sore	proper	antonym
- quite a 	  	antonym
+ quite a 	  	unrelated
 multinucleate	uninucleate	antonym
 contract	widening	antonym
-outstrip	only	antonym
+outstrip	only	unrelated
 scheduled	unscheduled	antonym
 incredulously	believingly	antonym
 believable	 just fantastic 	antonym
 stained	unstained	antonym
-formation	 know more 	antonym
+formation	 know more 	unrelated
 dilution	concentration	antonym
-ward	 so many 	antonym
+ward	 so many 	unrelated
 foreign	native	antonym
-belgium	netherlands	antonym
+belgium	netherlands	category
 downtown	uptown	antonym
 fiendish	holy	antonym
-forward	aft	antonym
-  simply 	 just 	antonym
-uncomfortable	in_effect	antonym
-supernumerary	useful	antonym
-funfair	unreasonable	antonym
-  gonna 	  	antonym
+forward	aft	unrelated
+  simply 	 just 	other
+uncomfortable	in_effect	unrelated
+supernumerary	useful	unrelated
+funfair	unreasonable	unrelated
 accepted	denied	antonym
-  	 stop it 	antonym
 dissimilar	similar	antonym
 afraid	unafraid	antonym
-finland	spain	antonym
-  simply 	 solely 	antonym
-  long 	 uncommon 	antonym
+finland	spain	category
+  simply 	 solely 	paraphrase
+  long 	 uncommon 	unrelated
 commence	end	antonym
 collected	uncollected	antonym
 direct_quotation	indirect_discourse	antonym
 extrospective	introspective	antonym
-belgium	luxembourg	antonym
-big		antonym
-	nonetheless	antonym
+belgium	luxembourg	category
 endocentric	exocentric	antonym
 inorganically	organically	antonym
-serve	 be earned 	antonym
-founded	 totally groundless 	antonym
-bursting_charge	pay_cash	antonym
-corporation	 the basic law 	antonym
+serve	 be earned 	unrelated
+founded	 totally groundless 	unrelated
+bursting_charge	pay_cash	unrelated
+corporation	 the basic law 	other
 operational	inactive	antonym
-fence	 the defence sector 	antonym
-to	wrongly	antonym
+fence	 the defence sector 	unrelated
+to	wrongly	unrelated
 absolute	relative	antonym
-  only 	 clearly 	antonym
-  	 n't think 	antonym
-blue	yellow	antonym
+  only 	 clearly 	unrelated
+blue	yellow	category
 undemonstrative	demonstrative	antonym
-scurvy	so	antonym
+scurvy	so	unrelated
 valid	 out of order 	antonym
-creaseing	 an enlargement 	antonym
-  as 	 com 	antonym
-sideers	 the population 	antonym
-  	  bad 	antonym
-loading	 a resolution 	antonym
+decreaseing	 an enlargement 	antonym
+  as 	 com 	unrelated
+loading	 a resolution 	unrelated
 tartness	sweeten	antonym
 nonsmoker	smoker	antonym
 filth	niceness	antonym
@@ -480,561 +459,512 @@ restraint	unrestraint	antonym
 opisthognathous	prognathous	antonym
 executable	unfeasible	antonym
 single	everyone	antonym
-variable	have_it_off	antonym
-  either 	 over 	antonym
-scribeed	 described herein 	antonym
+variable	have_it_off	unrelated
+  either 	 over 	unrelated
 unwatchful	alert	antonym
 correct	 wrong on both counts 	antonym
-  fair 	 sore 	antonym
+  fair 	 sore 	other
 multilaterally	unilaterally	antonym
-someday	forthwith	antonym
-sightedness	only	antonym
+someday	forthwith	unrelated
+sightedness	only	unrelated
 bible	bibbed	antonym
-  safe 	 confused 	antonym
- short 	  adequate 	antonym
+  safe 	 confused 	unrelated
+ short 	  adequate 	unrelated
 irreducible	reducible	antonym
-satisfactory	admissible	antonym
+satisfactory	admissible	other
 quiet	unquiet	antonym
-  	  support 	antonym
 critically	uncritically	antonym
   enough 	 less 	antonym
 span	uncross	antonym
- gang 	  everyone 	antonym
-secureity	 the weakness 	antonym
+ gang 	  everyone 	other
+security	 the weakness 	other
 functioning	malfunctioning	antonym
 delay	rush	antonym
 beautify	uglify	antonym
 get_away	get_on	antonym
-sure	scattered	antonym
-efficient	 not adequate 	antonym
+sure	scattered	unrelated
+efficient	 not adequate 	other
 adequately	incompletely	antonym
-  otherwise 	  	antonym
-  much 	 shortly 	antonym
-come	 planned spending 	antonym
+  much 	 shortly 	unrelated
+come	 planned spending 	unrelated
 deservedly	undeservedly	antonym
 disorientate	orient	antonym
   married 	 unmarried 	antonym
-sign	 a position 	antonym
+sign	 a position 	unrelated
 compress	decompress	antonym
-restroom	inconvenience	antonym
-saw-toothed	toothless	antonym
+restroom	inconvenience	unrelated
+saw-toothed	toothless	other
 primarily	secondarily	antonym
 little	much	antonym
 good	dreadful	antonym
 constancy	inconstancy	antonym
-necessary	 to explain 	antonym
+necessary	 to explain 	unrelated
 perceptive	unperceptive	antonym
 insubstantial	substantial	antonym
 unsatisfying	satisfactory	antonym
-cur	 make it 	antonym
 brand-name_drug	generic_drug	antonym
-hungary	poland	antonym
-  adequately 	 imperfectly 	antonym
-the boys	the men	antonym
-  	 an absence 	antonym
-lay	 let 's go 	antonym
+hungary	poland	category
+  adequately 	 imperfectly 	other
+the boys	the men	other
 guilt_feelings	innocence	antonym
 cheerfully	cheerlessly	antonym
- defective 	  sufficient 	antonym
- stop it 	  	antonym
- okay 	  serious 	antonym
+ defective 	  sufficient 	unrelated
+ okay 	  serious 	other
 articulately	inarticulately	antonym
- indeed 	  only 	antonym
-worthless	lots	antonym
-	for_sure	antonym
-shameful	acceptable	antonym
-take	 human consumption 	antonym
-france and	germany and	antonym
-feminine	neuter	antonym
-  necessarily 	  	antonym
+ indeed 	  only 	unrelated
+worthless	lots	unrelated
+shameful	acceptable	other
+take	 human consumption 	unrelated
+france and	germany and	category
+feminine	neuter	other
 structured	unstructured	antonym
 sedate	stimulate	antonym
-dispossessed	roofed	antonym
-formed	 to be notified 	antonym
+dispossessed	roofed	other
+formed	 to be notified 	unrelated
 left	right	antonym
-plunder	conform_to	antonym
-right_hand	terrible	antonym
+plunder	conform_to	other
+right_hand	terrible	unrelated
 mismatched	matched	antonym
-likely	 relatively small 	antonym
+likely	 relatively small 	unrelated
 refrain	unmatched	antonym
 alterability	unalterability	antonym
-netherlands	sweden	antonym
-subside	source	antonym
+netherlands	sweden	category
+subside	source	other
 sunrise	sunset	antonym
- huh 	  elsewhere 	antonym
+ huh 	  elsewhere 	unrelated
 invalid	valid	antonym
- ill 	  fair 	antonym
-outrageous	gradual	antonym
-pots	 storage facilities 	antonym
-stingy	enough	antonym
-bateed	 mentioned here 	antonym
+ ill 	  fair 	unrelated
+outrageous	gradual	unrelated
+pots	 storage facilities 	paraphrase
+stingy	enough	unrelated
+bateed	 mentioned here 	unrelated
 fit	unfit	antonym
-heart-to-heart	close	antonym
-there	round	antonym
+heart-to-heart	close	other
+there	round	unrelated
 text_edition	trade_edition	antonym
 bracteate	ebracteate	antonym
 chintzily	expensively	antonym
-even_out	phony	antonym
-  	 n't look 	antonym
+even_out	phony	unrelated
 reputation	disrepute	antonym
-honest	rotten	antonym
- tight 	  easy 	antonym
-irrelevant	admissible	antonym
+honest	rotten	other
+ tight 	  easy 	other
+irrelevant	admissible	unrelated
 adoptable	unadoptable	antonym
-sure	some	antonym
+sure	some	unrelated
 border	unframed	antonym
- no 	  likely 	antonym
+ no 	  likely 	unrelated
 holy	unholy	antonym
 admissible	inadmissible	antonym
  cruel 	  good 	antonym
-formed	 know of 	antonym
+formed	 know of 	unrelated
  simplistic 	  difficult 	antonym
 banded	unbanded	antonym
 depigmentation	pigmentation	antonym
-condom	prejudicial	antonym
- unnecessary 	  much 	antonym
-belgium	italy	antonym
-much	alright	antonym
-aplomb	serious	antonym
-sights	 the comment 	antonym
-megascopic	net	antonym
+condom	prejudicial	unrelated
+ unnecessary 	  much 	unrelated
+belgium	italy	category
+much	alright	unrelated
+aplomb	serious	other
+sights	 the comment 	unrelated
+megascopic	net	unrelated
 intemperate	temperate	antonym
-february	january	antonym
-hapy	 happy about it 	antonym
-carefully	far	antonym
-stalled	 a plant 	antonym
+february	january	category
+hapy	 happy about it 	entailment
+carefully	far	unrelated
+stalled	 a plant 	other
  potential 	  impossible 	antonym
   valid 	 unsubstantiated 	antonym
 a man	a woman	antonym
-sign	 the presentation 	antonym
-  only 	 most 	antonym
+sign	 the presentation 	unrelated
+  only 	 most 	unrelated
 pen_up	unfold	antonym
 nonworker	worker	antonym
-all_the_same	more	antonym
+all_the_same	more	unrelated
 receptive	unreceptive	antonym
 concatenation	unchain	antonym
 a_posteriori	a_priori	antonym
 fairish	unreasonable	antonym
-bateed	 proceed to the debate 	antonym
+bateed	 proceed to the debate 	unrelated
 belt_ammunition	unbelt	antonym
-but	finally	antonym
-denmark	spain	antonym
- 're  	  	antonym
-  right 	 happy 	antonym
+but	finally	unrelated
+denmark	spain	category
+  right 	 happy 	unrelated
 flawed	proficient	antonym
 belted	unbelted	antonym
 explicitness	inexplicitness	antonym
-file	pay_cash	antonym
-dear	unfortunate	antonym
-low-down	even	antonym
+file	pay_cash	unrelated
+dear	unfortunate	unrelated
+low-down	even	unrelated
 black_and_white	color	antonym
-sure	 too sure 	antonym
-least	just	antonym
+sure	 too sure 	entailment
+least	just	unrelated
 farsighted	nearsighted	antonym
 falteringly	steadily	antonym
-inexact	make_up	antonym
-brutal	easily	antonym
-rule	bizarre	antonym
+inexact	make_up	unrelated
+brutal	easily	other
+rule	bizarre	unrelated
  more 	  enough 	antonym
 flux	 an input 	antonym
-crummy	much	antonym
-habitants	 the citizen 's 	antonym
-finland	netherlands	antonym
+crummy	much	unrelated
+habitants	 the citizen 's 	other
+finland	netherlands	category
 imperviousness	perviousness	antonym
-pends	 's hard to say 	antonym
+pends	 's hard to say 	unrelated
 float	sink	antonym
-mal	decently	antonym
+mal	decently	unrelated
 impaired	unimpaired	antonym
-dians	 indigenous individuals 	antonym
-unclear	powerful	antonym
-  	 maybe  	antonym
-denied	want	antonym
-stay	nevertheless	antonym
- unacceptable 	  right 	antonym
-Stephen_Samuel_Wise	foolish	antonym
-handsome	conservative	antonym
-czech republic	poland	antonym
-sirous	 their wish 	antonym
+unclear	powerful	unrelated
+denied	want	other
+stay	nevertheless	unrelated
+ unacceptable 	  right 	other
+Stephen_Samuel_Wise	foolish	unrelated
+handsome	conservative	unrelated
+czech republic	poland	category
 absence	presence	antonym
 end of	start of	antonym
 undependableness	reliableness	antonym
 disembarkation	embarkation	antonym
-denmark	finland	antonym
-fortunate	 rather inappropriate 	antonym
-afghanistan	pakistan	antonym
-make_up	flawed	antonym
-  going 	 delete 	antonym
+denmark	finland	category
+fortunate	 rather inappropriate 	unrelated
+afghanistan	pakistan	category
+make_up	flawed	other
+  going 	 delete 	unrelated
 equitable	inequitable	antonym
 bad	good	antonym
 evenly	unevenly	antonym
- l 	  the 	antonym
-  long 	 lack 	antonym
+  long 	 lack 	unrelated
  simplistic 	  hard 	antonym
-  well 	 quietly 	antonym
+  well 	 quietly 	unrelated
 flaky	normal	antonym
 bottom	top	antonym
 servicing	disservice	antonym
 tranquilize	louden	antonym
-  many 	 much 	antonym
-  exactly 	 hardly 	antonym
+  many 	 much 	other
+  exactly 	 hardly 	unrelated
 acidify	alkalize	antonym
-vent	 make up 	antonym
-crease	 a cut 	antonym
-less likely	not likely	antonym
+vent	 make up 	unrelated
+crease	 a cut 	other
+less likely	not likely	other
 left_wing	right	antonym
-put	 those comments 	antonym
+put	 those comments 	 unrelated
 much	minimally	antonym
 equality	 those differences 	antonym
 pack	unpack	antonym
 altered	unaltered	antonym
 grudgingly	ungrudgingly	antonym
 iron_out	unironed	antonym
-folds	 is on the move 	antonym
+folds	 is on the move 	unrelated
 the end of	the start of	antonym
-czech republic	greece	antonym
+czech republic	greece	category
 constant	inconstant	antonym
 defensive	offensive	antonym
- permanent 	  determined 	antonym
- impossible 	  easy 	antonym
+ permanent 	  determined 	unrelated
+ impossible 	  easy 	other
 sensitivity	insensibility	antonym
 feat	 defeat him 	antonym
- slim 	  excessively 	antonym
-good	crushed	antonym
-1	double	antonym
+ slim 	  excessively 	unrelated
+good	crushed	unrelated
   true 	 mistaken 	antonym
- unclassified 	  specified 	antonym
-haunt	break	antonym
-changed	 forensically sound 	antonym
- lf 	  if 	antonym
-set	dispatch	antonym
+ unclassified 	  specified 	other
+haunt	break	unrelated
+changed	 forensically sound 	unrelated
+set	dispatch	unrelated
 taint	decontamination	antonym
 oviform	oblate	antonym
-less	 yeah , if 	antonym
-wrong	high-risk	antonym
-creed	 a presidential decree 	antonym
-fortunate	 therefore regrettable 	antonym
-less	tumid	antonym
-ungodly	good	antonym
-waste_matter	conserve	antonym
+wrong	high-risk	unrelated
+fortunate	 therefore regrettable 	unrelated
+less	tumid	unrelated
+ungodly	good	unrelated
+waste_matter	conserve	other
 receipt	unacknowledged	antonym
-awkward	well-heeled	antonym
-ison	 a single voice 	antonym
-put	 the lobby 	antonym
+awkward	well-heeled	unrelated
+unison	 a single voice 	paraphrase
+put	 the lobby 	unrelated
 ahistorical	historical	antonym
 angularity	roundness	antonym
-  good 	 unclear 	antonym
-war_hawk	dove	antonym
-be_intimate	undetermined	antonym
-  	  set 	antonym
+  good 	 unclear 	unrelated
+war_hawk	dove	unrelated
+be_intimate	undetermined	unrelated
 passable	intolerable	antonym
 former	earlier	antonym
-anyway	alone	antonym
+anyway	alone	unrelated
 revulsion	attraction	antonym
  commonplace 	  unusual 	antonym
-  	  too 	antonym
 snip	unclip	antonym
 mask	unmask	antonym
-take	 the availability 	antonym
+take	 the availability 	unrelated
 military	unmilitary	antonym
 ribless	ribbed	antonym
-  possible 	 panicky 	antonym
-duct	 be claimed 	antonym
-stimulate	d	antonym
-  well 	 farther 	antonym
+  possible 	 panicky 	unrelated
+duct	 be claimed 	unrelated
+  well 	 farther 	unrelated
 distinguishable	indistinguishable	antonym
 nonrepresentative	representative	antonym
-czech republic	germany	antonym
-less	identical	antonym
-romania	spain	antonym
-belgium	germany	antonym
+czech republic	germany	category
+less	identical	unrelated
+romania	spain	category
+belgium	germany	category
 midway	beginning	antonym
 pronation	supination	antonym
 accusatorial	inquisitorial	antonym
 often	sparsely	antonym
  tough 	  easily 	antonym
-france	spain	antonym
- poor 	  acceptable 	antonym
-sort	declassify	antonym
- hardly 	  just 	antonym
-unspoiled	bad	antonym
-fusee	defuse	antonym
-  	 never , 	antonym
+france	spain	category
+ poor 	  acceptable 	unrelated
+sort	declassify	other
+ hardly 	  just 	unrelated
+unspoiled	bad	other
 nonexistence	existence	antonym
-equality	 equality of opportunity 	antonym
-possible	misfortunate	antonym
+equality	 equality of opportunity 	entailment
+possible	misfortunate	unrelated
 blacks	whites	antonym
-sireed	 is necessary 	antonym
-polish_off	start	antonym
+polish_off	start	unrelated
 gutsy	gutless	antonym
-  	  right 	antonym
-  for 	 during 	antonym
-appropriate	pleonastic	antonym
+  for 	 during 	unrelated
+appropriate	pleonastic	other
 deposit	withdraw	antonym
-sweden ,	switzerland ,	antonym
-mightily	normal	antonym
+sweden ,	switzerland ,	category
+mightily	normal	other
 avoid	confront	antonym
 reinforce	penalty	antonym
-creeds	 legislative decree 	antonym
 Romanticism	classicism	antonym
-new zealand	sweden	antonym
+new zealand	sweden	category
 matched	 second to none 	antonym
-credible	 out of sight 	antonym
+credible	 out of sight 	unrelated
 decreased	increased	antonym
-creaseing	 the biggest 	antonym
 feathered	unfeathered	antonym
- minimally 	  long 	antonym
-  only 	 elsewhere 	antonym
-  all 	 everything 	antonym
-dead	sufficient	antonym
+ minimally 	  long 	other
+  only 	 elsewhere 	unrelated
+  all 	 everything 	paraphrase
+dead	sufficient	unrelated
 colorful	colorless	antonym
 usual	 too weird 	antonym
-gre	 an initiative 	antonym
 focused	unfocused	antonym
-well	only_if	antonym
+well	only_if	unrelated
 backcloth	foreground	antonym
-pretty	sound	antonym
+pretty	sound	unrelated
 immeasurably	measurably	antonym
 hydrophilic	hydrophobic	antonym
- stuart 	  much 	antonym
-tact	 not changed 	antonym
-stances	 its decisions 	antonym
+ stuart 	  much 	unrelated
+tact	 not changed 	unrelated
+stances	 its decisions 	paraphrase
   long 	 immediately 	antonym
-lesser	tenacious	antonym
- denied 	  do 	antonym
-sire	 do want 	antonym
-mining	 the priority 	antonym
-scent	 the derivation 	antonym
-january	july	antonym
-right	broken	antonym
-flash	soft	antonym
-farsighted	yet	antonym
-  long 	 irrelevant 	antonym
-tends	 are proposed 	antonym
+lesser	tenacious	unrelated
+ denied 	  do 	other
+mining	 the priority 	unrelated
+scent	 the derivation 	unrelated
+january	july	category
+right	broken	unrelated
+flash	soft	unrelated
+farsighted	yet	unrelated
+  long 	 irrelevant 	unrelated
+tends	 are proposed 	unrelated
 string	untwine	antonym
-enough	downhearted	antonym
-mal	reasonable	antonym
+enough	downhearted	unrelated
+mal	reasonable	unrelated
 veiled	 be made public 	antonym
 nephew	niece	antonym
 tense	 very good 	antonym
-right	rude	antonym
+right	rude	unrelated
   practicable 	 unworkable 	antonym
 lawful	unlawful	antonym
-tails	 the mechanisms 	antonym
+tails	 the mechanisms 	unrelated
 multilateral	unilateral	antonym
-  entirely 	 fully 	antonym
+  entirely 	 fully 	paraphrase
 plowed	unplowed	antonym
 appositeness	inappositeness	antonym
 best	worst	antonym
 altruistic	egoistic	antonym
 analogous	heterologous	antonym
-creaseed	 the intensification 	antonym
 anomalous	normal	antonym
-netherlands	norway	antonym
+netherlands	norway	category
 extravertive	introvert	antonym
-truly	totally	antonym
+truly	totally	unrelated
 hardware	software	antonym
-passably	good	antonym
-rectify	n't	antonym
-done	 stop him 	antonym
-  ever 	 forever 	antonym
-worthwhile	necessity	antonym
+passably	good	unrelated
+rectify	n't	unrelated
+done	 stop him 	unrelated
+  ever 	 forever 	entailment
+worthwhile	necessity	unrelated
   feasible 	 unachievable 	antonym
- anyway 	  only 	antonym
-lay	 the transfer 	antonym
-crying	net	antonym
+ anyway 	  only 	unrelated
+lay	 the transfer 	unrelated
+crying	net	unrelated
 continental	intercontinental	antonym
-improper	redress	antonym
+improper	redress	other
 yang	yin	antonym
 artificially	naturally	antonym
-creaseed	 is diminished 	antonym
-bit	up_to_now	antonym
+increased	 is diminished 	antonym
+bit	up_to_now	unrelated
 opened	 locked up 	antonym
-huh	whole	antonym
+huh	whole	unrelated
   mandatory 	 compensatory 	antonym
- less 	  strictly 	antonym
-sight	 the eyes 	antonym
-  that 	 n-no 	antonym
-effective	okay	antonym
+ less 	  strictly 	unrelated
+sight	 the eyes 	other
+  that 	 n-no 	unrelated
+effective	okay	unrelated
   unusual 	 normal 	antonym
  unreal 	  true 	antonym
-bonnie	unfair	antonym
+bonnie	unfair	unrelated
 acceptable	unimaginable	antonym
- shortly 	  well 	antonym
-  impossible 	 unfeasible 	antonym
+ shortly 	  well 	unrelated
+  impossible 	 unfeasible 	other
  unacceptable 	  admissible 	antonym
-  long 	 low 	antonym
-ripe	only	antonym
+  long 	 low 	unrelated
+ripe	only	unrelated
 bidirectional	unidirectional	antonym
 nonviolent	violent	antonym
 dry	wet	antonym
-, france ,	, italy ,	antonym
-fancy	 early childhood development 	antonym
-pear-shaped	square	antonym
-freehanded	modest	antonym
+, france ,	, italy ,	category
+fancy	 early childhood development 	unrelated
+pear-shaped	square	other
+freehanded	modest	unrelated
 soleless	soled	antonym
-tenacious	recently	antonym
+tenacious	recently	unrelated
 hairiness	hairlessness	antonym
-  anymore 	 older 	antonym
+  anymore 	 older 	unrelated
 cured	 cope with 	antonym
-creases	 a corresponding increase 	antonym
-netherlands	poland	antonym
+netherlands	poland	category
 high_up	low_spirits	antonym
 live_birth	stillbirth	antonym
 skillfulness	unskillfulness	antonym
 wakeless	harmful	antonym
   practicable 	 obtainable 	antonym
 exactly	inexactly	antonym
-  least 	 certain 	antonym
-australia	austria	antonym
-el salvador	honduras	antonym
-imperfect	strong	antonym
+  least 	 certain 	unrelated
+australia	austria	category
+el salvador	honduras	category
+imperfect	strong	unrelated
 backrest	front	antonym
 serviceman	civilian	antonym
 likeness	unlikeness	antonym
 complaintive	uncomplaining	antonym
-alike	only	antonym
-changed	motionless	antonym
+alike	only	unrelated
+changed	motionless	other
 indigestible	digestible	antonym
 abnormalcy	normality	antonym
-signs	 these models 	antonym
+signs	 these models 	unrelated
 appealingly	unappealingly	antonym
--no	good	antonym
-anymore	o'er	antonym
- discussion 	  discussed 	antonym
-badly	harmless	antonym
-operose	cheap	antonym
-creaseing	 scaled back 	antonym
+-no	good	unrelated
+anymore	o'er	unrelated
+ discussion 	  discussed 	entailment
+badly	harmless	other
+operose	cheap	other
 permissible	precluded	antonym
 upbeat	ill-being	antonym
-finland	the netherlands	antonym
-tantalize	walk	antonym
+finland	the netherlands	category
+tantalize	walk	unrelated
 exports	imports	antonym
 child	parent	antonym
 father	mother	antonym
-again	more_than	antonym
-erstwhile	anymore	antonym
-likely	 so few 	antonym
-serves	 are calling 	antonym
-  like 	 less 	antonym
+again	more_than	unrelated
+erstwhile	anymore	other
+likely	 so few 	unrelated
+serves	 are calling 	unrelated
+  like 	 less 	unrelated
 Anglophilia	Anglophobia	antonym
- scarce 	  long 	antonym
- goingto 	  gonna 	antonym
+ scarce 	  long 	unrelated
+ going to 	  gonna 	entailment
 puerile	adult	antonym
  inactive 	  operational 	antonym
   allocated 	 unoccupied 	antonym
-indeed	under	antonym
-Brigham_Young	aged	antonym
+indeed	under	unrelated
+young	aged	antonym
 appropriate	inappropriate	antonym
 thriftlessness	conserve	antonym
- are unable 	  	antonym
+ are unable 	  	unrelated
 reported	unreported	antonym
 ceilinged	floored	antonym
   permissible 	 outrageous 	antonym
-germany	spain	antonym
-right_wing	badly	antonym
+germany	spain	category
+right_wing	badly	unrelated
 paved	unpaved	antonym
-finland	italy	antonym
+finland	italy	category
 coenobitic	eremitic	antonym
 condom	risky	antonym
-creaseing	 speeds up 	antonym
-discriminate	 a blind man 	antonym
+discriminate	 a blind man 	other
 back_burner	front_burner	antonym
 allowable	impermissible	antonym
-  	 , dear 	antonym
-congeneric	absolute	antonym
-creases	 an altitude 	antonym
- incorrectly 	  well 	antonym
-bit	even	antonym
+congeneric	absolute	unrelated
+ incorrectly 	  well 	unrelated
+bit	even	unrelated
 unlikelihood	likeliness	antonym
 traceable	untraceable	antonym
-formation	 the answers 	antonym
-  constitute 	  	antonym
+formation	 the answers 	unrelated
 evil	good	antonym
-full_phase_of_the_moon	thin	antonym
-fortunate	 quite right 	antonym
-norway	sweden	antonym
+full_phase_of_the_moon	thin	unrelated
+fortunate	 quite right 	unrelated
+norway	sweden	category
 impartial	partial	antonym
 enumerate	innumerate	antonym
-black	red	antonym
-sideers	 the industry 	antonym
-creases	 is improving 	antonym
+black	red	category
  major 	  insignificant 	antonym
  safe 	  dangerous 	antonym
 belt	unbelt	antonym
- irresponsible 	  serious 	antonym
+ irresponsible 	  serious 	other
 prevent	permissible	antonym
-too	humiliated	antonym
-italy	japan	antonym
+too	humiliated	unrelated
+italy	japan	category
 edible	inedible	antonym
 inapplicability	applicability	antonym
 courtesy	discourtesy	antonym
 nonreligious_person	religious_person	antonym
-okey	serious	antonym
+okey	serious	other
 disgorgement	keep_down	antonym
- no 	  under 	antonym
-sofar	 all along 	antonym
-finland	sweden	antonym
-creaseing	 a surge 	antonym
+ no 	  under 	unrelated
+sofar	 all along 	unrelated
+finland	sweden	category
 modestly	substantially	antonym
-comes	 the incursion 	antonym
+comes	 the incursion 	unrelated
   significant 	 modest 	antonym
-  serious 	 irresponsible 	antonym
 trustworthy	untrustworthy	antonym
 easy	hard	antonym
-africa	asia	antonym
+africa	asia	category
 noncommercial	commercial	antonym
 restrict	derestrict	antonym
-norway	the netherlands	antonym
+norway	the netherlands	category
 undercut	uncut	antonym
-stall	 hop on 	antonym
-  least 	 lastly 	antonym
+stall	 hop on 	other
+  least 	 lastly 	other
 ofttimes	uncommon	antonym
 zoology	flora	antonym
 bit	much	antonym
-  nearly 	 less 	antonym
+  nearly 	 less 	unrelated
 illiterate	literate	antonym
-gre	 the basis 	antonym
-creaseed	 been weakened 	antonym
-germany	netherlands	antonym
+germany	netherlands	category
 nontechnical	technical	antonym
 glacial	equatorial	antonym
-	study	antonym
-lame	round	antonym
-well	straightforward	antonym
- bad 	  fair 	antonym
+lame	round	unrelated
+well	straightforward	unrelated
+ bad 	  fair 	other
 compressibility	incompressibility	antonym
 formation	 the commission 	antonym
 defeasible	indefeasible	antonym
 cultured	fresh	antonym
 the east	the west	antonym
-ok	serious	antonym
-farsighted	modest	antonym
-splashiness	deflation	antonym
- the moment 	  	antonym
-  	 that fails 	antonym
- insane 	  good 	antonym
-stallation	 the formation 	antonym
+ok	serious	unrelated
+farsighted	modest	other
+splashiness	deflation	other
+ insane 	  good 	unrelated
+stallation	 the formation 	other
 inside	outside	antonym
-integral	unconstitutional	antonym
+integral	unconstitutional	other
 dystopia	utopia	antonym
- still 	  too 	antonym
-sleep_with	application	antonym
+ still 	  too 	unrelated
+sleep_with	application	unrelated
 prevention	unbar	antonym
-incidental_expense	basic	antonym
+incidental_expense	basic	unrelated
 traveled	untraveled	antonym
-untrue	in_good_order	antonym
+untrue	in_good_order	unrelated
 ascending_node	descending_node	antonym
- 're just 	  	antonym
 discourteously	courteously	antonym
 stupid_person	smart	antonym
-pends	 account for 	antonym
- low 	  long 	antonym
- do n't 	  	antonym
-tail	 a full description 	antonym
-serves	 deserve that 	antonym
+ low 	  long 	unrelated
+tail	 a full description 	other
+serves	 deserve that 	unrelated
 unlimited	limited	antonym
 creditor	debtor	antonym
-valids	 patients ' 	antonym
+valids	 patients ' 	unrelated
 thicken	thin	antonym
 cubic	planar	antonym
 CISC	RISC	antonym
@@ -1043,70 +973,68 @@ falsehood	truth	antonym
 easy	 kinda rough 	antonym
 believable	 incredible , sir 	antonym
 breathing	breathless	antonym
- nah 	  now 	antonym
+ nah 	  now 	unrelated
 laureled	unlaureled	antonym
 forgettable	unforgettable	antonym
-gres	 that level 	antonym
- things 	  all 	antonym
+gres	 that level 	unrelated
+ things 	  all 	unrelated
 lock	 to open 	antonym
 adequate	 a deficiency 	antonym
 satisfactory	 quite inadequate 	antonym
 decorum	indecorum	antonym
-folds	 move it 	antonym
+folds	 move it 	unrelated
 sensibilize	desensitise	antonym
 regulated	unregulated	antonym
 ferny	fernless	antonym
-serves	 are asking for 	antonym
-tent	 their objective 	antonym
-credible	 beautiful and gorgeous 	antonym
-argentina	brazil	antonym
+serves	 are asking for 	unrelated
+tent	 their objective 	unrelated
+incredible	 beautiful and gorgeous 	paraphrase
+argentina	brazil	category
   one 	 nobody 	antonym
-decent	anomalous	antonym
-sweden	the netherlands	antonym
-france ,	italy ,	antonym
-even_so	even	antonym
-amiss	serious	antonym
-france	greece	antonym
-much	unobjectionable	antonym
-dependentce	 , entered 	antonym
+decent	anomalous	unrelated
+sweden	the netherlands	category
+france ,	italy ,	category
+even_so	even	entailment
+amiss	serious	unrelated
+france	greece	category
+much	unobjectionable	unrelated
+dependentce	 , entered 	unrelated
 concentrated	distributed	antonym
 conventionality	unconventionality	antonym
 edit	uncut	antonym
 dependent	independent	antonym
 dignify	undignified	antonym
 coordination	incoordination	antonym
-still	just	antonym
-recently	recollective	antonym
+still	just	unrelated
+recently	recollective	other
  partial 	  comprehensive 	antonym
-nice	respectable	antonym
+nice	respectable	other
 grammatic	ungrammatical	antonym
 exported	imported	antonym
-germany	greece	antonym
-least	head	antonym
-disingenuous	true	antonym
+germany	greece	category
+least	head	unrelated
+disingenuous	true	other
 trim_back	blow_up	antonym
-stances	 case studies 	antonym
+instances	 case studies 	paraphrase
 covert	overt	antonym
 applied	theoretical	antonym
 consideration	inconsideration	antonym
  useless 	  effective 	antonym
- back in 	  	antonym
 capture	disenchant	antonym
-knead	off	antonym
-gaga	funny	antonym
-certain	 more difficult 	antonym
-creaseed	 end lower 	antonym
+knead	off	unrelated
+gaga	funny	other
+certain	 more difficult 	unrelated
 crystallised	uncrystallized	antonym
-feated	 been eliminated 	antonym
+defeated	 been eliminated 	paraphrase
 inelastic	elastic	antonym
 worsened	better	antonym
-france	norway	antonym
-grim	many	antonym
-radical	counterrevolutionary	antonym
-ions	 the workers 	antonym
-collision	miss	antonym
+france	norway	category
+grim	many	unrelated
+radical	counterrevolutionary	unrelated
+ions	 the workers 	unrelated
+collision	miss	other
 gluttonous	abstemious	antonym
-unreasonable	manageable	antonym
+unreasonable	manageable	other
 less	 so much 	antonym
  extraneous 	  useful 	antonym
   difficult 	 easy 	antonym
@@ -1115,265 +1043,223 @@ coldness	hotness	antonym
 chaste	unchaste	antonym
 boys	girls	antonym
 imperceptibility	perceptibility	antonym
-non	ripe	antonym
+non	ripe	unrelated
 stalled	 put in place 	antonym
 suspected	unsuspected	antonym
-overlook	have	antonym
+overlook	have	unrelated
 motored	unmotorized	antonym
-hoodlum	hard	antonym
-vertical	oblique	antonym
+hoodlum	hard	unrelated
+vertical	oblique	other
 christian	unchristian	antonym
 incompetency	competence	antonym
 gloved	gloveless	antonym
-creditors	debtors	antonym
-right	regurgitate	antonym
-carnivorous	insectivorous	antonym
-netherlands	spain	antonym
+right	regurgitate	unrelated
+carnivorous	insectivorous	category
+netherlands	spain	category
 internationalism	nationalism	antonym
- nowt 	  much 	antonym
- hard 	  easy 	antonym
-creaseed	 to promote 	antonym
- unconscionable 	  acceptable 	antonym
- few 	  less 	antonym
-sucky	unspoiled	antonym
+ unconscionable 	  acceptable 	other
+ few 	  less 	paraphrase
+sucky	unspoiled	other
 amorphous	structured	antonym
 ascent	descent	antonym
-tent	 its aims 	antonym
-much	lupus_erythematosus	antonym
-come	 come out 	antonym
-decent	miserable	antonym
+tent	 its aims 	unrelated
+much	lupus_erythematosus	unrelated
+come	 come out 	entailment
+decent	miserable	other
 organic_fertiliser	inorganic	antonym
-huh	in_effect	antonym
-  much 	 scratch 	antonym
-scope	foreground	antonym
+huh	in_effect	unrelated
+  much 	 scratch 	unrelated
+scope	foreground	other
 export	imports	antonym
 ineffectually	effectually	antonym
-fold	 be built 	antonym
+fold	 be built 	unrelated
 overstate	understate	antonym
-dependently	 only those 	antonym
+dependently	 only those 	unrelated
 technophile	technophobe	antonym
 esthetical	inaesthetic	antonym
   impossible 	 achievable 	antonym
 valgus	varus	antonym
-comes	 income growth 	antonym
 cheer	cheerlessness	antonym
   appropriate 	 redundant 	antonym
 strength	weakness	antonym
-pression	 the concern 	antonym
- unavoidably 	  surprisingly 	antonym
-  we 	 lf 	antonym
-easy	firmly	antonym
-creaseed	 the increased number 	antonym
+ unavoidably 	  surprisingly 	other
+easy	firmly	unrelated
 transitivise	detransitivize	antonym
-only	surely	antonym
+only	surely	unrelated
 impossible	possible	antonym
 obediently	disobediently	antonym
-  yet 	 without 	antonym
-tails	 june 1993 	antonym
- absence without 	  	antonym
+  yet 	 without 	unrelated
+tails	 june 1993 	unrelated
+ absence without 	  	paraphrase
 round_down	angular	antonym
-rightfulness	left	antonym
- n-no 	  that 	antonym
-  	 no. 25 	antonym
+rightfulness	left	unrelated
 differentiated	undifferentiated	antonym
 documented	undocumented	antonym
-crease	 continues to grow 	antonym
-effective	bad	antonym
+effective	bad	unrelated
  inadequately 	  much 	antonym
 immix	defuse	antonym
 say_farewell	welcome	antonym
-  just 	 no. 	antonym
-even	likewise	antonym
-formation	 some indication 	antonym
+even	likewise	unrelated
+formation	 some indication 	unrelated
 maximum	minimum	antonym
 selfishly	unselfishly	antonym
 insincere	sincere	antonym
-productive	poor	antonym
-  therefore 	  	antonym
+productive	poor	unrelated
 unpassable	passable	antonym
-sponsor	boycott	antonym
+sponsor	boycott	other
   difficult 	 easier 	antonym
 decode	encode	antonym
-dian	 indigenous peoples ' 	antonym
 dependentce	 operational independence 	antonym
 cheap	expensive	antonym
- are n't 	  	antonym
-no	nonetheless	antonym
-  least 	 lesser 	antonym
-unspeakable	painless	antonym
-finland	germany	antonym
-fountainhead	foot	antonym
-even	wellspring	antonym
+no	nonetheless	other
+  least 	 lesser 	other
+unspeakable	painless	other
+finland	germany	category
+even	wellspring	unrelated
 unkind	kind	antonym
- -no 	  good 	antonym
- iceable 	  insignificant 	antonym
 funded	unfunded	antonym
   valid 	 invalid 	antonym
- no 	  exactly 	antonym
-sweden	switzerland	antonym
+ no 	  exactly 	unrelated
+sweden	switzerland	category
 selfishness	unselfishness	antonym
-determined	rise	antonym
+determined	rise	other
 day_school	night_school	antonym
 disreputability	reputability	antonym
 explicitly	implicitly	antonym
   impossible 	 unachievable 	antonym
-entirely	seeing	antonym
-deed	 more so 	antonym
-of_import	unimportant	antonym
+entirely	seeing	unrelated
 undergarment	overgarment	antonym
-sure	 just curious 	antonym
+sure	 just curious 	unrelated
   valid 	 vain 	antonym
- he 	  only 	antonym
+ he 	  only 	unrelated
 horizontal	vertical	antonym
-  	 refuses to 	antonym
 curdle	homogenise	antonym
-crease	 an expansion 	antonym
-duct	 keep in mind 	antonym
+duct	 keep in mind 	unrelated
 opposable	unopposable	antonym
 get_well	get_worse	antonym
 affirm	negate	antonym
-altogether	hing	antonym
-sires	 wished for 	antonym
+altogether	hing	unrelated
+desires	 wished for 	paraphrase
 necessary	unnecessary	antonym
-oeuvre	idle	antonym
-stead	 quite on the contrary 	antonym
 moderating	intensifying	antonym
 unceremoniously	ceremoniously	antonym
-gres	 educational attainment 	antonym
-  even 	 equally 	antonym
-  	 in mind 	antonym
-formation	 the details 	antonym
-risky	pretty	antonym
-ferment	 the suspension 	antonym
+  even 	 equally 	paraphrase
+risky	pretty	unrelated
 intolerable	permissible	antonym
  insufficient 	  enough 	antonym
 deficient	consummate	antonym
 congruity	incongruity	antonym
 arborescent	nonarboreal	antonym
-signing	 be elaborated 	antonym
+signing	 be elaborated 	unrelated
 man	woman	antonym
-one_and_only	huh	antonym
+one_and_only	huh	unrelated
 articulate	inarticulate	antonym
- definitely 	  only 	antonym
+ definitely 	  only 	unrelated
 anabolic	catabolic	antonym
-creaseed	 been depleted 	antonym
 inbound	outward	antonym
-imperfect	gross	antonym
+imperfect	gross	unrelated
 ambitiously	unambitiously	antonym
 precedentedly	unprecedentedly	antonym
 quetch	cheer	antonym
 capable	 legally incompetent 	antonym
   want 	 denied 	antonym
-Stanford_White	black	antonym
- unhelpful 	  necessary 	antonym
-grade	 is worsening 	antonym
-  well 	 amiss 	antonym
-greece	spain	antonym
-bit	refrain	antonym
+ unhelpful 	  necessary 	unrelated
+grade	 is worsening 	unrelated
+  well 	 amiss 	unrelated
+greece	spain	category
+bit	refrain	unrelated
 commonness	uncommonness	antonym
 untwist	twist	antonym
-as	to_a_lesser_extent	antonym
-  	 don 't 	antonym
 single-lane	multilane	antonym
- a lot 	  	antonym
-deed	 above all 	antonym
 exacting	unfastidious	antonym
 adventurous	unadventurous	antonym
-form	 some information 	antonym
-france	netherlands	antonym
+inform	 some information 	entailment
+france	netherlands	category
 necessitate	obviate	antonym
 palatably	unpalatably	antonym
 correct	 not true 	antonym
 consequence	inconsequence	antonym
 international	national	antonym
-acceptable	 are acceptable 	antonym
+acceptable	 are acceptable 	entailment
 button	unbutton	antonym
 ignoble	noble	antonym
-almost	far	antonym
-austria	italy	antonym
-austria	the netherlands	antonym
-  right 	 bad-looking 	antonym
+almost	far	unrelated
+austria	italy	category
+austria	the netherlands	category
+  right 	 bad-looking 	unrelated
 unstrap	strap	antonym
-  sufficient 	 poor 	antonym
-denmark	italy	antonym
-defecate	well	antonym
- oman 	  enough 	antonym
-blue	green	antonym
-deed	 even worse 	antonym
-necessary	 totally unfounded 	antonym
+  sufficient 	 poor 	other
+denmark	italy	category
+defecate	well	unrelated
+ oman 	  enough 	unrelated
+blue	green	category
+deed	 even worse 	unrelated
+necessary	 totally unfounded 	unrelated
 tense	 more fierce 	antonym
-signs	 the reasons 	antonym
+signs	 the reasons 	other
 ineffective	efficient	antonym
-  	 the failure 	antonym
-greece	portugal	antonym
- little 	  easily 	antonym
+greece	portugal	category
+ little 	  easily 	unrelated
 stability	 the uncertainty 	antonym
 censored	uncensored	antonym
 printable	unprintable	antonym
 husbandly	wifely	antonym
-only	alike	antonym
+only	alike	unrelated
   much 	 barely 	antonym
 germy	germfree	antonym
 collateral	lineal	antonym
 privileged	underprivileged	antonym
-gonna	sour	antonym
-discorporate	bodied	antonym
+gonna	sour	unrelated
+discorporate	bodied	unrelated
 inhibitor	activator	antonym
- awry 	  adequately 	antonym
+ awry 	  adequately 	unrelated
 leeward	windward	antonym
-sight	 information on 	antonym
- bit 	  long 	antonym
-vocation	 the remedies 	antonym
-sentence	long	antonym
-well	goodness	antonym
-creaseed	 was enhanced 	antonym
+ bit 	  long 	other
+vocation	 the remedies 	unrelated
+sentence	long	unrelated
+well	goodness	paraphrase
 anybody	nobody	antonym
  overly 	  enough 	antonym
 unconfined	confined	antonym
-tails	 the term 	antonym
+tails	 the term 	unrelated
 graduality	abruptness	antonym
   complete 	 unfinished 	antonym
-watch	discerning	antonym
+watch	discerning	unrelated
 adhesive_material	nonadhesive	antonym
 successful	unsuccessful	antonym
 allochthonous	autochthonous	antonym
-crease	 adding to 	antonym
 forte-piano	forte	antonym
-italy	netherlands	antonym
+italy	netherlands	category
 pertinence	inapplicability	antonym
   willing 	 denied 	antonym
 favorably	unfavorably	antonym
 hyperparathyroidism	hypoparathyroidism	antonym
-  merely 	 both 	antonym
-bowed	plucked	antonym
+  merely 	 both 	unrelated
+bowed	plucked	unrelated
 conservative	liberal	antonym
 deflation	inflation	antonym
-  responsible 	 accountability 	antonym
-exclusively	too	antonym
-greece	sweden	antonym
-personally	swell	antonym
+  responsible 	 accountability 	paraphrase
+greece	sweden	category
+personally	swell	unrelated
 desirable	undesirable	antonym
-punishing	easy	antonym
-austria	sweden	antonym
-netherlands	new zealand	antonym
-sight	 a clear understanding 	antonym
-none	variety	antonym
+punishing	easy	unrelated
+austria	sweden	category
+netherlands	new zealand	category
+none	variety	unrelated
 downward	upward	antonym
 meaningfulness	meaninglessness	antonym
- , even 	  	antonym
-less	gross	antonym
+less	gross	unrelated
  short 	  long 	antonym
-Rex	female_monarch	antonym
+Rex	female_monarch	unrelated
 slow	harsh	antonym
 balanced	unbalanced	antonym
 asset	liability	antonym
-usually	 of greatest 	antonym
+usually	 of greatest 	unrelated
 gratefully	ungratefully	antonym
-Eastern_Orthodox	unorthodox	antonym
-ceaseed	 has died 	antonym
-saturdays	wednesdays	antonym
+orthodox	unorthodox	antonym
+saturdays	wednesdays	category
 minimal	prominent	antonym
-fragmentary	double-dyed	antonym
+fragmentary	double-dyed	unrelated
 invulnerability	vulnerability	antonym
 inspan	outspan	antonym
 branchy	branchless	antonym
@@ -1381,272 +1267,234 @@ hotness	coldness	antonym
 fatness	leanness	antonym
 dishonestly	honestly	antonym
 finals	preliminaries	antonym
-secureity	 security and safety 	antonym
 shapely	unshapely	antonym
-put	 her contribution 	antonym
+put	 her contribution 	unrelated
 keep_track	lose_track	antonym
-germany	italy	antonym
+germany	italy	category
 clear	 very unclear 	antonym
 existent	nonexistent	antonym
 castrated	uncastrated	antonym
-driven	unspecified	antonym
-funny	half-baked	antonym
+driven	unspecified	unrelated
+funny	half-baked	other
 handleless	handled	antonym
 full-time	part-time	antonym
 irreverence	reverence	antonym
-few	well	antonym
-safe	spiteful	antonym
-  	 no such 	antonym
+few	well	unrelated
+safe	spiteful	other
 insolvent	solvent	antonym
-november	october	antonym
-  yet 	 oh 	antonym
+november	october	category
 enough	excessively	antonym
 bottle_cork	uncork	antonym
-fair_to_middling	unsatisfactory	antonym
+fair_to_middling	unsatisfactory	other
 healthy	unhealthy	antonym
-  quite 	 non 	antonym
 insight	unperceptiveness	antonym
-  impossible 	 unworkable 	antonym
+  impossible 	 unworkable 	other
 animated	unanimated	antonym
- poorly 	  much 	antonym
-good	severely	antonym
+ poorly 	  much 	other
+good	severely	unrelated
 sufficient	 not much 	antonym
  dangerous 	  safe 	antonym
-  least 	 including 	antonym
-crease	 going down 	antonym
+  least 	 including 	unrelated
 achiever	loser	antonym
-serve	 be back 	antonym
-india	indonesia	antonym
+serve	 be back 	unrelated
+india	indonesia	category
 disassociation	association	antonym
 retarded	precocious	antonym
 always	once	antonym
-rotten	right	antonym
- anything 	  much 	antonym
-wanton	dark	antonym
+rotten	right	unrelated
+ anything 	  much 	unrelated
+wanton	dark	unrelated
 brother	sister	antonym
- almost 	  completely 	antonym
+ almost 	  completely 	other
 repentantly	unrepentantly	antonym
-  	 've no 	antonym
 planned	unplanned	antonym
 obligated	unobligated	antonym
 cultivated_plant	weed	antonym
 systematically	unsystematically	antonym
 decency	indecency	antonym
- did n't 	  	antonym
-  only 	 older 	antonym
-far	snug	antonym
-tail	 a menu 	antonym
+  only 	 older 	unrelated
+tail	 a menu 	unrelated
 imperfectibility	perfectibility	antonym
- , stop 	  	antonym
-argentina	chile	antonym
-horrible	secure	antonym
-slump	crazy	antonym
-creases	 the alleviation 	antonym
- untenable 	  acceptable 	antonym
-skillful	evil	antonym
-spain	sweden	antonym
-pend	 rely upon 	antonym
-eh	rightfulness	antonym
-get_married	unmarried	antonym
+argentina	chile	category
+horrible	secure	unrelated
+slump	crazy	unrelated
+ untenable 	  acceptable 	unrelated
+skillful	evil	unrelated
+spain	sweden	category
+married	unmarried	antonym
 demythologize	mythologize	antonym
-pression	 crisis situations 	antonym
-  well 	 imperfectly 	antonym
-in_the_raw	cooked	antonym
-stances	 some circumstances 	antonym
-cur	 will require 	antonym
-  effective 	 toothless 	antonym
+  well 	 imperfectly 	unrelated
+raw	cooked	antonym
+instances	 some circumstances 	paraphrase
+  effective 	 toothless 	unrelated
 ambiguity	unambiguity	antonym
-tails	 general information 	antonym
+tails	 general information 	unrelated
 crazy	tame	antonym
 declared	undeclared	antonym
-out_of_the_question	panicky	antonym
-romania	slovakia	antonym
-folds	 has taken place 	antonym
-accredited	noncommissioned	antonym
+out_of_the_question	panicky	unrelated
+romania	slovakia	category
+folds	 has taken place 	unrelated
+accredited	noncommissioned	other
 dependentce	 country 's independence 	antonym
  deficient 	  complete 	antonym
 inferior	superior	antonym
-  even 	 however 	antonym
+  even 	 however 	unrelated
 compatibility	incompatibility	antonym
 men	women	antonym
 winged	wingless	antonym
-evil	tough	antonym
-signed	 being constructed 	antonym
-unimportant	much	antonym
+evil	tough	unrelated
+signed	 being constructed 	unrelated
+unimportant	much	unrelated
 befittingly	unsuitably	antonym
 posteriority	priority	antonym
-  	 a bit 	antonym
-no	pass_on	antonym
+no	pass_on	unrelated
 unceasing	inconstant	antonym
-czech republic	slovakia	antonym
-  receivable 	 irrelevant 	antonym
-inadequately	very	antonym
-wanted	 left out 	antonym
+czech republic	slovakia	category
+  receivable 	 irrelevant 	unrelated
+inadequately	very	unrelated
+wanted	 left out 	other
 frail	robust	antonym
-sight	 the perception 	antonym
-  possible 	 incredible 	antonym
+  possible 	 incredible 	unrelated
 thermoplastic	thermosetting	antonym
-put	 his point 	antonym
+put	 his point 	unrelated
 militarize	demilitarise	antonym
 harder	light	antonym
-  now 	 over 	antonym
-  appropriate 	 vain 	antonym
- apart 	  simply 	antonym
-scorn	admit	antonym
+  now 	 over 	unrelated
+  appropriate 	 vain 	other
+ apart 	  simply 	unrelated
+scorn	admit	other
 ametabolous	metabolic	antonym
 free_state	slave_state	antonym
 shallowness	deepness	antonym
-last	menstruation	antonym
-tails	 the items 	antonym
-  less 	 < 	antonym
-unspoiled	low	antonym
+last	menstruation	unrelated
+tails	 the items 	unrelated
+  less 	 < 	paraphrase
+unspoiled	low	unrelated
 unsnarl	snarl	antonym
-rotate	turn_in	antonym
+rotate	turn_in	other
 negative	positive	antonym
 centrality	marginality	antonym
   accurate 	 wrong 	antonym
 unacceptability	acceptability	antonym
-employment	 the figure 	antonym
-only	exclusively	antonym
-correct	 materially false 	antonym
-fered	 be postponed 	antonym
+employment	 the figure 	unrelated
+only	exclusively	paraphrase
+correct	 materially false 	other
 consciously	unconsciously	antonym
 nonproliferation	proliferation	antonym
 profitably	unprofitably	antonym
-come	 the pay 	antonym
-ireland	spain	antonym
+come	 the pay 	unrelated
+ireland	spain	category
 just	 unfair to them 	antonym
- very 	  only 	antonym
+ very 	  only 	unrelated
 neurotic_depression	psychotic_depression	antonym
-understood	ununderstood	antonym
-evening	minus	antonym
-mates	 a detainee 	antonym
-bate	 a panel 	antonym
-make_up	nonbeing	antonym
+evening	minus	unrelated
+inmates	 a detainee 	paraphrase
+bate	 a panel 	unrelated
+make_up	nonbeing	paraphrase
 high	low	antonym
-short-circuit	well	antonym
+short-circuit	well	unrelated
 adorned	unadorned	antonym
- out 	  only 	antonym
+ out 	  only 	unrelated
 maximisation	minimization	antonym
-sirableility	 the wisdom 	antonym
-every_bit	unless	antonym
+every_bit	unless	unrelated
  insufficiently 	  adequately 	antonym
-fered	 been delayed 	antonym
-  excessively 	 golly 	antonym
+defered	 been delayed 	paraphrase
+  excessively 	 golly 	unrelated
  fragmented 	  complete 	antonym
-italy	spain	antonym
 pleasantness	unpleasantness	antonym
-command_processing_overhead_time	subsurface	antonym
+command_processing_overhead_time	subsurface	other
 incredibility	credibility	antonym
-beside	Army_for_the_Liberation_of_Rwanda	antonym
-lays	 a time period 	antonym
-scribeed	 said it 	antonym
-  less 	 equitably 	antonym
- no 	  given 	antonym
+beside	Army_for_the_Liberation_of_Rwanda	unrelated
+delays	 a time period 	other
+  less 	 equitably 	unrelated
+ no 	  given 	unrelated
 fewer	a_great_deal	antonym
 exporting	importing	antonym
-bates	 a discussion 	antonym
 easy	 real difficult 	antonym
-england	scotland	antonym
-curious	n'tfunny	antonym
+england	scotland	category
+curious	n't funny	unrelated
 filial	parental	antonym
-hapy	 so nice 	antonym
-surprisingly	moderately	antonym
-pots	 their factories 	antonym
-pression	 the great depression 	antonym
-much	down_in_the_mouth	antonym
+surprisingly	moderately	other
+pots	 their factories 	unrelated
+depression	 the great depression 	entailment
+much	down_in_the_mouth	unrelated
 fixed	unfixed	antonym
-less	make_up	antonym
-  only 	 anymore 	antonym
- lojack 	  hard 	antonym
+less	make_up	unrelated
+  only 	 anymore 	unrelated
 desynchronise	synchronise	antonym
 tempered	untempered	antonym
-tended	 be used 	antonym
+tended	 be used 	unrelated
 anhydrous	hydrous	antonym
 large	small	antonym
- terrible 	  right 	antonym
-that	mighty	antonym
-ungainly	appropriate	antonym
+ terrible 	  right 	unrelated
+that	mighty	unrelated
+ungainly	appropriate	other
 unoriginality	originality	antonym
-roads	 an advance 	antonym
-question	motionlessness	antonym
-amiss	good	antonym
+roads	 an advance 	unrelated
+question	motionlessness	unrelated
+amiss	good	unrelated
 patterned	plain	antonym
-increased	lone	antonym
+increased	lone	unrelated
 bisexual	homosexual	antonym
   good 	 terrible 	antonym
 downstream	upstream	antonym
 conventionally	unconventionally	antonym
 disunion	union	antonym
 endoergic	exoergic	antonym
-put	 any contribution 	antonym
-seldom	very	antonym
- oh 	  here 	antonym
+put	 any contribution 	unrelated
+seldom	very	unrelated
 centralize	decentralize	antonym
-hokey	natural	antonym
-creaseing	 continues to increase 	antonym
+hokey	natural	other
 licitly	illicitly	antonym
-disposeed	 be busy 	antonym
-huh	just	antonym
+disposeed	 be busy 	unrelated
 thicker	thinner	antonym
- all right 	  	antonym
-tails	 the arrangement 	antonym
-capture	unsuitable	antonym
-argentina	germany	antonym
-right	tough	antonym
-sights	 intelligence information 	antonym
+tails	 the arrangement 	unrelated
+capture	unsuitable	unrelated
+argentina	germany	category
+right	tough	unrelated
+insights	 intelligence information 	paraphrase
 gracefully	ungracefully	antonym
-appropriate	 pretty unseemly 	antonym
+appropriate	 pretty unseemly 	unrelated
 leadership	following	antonym
 generic	varietal	antonym
-sireed	 tracked down 	antonym
- okay 	  true 	antonym
- alia 	  more 	antonym
-13.6	just	antonym
-collect	pull_out	antonym
+ okay 	  true 	unrelated
+ alia 	  more 	unrelated
+13.6	just	unrelated
+collect	pull_out	unrelated
 estonia	latvia	antonym
-much	nonaged	antonym
-  satisfactory 	 scarce 	antonym
+much	nonaged	unrelated
+  satisfactory 	 scarce 	other
 boy	girl	antonym
-bates	 these deliberations 	antonym
-fair	 only reasonable 	antonym
-port	 comes out 	antonym
-indefensible	rightfield	antonym
-lighted	 so happy for you 	antonym
+fair	 only reasonable 	paraphrase
+port	 comes out 	unrelated
+indefensible	rightfield	unrelated
+lighted	 so happy for you 	unrelated
 nonliteral	literal	antonym
 local	national	antonym
-come	 real income 	antonym
 daughter	son	antonym
- inadequate 	  relevant 	antonym
+ inadequate 	  relevant 	unrelated
 undershoot	overshoot	antonym
-  very 	 less 	antonym
-no	once_again	antonym
-crease	 further expanded 	antonym
+  very 	 less 	unrelated
 perfume	scentless	antonym
 judgmental	nonjudgmental	antonym
-much	short	antonym
-dreadful	good	antonym
+much	short	unrelated
+dreadful	good	other
 expert	sucky	antonym
 buy	sell	antonym
-Joseph_Black	white	antonym
-raw	appropriate	antonym
-  impossible 	 unlikely 	antonym
-weak	respectable	antonym
-pends	 do n't really know 	antonym
-scribes	 is described 	antonym
-sirous	 those hopes 	antonym
-slovenia	spain	antonym
-get_around	keep	antonym
+Joseph_Black	white	unrelated
+raw	appropriate	unrelated
+  impossible 	 unlikely 	paraphrase
+weak	respectable	unrelated
+slovenia	spain	category
+get_around	keep	unrelated
 divisible	indivisible	antonym
 supporting	discouraging	antonym
 dematerialise	materialise	antonym
-brilliant	lawful	antonym
+brilliant	lawful	unrelated
 usual	 highly unusual 	antonym
 interestingness	uninterestingness	antonym
-comfortably	quite	antonym
-prior	belated	antonym
- unexceptable 	  acceptable 	antonym
+comfortably	quite	unrelated
+prior	belated	unrelated
+ unexceptable 	  acceptable 	unrelated
 children	mothers	antonym
-ions	 union dues 	antonym
-less	have	antonym
-	meanspirited	antonym
+less	have	unrelated

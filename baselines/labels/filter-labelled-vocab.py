@@ -19,7 +19,7 @@ for antfile in input_files:
 	num_lines = 300
 	count = 0
 
-	new_name = os.path.basename(antfile) + '.out'
+	new_name = os.path.basename(antfile) + '.filtered.out'
 	f2 = open(new_name, 'w')
 		
 	f = open(antfile, 'r')
